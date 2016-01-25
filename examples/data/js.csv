@@ -1,0 +1,3521 @@
+Column,Set,Benchmark,Result
+Cortex-A53,"Baseline (r31252)",asmjs-apps-box2d-loadtime,5890
+Cortex-A53,"Baseline (r31252)",asmjs-apps-box2d-throughput,23754
+Cortex-A53,"Baseline (r31252)",asmjs-apps-bullet-loadtime,17146
+Cortex-A53,"Baseline (r31252)",asmjs-apps-bullet-throughput,37383
+Cortex-A53,"Baseline (r31252)",asmjs-apps-lua_binarytrees-loadtime,4070
+Cortex-A53,"Baseline (r31252)",asmjs-apps-lua_binarytrees-throughput,26707
+Cortex-A53,"Baseline (r31252)",asmjs-apps-zlib-loadtime,3583
+Cortex-A53,"Baseline (r31252)",asmjs-apps-zlib-throughput,17459
+Cortex-A53,"Baseline (r31252)",asmjs-apps-box2d-loadtime,5799
+Cortex-A53,"Baseline (r31252)",asmjs-apps-box2d-throughput,24097
+Cortex-A53,"Baseline (r31252)",asmjs-apps-bullet-loadtime,17168
+Cortex-A53,"Baseline (r31252)",asmjs-apps-bullet-throughput,37202
+Cortex-A53,"Baseline (r31252)",asmjs-apps-lua_binarytrees-loadtime,4040
+Cortex-A53,"Baseline (r31252)",asmjs-apps-lua_binarytrees-throughput,26968
+Cortex-A53,"Baseline (r31252)",asmjs-apps-zlib-loadtime,3578
+Cortex-A53,"Baseline (r31252)",asmjs-apps-zlib-throughput,17471
+Cortex-A53,"Baseline (r31252)",asmjs-apps-box2d-loadtime,5782
+Cortex-A53,"Baseline (r31252)",asmjs-apps-box2d-throughput,23805
+Cortex-A53,"Baseline (r31252)",asmjs-apps-bullet-loadtime,17139
+Cortex-A53,"Baseline (r31252)",asmjs-apps-bullet-throughput,37216
+Cortex-A53,"Baseline (r31252)",asmjs-apps-lua_binarytrees-loadtime,4041
+Cortex-A53,"Baseline (r31252)",asmjs-apps-lua_binarytrees-throughput,26948
+Cortex-A53,"Baseline (r31252)",asmjs-apps-zlib-loadtime,3583
+Cortex-A53,"Baseline (r31252)",asmjs-apps-zlib-throughput,17445
+Cortex-A53,"Baseline (r31252)",asmjs-apps-box2d-loadtime,5651
+Cortex-A53,"Baseline (r31252)",asmjs-apps-box2d-throughput,23650
+Cortex-A53,"Baseline (r31252)",asmjs-apps-bullet-loadtime,17222
+Cortex-A53,"Baseline (r31252)",asmjs-apps-bullet-throughput,37689
+Cortex-A53,"Baseline (r31252)",asmjs-apps-lua_binarytrees-loadtime,4068
+Cortex-A53,"Baseline (r31252)",asmjs-apps-lua_binarytrees-throughput,26662
+Cortex-A53,"Baseline (r31252)",asmjs-apps-zlib-loadtime,3584
+Cortex-A53,"Baseline (r31252)",asmjs-apps-zlib-throughput,17449
+Cortex-A53,"Baseline (r31252)",asmjs-apps-box2d-loadtime,5629
+Cortex-A53,"Baseline (r31252)",asmjs-apps-box2d-throughput,23690
+Cortex-A53,"Baseline (r31252)",asmjs-apps-bullet-loadtime,17140
+Cortex-A53,"Baseline (r31252)",asmjs-apps-bullet-throughput,37266
+Cortex-A53,"Baseline (r31252)",asmjs-apps-lua_binarytrees-loadtime,4042
+Cortex-A53,"Baseline (r31252)",asmjs-apps-lua_binarytrees-throughput,26997
+Cortex-A53,"Baseline (r31252)",asmjs-apps-zlib-loadtime,3587
+Cortex-A53,"Baseline (r31252)",asmjs-apps-zlib-throughput,17500
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-copy,32513
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-corrections,33827
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-fannkuch,32080
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-fasta,86901
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-life,49937
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-memops,86379
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-primes,37466
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-skinning,172148
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-copy,32460
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-corrections,33954
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-fannkuch,32092
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-fasta,86903
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-life,49940
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-memops,86642
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-primes,37464
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-skinning,172773
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-copy,32523
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-corrections,33824
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-fannkuch,32070
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-fasta,86909
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-life,49971
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-memops,86248
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-primes,37463
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-skinning,172208
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-copy,32403
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-corrections,33826
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-fannkuch,32068
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-fasta,86901
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-life,49924
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-memops,87116
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-primes,37465
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-skinning,172763
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-copy,32403
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-corrections,33824
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-fannkuch,32072
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-fasta,87058
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-life,49943
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-memops,87218
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-primes,37462
+Cortex-A53,"Baseline (r31252)",asmjs-ubench-skinning,172575
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-bigfib,4660
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-container,28239
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-dry,6021
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-float-mm,9845
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-gcc-loops,47086
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-n-body,12731
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-quicksort,2496
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-towers,3732
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-bigfib,4663
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-container,28302
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-dry,6022
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-float-mm,9845
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-gcc-loops,47150
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-n-body,12730
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-quicksort,2494
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-towers,3731
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-bigfib,4649
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-container,28257
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-dry,6022
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-float-mm,9844
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-gcc-loops,47190
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-n-body,12730
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-quicksort,2673
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-towers,3908
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-bigfib,5109
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-container,28134
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-dry,6196
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-float-mm,9844
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-gcc-loops,46800
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-n-body,12905
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-quicksort,2495
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-towers,3888
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-bigfib,4661
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-container,28300
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-dry,6022
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-float-mm,9846
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-gcc-loops,47112
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-n-body,12730
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-quicksort,2495
+Cortex-A53,"Baseline (r31252)",jetstream-asmjs-towers,3740
+Cortex-A53,"Baseline (r31252)",kraken-ai-astar,2040
+Cortex-A53,"Baseline (r31252)",kraken-audio-beat-detection,982
+Cortex-A53,"Baseline (r31252)",kraken-audio-dft,3265
+Cortex-A53,"Baseline (r31252)",kraken-audio-fft,628
+Cortex-A53,"Baseline (r31252)",kraken-audio-oscillator,534
+Cortex-A53,"Baseline (r31252)",kraken-imaging-gaussian-blur,1229
+Cortex-A53,"Baseline (r31252)",kraken-imaging-darkroom,1245
+Cortex-A53,"Baseline (r31252)",kraken-imaging-desaturate,1097
+Cortex-A53,"Baseline (r31252)",kraken-json-parse-financial,507
+Cortex-A53,"Baseline (r31252)",kraken-json-stringify-tinderbox,259
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-aes,656
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-ccm,1027
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-pbkdf2,1122
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-sha256-iterative,452
+Cortex-A53,"Baseline (r31252)",kraken-ai-astar,2030
+Cortex-A53,"Baseline (r31252)",kraken-audio-beat-detection,979
+Cortex-A53,"Baseline (r31252)",kraken-audio-dft,3269
+Cortex-A53,"Baseline (r31252)",kraken-audio-fft,628
+Cortex-A53,"Baseline (r31252)",kraken-audio-oscillator,533
+Cortex-A53,"Baseline (r31252)",kraken-imaging-gaussian-blur,1229
+Cortex-A53,"Baseline (r31252)",kraken-imaging-darkroom,1244
+Cortex-A53,"Baseline (r31252)",kraken-imaging-desaturate,1101
+Cortex-A53,"Baseline (r31252)",kraken-json-parse-financial,503
+Cortex-A53,"Baseline (r31252)",kraken-json-stringify-tinderbox,259
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-aes,666
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-ccm,1020
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-pbkdf2,1105
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-sha256-iterative,451
+Cortex-A53,"Baseline (r31252)",kraken-ai-astar,2035
+Cortex-A53,"Baseline (r31252)",kraken-audio-beat-detection,969
+Cortex-A53,"Baseline (r31252)",kraken-audio-dft,3252
+Cortex-A53,"Baseline (r31252)",kraken-audio-fft,628
+Cortex-A53,"Baseline (r31252)",kraken-audio-oscillator,533
+Cortex-A53,"Baseline (r31252)",kraken-imaging-gaussian-blur,1230
+Cortex-A53,"Baseline (r31252)",kraken-imaging-darkroom,1247
+Cortex-A53,"Baseline (r31252)",kraken-imaging-desaturate,1099
+Cortex-A53,"Baseline (r31252)",kraken-json-parse-financial,509
+Cortex-A53,"Baseline (r31252)",kraken-json-stringify-tinderbox,261
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-aes,656
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-ccm,1010
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-pbkdf2,1119
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-sha256-iterative,451
+Cortex-A53,"Baseline (r31252)",kraken-ai-astar,2033
+Cortex-A53,"Baseline (r31252)",kraken-audio-beat-detection,933
+Cortex-A53,"Baseline (r31252)",kraken-audio-dft,3247
+Cortex-A53,"Baseline (r31252)",kraken-audio-fft,627
+Cortex-A53,"Baseline (r31252)",kraken-audio-oscillator,532
+Cortex-A53,"Baseline (r31252)",kraken-imaging-gaussian-blur,1229
+Cortex-A53,"Baseline (r31252)",kraken-imaging-darkroom,1246
+Cortex-A53,"Baseline (r31252)",kraken-imaging-desaturate,1099
+Cortex-A53,"Baseline (r31252)",kraken-json-parse-financial,506
+Cortex-A53,"Baseline (r31252)",kraken-json-stringify-tinderbox,261
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-aes,644
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-ccm,1031
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-pbkdf2,1138
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-sha256-iterative,453
+Cortex-A53,"Baseline (r31252)",kraken-ai-astar,2039
+Cortex-A53,"Baseline (r31252)",kraken-audio-beat-detection,975
+Cortex-A53,"Baseline (r31252)",kraken-audio-dft,3224
+Cortex-A53,"Baseline (r31252)",kraken-audio-fft,627
+Cortex-A53,"Baseline (r31252)",kraken-audio-oscillator,532
+Cortex-A53,"Baseline (r31252)",kraken-imaging-gaussian-blur,1229
+Cortex-A53,"Baseline (r31252)",kraken-imaging-darkroom,1243
+Cortex-A53,"Baseline (r31252)",kraken-imaging-desaturate,1101
+Cortex-A53,"Baseline (r31252)",kraken-json-parse-financial,507
+Cortex-A53,"Baseline (r31252)",kraken-json-stringify-tinderbox,260
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-aes,657
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-ccm,1030
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-pbkdf2,1100
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-sha256-iterative,454
+Cortex-A53,"Baseline (r31252)",kraken-ai-astar,2031
+Cortex-A53,"Baseline (r31252)",kraken-audio-beat-detection,983
+Cortex-A53,"Baseline (r31252)",kraken-audio-dft,3228
+Cortex-A53,"Baseline (r31252)",kraken-audio-fft,628
+Cortex-A53,"Baseline (r31252)",kraken-audio-oscillator,533
+Cortex-A53,"Baseline (r31252)",kraken-imaging-gaussian-blur,1229
+Cortex-A53,"Baseline (r31252)",kraken-imaging-darkroom,1244
+Cortex-A53,"Baseline (r31252)",kraken-imaging-desaturate,1104
+Cortex-A53,"Baseline (r31252)",kraken-json-parse-financial,512
+Cortex-A53,"Baseline (r31252)",kraken-json-stringify-tinderbox,261
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-aes,650
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-ccm,1034
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-pbkdf2,1118
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-sha256-iterative,452
+Cortex-A53,"Baseline (r31252)",kraken-ai-astar,2033
+Cortex-A53,"Baseline (r31252)",kraken-audio-beat-detection,975
+Cortex-A53,"Baseline (r31252)",kraken-audio-dft,3263
+Cortex-A53,"Baseline (r31252)",kraken-audio-fft,628
+Cortex-A53,"Baseline (r31252)",kraken-audio-oscillator,533
+Cortex-A53,"Baseline (r31252)",kraken-imaging-gaussian-blur,1229
+Cortex-A53,"Baseline (r31252)",kraken-imaging-darkroom,1243
+Cortex-A53,"Baseline (r31252)",kraken-imaging-desaturate,1099
+Cortex-A53,"Baseline (r31252)",kraken-json-parse-financial,513
+Cortex-A53,"Baseline (r31252)",kraken-json-stringify-tinderbox,261
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-aes,659
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-ccm,1024
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-pbkdf2,1110
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-sha256-iterative,453
+Cortex-A53,"Baseline (r31252)",kraken-ai-astar,2035
+Cortex-A53,"Baseline (r31252)",kraken-audio-beat-detection,982
+Cortex-A53,"Baseline (r31252)",kraken-audio-dft,3249
+Cortex-A53,"Baseline (r31252)",kraken-audio-fft,627
+Cortex-A53,"Baseline (r31252)",kraken-audio-oscillator,534
+Cortex-A53,"Baseline (r31252)",kraken-imaging-gaussian-blur,1229
+Cortex-A53,"Baseline (r31252)",kraken-imaging-darkroom,1244
+Cortex-A53,"Baseline (r31252)",kraken-imaging-desaturate,1101
+Cortex-A53,"Baseline (r31252)",kraken-json-parse-financial,509
+Cortex-A53,"Baseline (r31252)",kraken-json-stringify-tinderbox,260
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-aes,648
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-ccm,1014
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-pbkdf2,1104
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-sha256-iterative,451
+Cortex-A53,"Baseline (r31252)",kraken-ai-astar,2038
+Cortex-A53,"Baseline (r31252)",kraken-audio-beat-detection,933
+Cortex-A53,"Baseline (r31252)",kraken-audio-dft,3274
+Cortex-A53,"Baseline (r31252)",kraken-audio-fft,628
+Cortex-A53,"Baseline (r31252)",kraken-audio-oscillator,534
+Cortex-A53,"Baseline (r31252)",kraken-imaging-gaussian-blur,1229
+Cortex-A53,"Baseline (r31252)",kraken-imaging-darkroom,1247
+Cortex-A53,"Baseline (r31252)",kraken-imaging-desaturate,1099
+Cortex-A53,"Baseline (r31252)",kraken-json-parse-financial,511
+Cortex-A53,"Baseline (r31252)",kraken-json-stringify-tinderbox,261
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-aes,666
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-ccm,1027
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-pbkdf2,1110
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-sha256-iterative,455
+Cortex-A53,"Baseline (r31252)",kraken-ai-astar,2037
+Cortex-A53,"Baseline (r31252)",kraken-audio-beat-detection,983
+Cortex-A53,"Baseline (r31252)",kraken-audio-dft,3245
+Cortex-A53,"Baseline (r31252)",kraken-audio-fft,628
+Cortex-A53,"Baseline (r31252)",kraken-audio-oscillator,533
+Cortex-A53,"Baseline (r31252)",kraken-imaging-gaussian-blur,1229
+Cortex-A53,"Baseline (r31252)",kraken-imaging-darkroom,1244
+Cortex-A53,"Baseline (r31252)",kraken-imaging-desaturate,1098
+Cortex-A53,"Baseline (r31252)",kraken-json-parse-financial,504
+Cortex-A53,"Baseline (r31252)",kraken-json-stringify-tinderbox,259
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-aes,645
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-ccm,1025
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-pbkdf2,1105
+Cortex-A53,"Baseline (r31252)",kraken-stanford-crypto-sha256-iterative,451
+Cortex-A53,"Baseline (r31252)",octane-Richards,2330
+Cortex-A53,"Baseline (r31252)",octane-DeltaBlue,3474
+Cortex-A53,"Baseline (r31252)",octane-Crypto,2503
+Cortex-A53,"Baseline (r31252)",octane-RayTrace,4366
+Cortex-A53,"Baseline (r31252)",octane-EarleyBoyer,3296
+Cortex-A53,"Baseline (r31252)",octane-RegExp,391
+Cortex-A53,"Baseline (r31252)",octane-Splay,591
+Cortex-A53,"Baseline (r31252)",octane-SplayLatency,3904
+Cortex-A53,"Baseline (r31252)",octane-NavierStokes,2857
+Cortex-A53,"Baseline (r31252)",octane-PdfJS,1454
+Cortex-A53,"Baseline (r31252)",octane-Mandreel,1592
+Cortex-A53,"Baseline (r31252)",octane-MandreelLatency,3551
+Cortex-A53,"Baseline (r31252)",octane-Gameboy,3479
+Cortex-A53,"Baseline (r31252)",octane-CodeLoad,1673
+Cortex-A53,"Baseline (r31252)",octane-Box2D,2260
+Cortex-A53,"Baseline (r31252)",octane-zlib,5193
+Cortex-A53,"Baseline (r31252)",octane-Typescript,2250
+Cortex-A53,"Baseline (r31252)","octane-Score (version 9)",2247
+Cortex-A53,"Baseline (r31252)",octane-Richards,2328
+Cortex-A53,"Baseline (r31252)",octane-DeltaBlue,3570
+Cortex-A53,"Baseline (r31252)",octane-Crypto,2522
+Cortex-A53,"Baseline (r31252)",octane-RayTrace,4435
+Cortex-A53,"Baseline (r31252)",octane-EarleyBoyer,3295
+Cortex-A53,"Baseline (r31252)",octane-RegExp,394
+Cortex-A53,"Baseline (r31252)",octane-Splay,600
+Cortex-A53,"Baseline (r31252)",octane-SplayLatency,3995
+Cortex-A53,"Baseline (r31252)",octane-NavierStokes,2854
+Cortex-A53,"Baseline (r31252)",octane-PdfJS,1434
+Cortex-A53,"Baseline (r31252)",octane-Mandreel,1726
+Cortex-A53,"Baseline (r31252)",octane-MandreelLatency,3922
+Cortex-A53,"Baseline (r31252)",octane-Gameboy,3563
+Cortex-A53,"Baseline (r31252)",octane-CodeLoad,1667
+Cortex-A53,"Baseline (r31252)",octane-Box2D,2253
+Cortex-A53,"Baseline (r31252)",octane-zlib,5189
+Cortex-A53,"Baseline (r31252)",octane-Typescript,2255
+Cortex-A53,"Baseline (r31252)","octane-Score (version 9)",2284
+Cortex-A53,"Baseline (r31252)",octane-Richards,2333
+Cortex-A53,"Baseline (r31252)",octane-DeltaBlue,3554
+Cortex-A53,"Baseline (r31252)",octane-Crypto,2489
+Cortex-A53,"Baseline (r31252)",octane-RayTrace,4392
+Cortex-A53,"Baseline (r31252)",octane-EarleyBoyer,3302
+Cortex-A53,"Baseline (r31252)",octane-RegExp,391
+Cortex-A53,"Baseline (r31252)",octane-Splay,610
+Cortex-A53,"Baseline (r31252)",octane-SplayLatency,3974
+Cortex-A53,"Baseline (r31252)",octane-NavierStokes,2857
+Cortex-A53,"Baseline (r31252)",octane-PdfJS,1437
+Cortex-A53,"Baseline (r31252)",octane-Mandreel,1606
+Cortex-A53,"Baseline (r31252)",octane-MandreelLatency,3558
+Cortex-A53,"Baseline (r31252)",octane-Gameboy,3527
+Cortex-A53,"Baseline (r31252)",octane-CodeLoad,1666
+Cortex-A53,"Baseline (r31252)",octane-Box2D,2254
+Cortex-A53,"Baseline (r31252)",octane-zlib,5191
+Cortex-A53,"Baseline (r31252)",octane-Typescript,2282
+Cortex-A53,"Baseline (r31252)","octane-Score (version 9)",2260
+Cortex-A53,"Baseline (r31252)",octane-Richards,2326
+Cortex-A53,"Baseline (r31252)",octane-DeltaBlue,3448
+Cortex-A53,"Baseline (r31252)",octane-Crypto,2525
+Cortex-A53,"Baseline (r31252)",octane-RayTrace,4474
+Cortex-A53,"Baseline (r31252)",octane-EarleyBoyer,3307
+Cortex-A53,"Baseline (r31252)",octane-RegExp,390
+Cortex-A53,"Baseline (r31252)",octane-Splay,608
+Cortex-A53,"Baseline (r31252)",octane-SplayLatency,3942
+Cortex-A53,"Baseline (r31252)",octane-NavierStokes,2854
+Cortex-A53,"Baseline (r31252)",octane-PdfJS,1451
+Cortex-A53,"Baseline (r31252)",octane-Mandreel,1597
+Cortex-A53,"Baseline (r31252)",octane-MandreelLatency,3574
+Cortex-A53,"Baseline (r31252)",octane-Gameboy,3533
+Cortex-A53,"Baseline (r31252)",octane-CodeLoad,1667
+Cortex-A53,"Baseline (r31252)",octane-Box2D,2254
+Cortex-A53,"Baseline (r31252)",octane-zlib,5193
+Cortex-A53,"Baseline (r31252)",octane-Typescript,2274
+Cortex-A53,"Baseline (r31252)","octane-Score (version 9)",2259
+Cortex-A53,"Baseline (r31252)",octane-Richards,2330
+Cortex-A53,"Baseline (r31252)",octane-DeltaBlue,3498
+Cortex-A53,"Baseline (r31252)",octane-Crypto,2513
+Cortex-A53,"Baseline (r31252)",octane-RayTrace,4383
+Cortex-A53,"Baseline (r31252)",octane-EarleyBoyer,3289
+Cortex-A53,"Baseline (r31252)",octane-RegExp,391
+Cortex-A53,"Baseline (r31252)",octane-Splay,605
+Cortex-A53,"Baseline (r31252)",octane-SplayLatency,3884
+Cortex-A53,"Baseline (r31252)",octane-NavierStokes,2859
+Cortex-A53,"Baseline (r31252)",octane-PdfJS,1444
+Cortex-A53,"Baseline (r31252)",octane-Mandreel,1604
+Cortex-A53,"Baseline (r31252)",octane-MandreelLatency,3597
+Cortex-A53,"Baseline (r31252)",octane-Gameboy,3530
+Cortex-A53,"Baseline (r31252)",octane-CodeLoad,1666
+Cortex-A53,"Baseline (r31252)",octane-Box2D,2250
+Cortex-A53,"Baseline (r31252)",octane-zlib,5164
+Cortex-A53,"Baseline (r31252)",octane-Typescript,2248
+Cortex-A53,"Baseline (r31252)","octane-Score (version 9)",2253
+Cortex-A53,"Baseline (r31252)",octane-Richards,2331
+Cortex-A53,"Baseline (r31252)",octane-DeltaBlue,3531
+Cortex-A53,"Baseline (r31252)",octane-Crypto,2533
+Cortex-A53,"Baseline (r31252)",octane-RayTrace,4496
+Cortex-A53,"Baseline (r31252)",octane-EarleyBoyer,3314
+Cortex-A53,"Baseline (r31252)",octane-RegExp,392
+Cortex-A53,"Baseline (r31252)",octane-Splay,618
+Cortex-A53,"Baseline (r31252)",octane-SplayLatency,3956
+Cortex-A53,"Baseline (r31252)",octane-NavierStokes,2854
+Cortex-A53,"Baseline (r31252)",octane-PdfJS,1441
+Cortex-A53,"Baseline (r31252)",octane-Mandreel,1729
+Cortex-A53,"Baseline (r31252)",octane-MandreelLatency,3916
+Cortex-A53,"Baseline (r31252)",octane-Gameboy,3568
+Cortex-A53,"Baseline (r31252)",octane-CodeLoad,1656
+Cortex-A53,"Baseline (r31252)",octane-Box2D,2180
+Cortex-A53,"Baseline (r31252)",octane-zlib,5191
+Cortex-A53,"Baseline (r31252)",octane-Typescript,2258
+Cortex-A53,"Baseline (r31252)","octane-Score (version 9)",2284
+Cortex-A53,"Baseline (r31252)",octane-Richards,2305
+Cortex-A53,"Baseline (r31252)",octane-DeltaBlue,3540
+Cortex-A53,"Baseline (r31252)",octane-Crypto,2512
+Cortex-A53,"Baseline (r31252)",octane-RayTrace,4456
+Cortex-A53,"Baseline (r31252)",octane-EarleyBoyer,3281
+Cortex-A53,"Baseline (r31252)",octane-RegExp,376
+Cortex-A53,"Baseline (r31252)",octane-Splay,644
+Cortex-A53,"Baseline (r31252)",octane-SplayLatency,3422
+Cortex-A53,"Baseline (r31252)",octane-NavierStokes,2857
+Cortex-A53,"Baseline (r31252)",octane-PdfJS,1408
+Cortex-A53,"Baseline (r31252)",octane-Mandreel,1711
+Cortex-A53,"Baseline (r31252)",octane-MandreelLatency,3886
+Cortex-A53,"Baseline (r31252)",octane-Gameboy,3521
+Cortex-A53,"Baseline (r31252)",octane-CodeLoad,1576
+Cortex-A53,"Baseline (r31252)",octane-Box2D,2173
+Cortex-A53,"Baseline (r31252)",octane-zlib,5185
+Cortex-A53,"Baseline (r31252)",octane-Typescript,2248
+Cortex-A53,"Baseline (r31252)","octane-Score (version 9)",2245
+Cortex-A53,"Baseline (r31252)",octane-Richards,2330
+Cortex-A53,"Baseline (r31252)",octane-DeltaBlue,3551
+Cortex-A53,"Baseline (r31252)",octane-Crypto,2530
+Cortex-A53,"Baseline (r31252)",octane-RayTrace,4465
+Cortex-A53,"Baseline (r31252)",octane-EarleyBoyer,3276
+Cortex-A53,"Baseline (r31252)",octane-RegExp,393
+Cortex-A53,"Baseline (r31252)",octane-Splay,619
+Cortex-A53,"Baseline (r31252)",octane-SplayLatency,4366
+Cortex-A53,"Baseline (r31252)",octane-NavierStokes,2857
+Cortex-A53,"Baseline (r31252)",octane-PdfJS,1375
+Cortex-A53,"Baseline (r31252)",octane-Mandreel,1726
+Cortex-A53,"Baseline (r31252)",octane-MandreelLatency,3800
+Cortex-A53,"Baseline (r31252)",octane-Gameboy,3562
+Cortex-A53,"Baseline (r31252)",octane-CodeLoad,1663
+Cortex-A53,"Baseline (r31252)",octane-Box2D,2213
+Cortex-A53,"Baseline (r31252)",octane-zlib,5178
+Cortex-A53,"Baseline (r31252)",octane-Typescript,2242
+Cortex-A53,"Baseline (r31252)","octane-Score (version 9)",2286
+Cortex-A53,"Baseline (r31252)",octane-Richards,2337
+Cortex-A53,"Baseline (r31252)",octane-DeltaBlue,3537
+Cortex-A53,"Baseline (r31252)",octane-Crypto,2518
+Cortex-A53,"Baseline (r31252)",octane-RayTrace,4370
+Cortex-A53,"Baseline (r31252)",octane-EarleyBoyer,3303
+Cortex-A53,"Baseline (r31252)",octane-RegExp,388
+Cortex-A53,"Baseline (r31252)",octane-Splay,582
+Cortex-A53,"Baseline (r31252)",octane-SplayLatency,3844
+Cortex-A53,"Baseline (r31252)",octane-NavierStokes,2851
+Cortex-A53,"Baseline (r31252)",octane-PdfJS,1455
+Cortex-A53,"Baseline (r31252)",octane-Mandreel,1720
+Cortex-A53,"Baseline (r31252)",octane-MandreelLatency,3898
+Cortex-A53,"Baseline (r31252)",octane-Gameboy,3577
+Cortex-A53,"Baseline (r31252)",octane-CodeLoad,1668
+Cortex-A53,"Baseline (r31252)",octane-Box2D,2252
+Cortex-A53,"Baseline (r31252)",octane-zlib,5188
+Cortex-A53,"Baseline (r31252)",octane-Typescript,2269
+Cortex-A53,"Baseline (r31252)","octane-Score (version 9)",2272
+Cortex-A53,"Baseline (r31252)",octane-Richards,2305
+Cortex-A53,"Baseline (r31252)",octane-DeltaBlue,3584
+Cortex-A53,"Baseline (r31252)",octane-Crypto,2523
+Cortex-A53,"Baseline (r31252)",octane-RayTrace,4409
+Cortex-A53,"Baseline (r31252)",octane-EarleyBoyer,3312
+Cortex-A53,"Baseline (r31252)",octane-RegExp,390
+Cortex-A53,"Baseline (r31252)",octane-Splay,610
+Cortex-A53,"Baseline (r31252)",octane-SplayLatency,3924
+Cortex-A53,"Baseline (r31252)",octane-NavierStokes,2854
+Cortex-A53,"Baseline (r31252)",octane-PdfJS,1434
+Cortex-A53,"Baseline (r31252)",octane-Mandreel,1601
+Cortex-A53,"Baseline (r31252)",octane-MandreelLatency,3566
+Cortex-A53,"Baseline (r31252)",octane-Gameboy,3534
+Cortex-A53,"Baseline (r31252)",octane-CodeLoad,1671
+Cortex-A53,"Baseline (r31252)",octane-Box2D,2256
+Cortex-A53,"Baseline (r31252)",octane-zlib,5192
+Cortex-A53,"Baseline (r31252)",octane-Typescript,2275
+Cortex-A53,"Baseline (r31252)","octane-Score (version 9)",2260
+Cortex-A53,"Baseline (r31252)",octane-Richards,2331
+Cortex-A53,"Baseline (r31252)",octane-DeltaBlue,3501
+Cortex-A53,"Baseline (r31252)",octane-Crypto,2506
+Cortex-A53,"Baseline (r31252)",octane-RayTrace,4392
+Cortex-A53,"Baseline (r31252)",octane-EarleyBoyer,3313
+Cortex-A53,"Baseline (r31252)",octane-RegExp,393
+Cortex-A53,"Baseline (r31252)",octane-Splay,609
+Cortex-A53,"Baseline (r31252)",octane-SplayLatency,3995
+Cortex-A53,"Baseline (r31252)",octane-NavierStokes,2854
+Cortex-A53,"Baseline (r31252)",octane-PdfJS,1531
+Cortex-A53,"Baseline (r31252)",octane-Mandreel,1709
+Cortex-A53,"Baseline (r31252)",octane-MandreelLatency,3895
+Cortex-A53,"Baseline (r31252)",octane-Gameboy,3550
+Cortex-A53,"Baseline (r31252)",octane-CodeLoad,1669
+Cortex-A53,"Baseline (r31252)",octane-Box2D,2256
+Cortex-A53,"Baseline (r31252)",octane-zlib,5166
+Cortex-A53,"Baseline (r31252)",octane-Typescript,2226
+Cortex-A53,"Baseline (r31252)","octane-Score (version 9)",2286
+Cortex-A53,"Baseline (r31252)",octane-Richards,2326
+Cortex-A53,"Baseline (r31252)",octane-DeltaBlue,3494
+Cortex-A53,"Baseline (r31252)",octane-Crypto,2527
+Cortex-A53,"Baseline (r31252)",octane-RayTrace,4440
+Cortex-A53,"Baseline (r31252)",octane-EarleyBoyer,3314
+Cortex-A53,"Baseline (r31252)",octane-RegExp,389
+Cortex-A53,"Baseline (r31252)",octane-Splay,615
+Cortex-A53,"Baseline (r31252)",octane-SplayLatency,3929
+Cortex-A53,"Baseline (r31252)",octane-NavierStokes,2857
+Cortex-A53,"Baseline (r31252)",octane-PdfJS,1451
+Cortex-A53,"Baseline (r31252)",octane-Mandreel,1724
+Cortex-A53,"Baseline (r31252)",octane-MandreelLatency,3886
+Cortex-A53,"Baseline (r31252)",octane-Gameboy,3568
+Cortex-A53,"Baseline (r31252)",octane-CodeLoad,1669
+Cortex-A53,"Baseline (r31252)",octane-Box2D,2349
+Cortex-A53,"Baseline (r31252)",octane-zlib,5166
+Cortex-A53,"Baseline (r31252)",octane-Typescript,2261
+Cortex-A53,"Baseline (r31252)","octane-Score (version 9)",2288
+Cortex-A53,"Baseline (r31252)",octane-Richards,2303
+Cortex-A53,"Baseline (r31252)",octane-DeltaBlue,3531
+Cortex-A53,"Baseline (r31252)",octane-Crypto,2535
+Cortex-A53,"Baseline (r31252)",octane-RayTrace,4422
+Cortex-A53,"Baseline (r31252)",octane-EarleyBoyer,3295
+Cortex-A53,"Baseline (r31252)",octane-RegExp,383
+Cortex-A53,"Baseline (r31252)",octane-Splay,618
+Cortex-A53,"Baseline (r31252)",octane-SplayLatency,4300
+Cortex-A53,"Baseline (r31252)",octane-NavierStokes,2859
+Cortex-A53,"Baseline (r31252)",octane-PdfJS,1410
+Cortex-A53,"Baseline (r31252)",octane-Mandreel,1715
+Cortex-A53,"Baseline (r31252)",octane-MandreelLatency,3870
+Cortex-A53,"Baseline (r31252)",octane-Gameboy,3564
+Cortex-A53,"Baseline (r31252)",octane-CodeLoad,1653
+Cortex-A53,"Baseline (r31252)",octane-Box2D,2203
+Cortex-A53,"Baseline (r31252)",octane-zlib,5190
+Cortex-A53,"Baseline (r31252)",octane-Typescript,2255
+Cortex-A53,"Baseline (r31252)","octane-Score (version 9)",2283
+Cortex-A53,"Baseline (r31252)",octane-Richards,2326
+Cortex-A53,"Baseline (r31252)",octane-DeltaBlue,3580
+Cortex-A53,"Baseline (r31252)",octane-Crypto,2507
+Cortex-A53,"Baseline (r31252)",octane-RayTrace,4396
+Cortex-A53,"Baseline (r31252)",octane-EarleyBoyer,3299
+Cortex-A53,"Baseline (r31252)",octane-RegExp,393
+Cortex-A53,"Baseline (r31252)",octane-Splay,612
+Cortex-A53,"Baseline (r31252)",octane-SplayLatency,3900
+Cortex-A53,"Baseline (r31252)",octane-NavierStokes,2857
+Cortex-A53,"Baseline (r31252)",octane-PdfJS,1455
+Cortex-A53,"Baseline (r31252)",octane-Mandreel,1599
+Cortex-A53,"Baseline (r31252)",octane-MandreelLatency,3592
+Cortex-A53,"Baseline (r31252)",octane-Gameboy,3494
+Cortex-A53,"Baseline (r31252)",octane-CodeLoad,1663
+Cortex-A53,"Baseline (r31252)",octane-Box2D,2128
+Cortex-A53,"Baseline (r31252)",octane-zlib,5142
+Cortex-A53,"Baseline (r31252)",octane-Typescript,2276
+Cortex-A53,"Baseline (r31252)","octane-Score (version 9)",2251
+Cortex-A53,"Baseline (r31252)",octane-Richards,2331
+Cortex-A53,"Baseline (r31252)",octane-DeltaBlue,3547
+Cortex-A53,"Baseline (r31252)",octane-Crypto,2523
+Cortex-A53,"Baseline (r31252)",octane-RayTrace,4344
+Cortex-A53,"Baseline (r31252)",octane-EarleyBoyer,3310
+Cortex-A53,"Baseline (r31252)",octane-RegExp,393
+Cortex-A53,"Baseline (r31252)",octane-Splay,614
+Cortex-A53,"Baseline (r31252)",octane-SplayLatency,3905
+Cortex-A53,"Baseline (r31252)",octane-NavierStokes,2854
+Cortex-A53,"Baseline (r31252)",octane-PdfJS,1449
+Cortex-A53,"Baseline (r31252)",octane-Mandreel,1593
+Cortex-A53,"Baseline (r31252)",octane-MandreelLatency,3541
+Cortex-A53,"Baseline (r31252)",octane-Gameboy,3542
+Cortex-A53,"Baseline (r31252)",octane-CodeLoad,1657
+Cortex-A53,"Baseline (r31252)",octane-Box2D,2244
+Cortex-A53,"Baseline (r31252)",octane-zlib,5166
+Cortex-A53,"Baseline (r31252)",octane-Typescript,2259
+Cortex-A53,"Baseline (r31252)","octane-Score (version 9)",2256
+Cortex-A53,"Baseline (r31252)",octane-Richards,2333
+Cortex-A53,"Baseline (r31252)",octane-DeltaBlue,3597
+Cortex-A53,"Baseline (r31252)",octane-Crypto,2523
+Cortex-A53,"Baseline (r31252)",octane-RayTrace,4396
+Cortex-A53,"Baseline (r31252)",octane-EarleyBoyer,3333
+Cortex-A53,"Baseline (r31252)",octane-RegExp,393
+Cortex-A53,"Baseline (r31252)",octane-Splay,599
+Cortex-A53,"Baseline (r31252)",octane-SplayLatency,3931
+Cortex-A53,"Baseline (r31252)",octane-NavierStokes,2857
+Cortex-A53,"Baseline (r31252)",octane-PdfJS,1451
+Cortex-A53,"Baseline (r31252)",octane-Mandreel,1606
+Cortex-A53,"Baseline (r31252)",octane-MandreelLatency,3597
+Cortex-A53,"Baseline (r31252)",octane-Gameboy,3541
+Cortex-A53,"Baseline (r31252)",octane-CodeLoad,1666
+Cortex-A53,"Baseline (r31252)",octane-Box2D,2116
+Cortex-A53,"Baseline (r31252)",octane-zlib,5146
+Cortex-A53,"Baseline (r31252)",octane-Typescript,2233
+Cortex-A53,"Baseline (r31252)","octane-Score (version 9)",2252
+Cortex-A53,"Baseline (r31252)",octane-Richards,2326
+Cortex-A53,"Baseline (r31252)",octane-DeltaBlue,3557
+Cortex-A53,"Baseline (r31252)",octane-Crypto,2516
+Cortex-A53,"Baseline (r31252)",octane-RayTrace,4374
+Cortex-A53,"Baseline (r31252)",octane-EarleyBoyer,3317
+Cortex-A53,"Baseline (r31252)",octane-RegExp,392
+Cortex-A53,"Baseline (r31252)",octane-Splay,603
+Cortex-A53,"Baseline (r31252)",octane-SplayLatency,3871
+Cortex-A53,"Baseline (r31252)",octane-NavierStokes,2854
+Cortex-A53,"Baseline (r31252)",octane-PdfJS,1520
+Cortex-A53,"Baseline (r31252)",octane-Mandreel,1704
+Cortex-A53,"Baseline (r31252)",octane-MandreelLatency,3880
+Cortex-A53,"Baseline (r31252)",octane-Gameboy,3525
+Cortex-A53,"Baseline (r31252)",octane-CodeLoad,1665
+Cortex-A53,"Baseline (r31252)",octane-Box2D,2196
+Cortex-A53,"Baseline (r31252)",octane-zlib,5188
+Cortex-A53,"Baseline (r31252)",octane-Typescript,2270
+Cortex-A53,"Baseline (r31252)","octane-Score (version 9)",2279
+Cortex-A53,"Baseline (r31252)",octane-Richards,2330
+Cortex-A53,"Baseline (r31252)",octane-DeltaBlue,3507
+Cortex-A53,"Baseline (r31252)",octane-Crypto,2517
+Cortex-A53,"Baseline (r31252)",octane-RayTrace,4469
+Cortex-A53,"Baseline (r31252)",octane-EarleyBoyer,3305
+Cortex-A53,"Baseline (r31252)",octane-RegExp,388
+Cortex-A53,"Baseline (r31252)",octane-Splay,619
+Cortex-A53,"Baseline (r31252)",octane-SplayLatency,3952
+Cortex-A53,"Baseline (r31252)",octane-NavierStokes,2857
+Cortex-A53,"Baseline (r31252)",octane-PdfJS,1461
+Cortex-A53,"Baseline (r31252)",octane-Mandreel,1604
+Cortex-A53,"Baseline (r31252)",octane-MandreelLatency,3597
+Cortex-A53,"Baseline (r31252)",octane-Gameboy,3531
+Cortex-A53,"Baseline (r31252)",octane-CodeLoad,1670
+Cortex-A53,"Baseline (r31252)",octane-Box2D,2254
+Cortex-A53,"Baseline (r31252)",octane-zlib,5159
+Cortex-A53,"Baseline (r31252)",octane-Typescript,2274
+Cortex-A53,"Baseline (r31252)","octane-Score (version 9)",2264
+Cortex-A53,"Baseline (r31252)",octane-Richards,2303
+Cortex-A53,"Baseline (r31252)",octane-DeltaBlue,3564
+Cortex-A53,"Baseline (r31252)",octane-Crypto,2532
+Cortex-A53,"Baseline (r31252)",octane-RayTrace,4456
+Cortex-A53,"Baseline (r31252)",octane-EarleyBoyer,3298
+Cortex-A53,"Baseline (r31252)",octane-RegExp,391
+Cortex-A53,"Baseline (r31252)",octane-Splay,613
+Cortex-A53,"Baseline (r31252)",octane-SplayLatency,3943
+Cortex-A53,"Baseline (r31252)",octane-NavierStokes,2859
+Cortex-A53,"Baseline (r31252)",octane-PdfJS,1441
+Cortex-A53,"Baseline (r31252)",octane-Mandreel,1604
+Cortex-A53,"Baseline (r31252)",octane-MandreelLatency,3594
+Cortex-A53,"Baseline (r31252)",octane-Gameboy,3529
+Cortex-A53,"Baseline (r31252)",octane-CodeLoad,1670
+Cortex-A53,"Baseline (r31252)",octane-Box2D,2261
+Cortex-A53,"Baseline (r31252)",octane-zlib,5168
+Cortex-A53,"Baseline (r31252)",octane-Typescript,2264
+Cortex-A53,"Baseline (r31252)","octane-Score (version 9)",2263
+Cortex-A53,"Baseline (r31252)",octane-Richards,2292
+Cortex-A53,"Baseline (r31252)",octane-DeltaBlue,3458
+Cortex-A53,"Baseline (r31252)",octane-Crypto,2533
+Cortex-A53,"Baseline (r31252)",octane-RayTrace,4435
+Cortex-A53,"Baseline (r31252)",octane-EarleyBoyer,3311
+Cortex-A53,"Baseline (r31252)",octane-RegExp,392
+Cortex-A53,"Baseline (r31252)",octane-Splay,607
+Cortex-A53,"Baseline (r31252)",octane-SplayLatency,3918
+Cortex-A53,"Baseline (r31252)",octane-NavierStokes,2854
+Cortex-A53,"Baseline (r31252)",octane-PdfJS,1456
+Cortex-A53,"Baseline (r31252)",octane-Mandreel,1602
+Cortex-A53,"Baseline (r31252)",octane-MandreelLatency,3579
+Cortex-A53,"Baseline (r31252)",octane-Gameboy,3521
+Cortex-A53,"Baseline (r31252)",octane-CodeLoad,1674
+Cortex-A53,"Baseline (r31252)",octane-Box2D,2244
+Cortex-A53,"Baseline (r31252)",octane-zlib,5192
+Cortex-A53,"Baseline (r31252)",octane-Typescript,2266
+Cortex-A53,"Baseline (r31252)","octane-Score (version 9)",2256
+Cortex-A53,"Baseline (r31252)",ss-3d-cube,97
+Cortex-A53,"Baseline (r31252)",ss-3d-morph,135
+Cortex-A53,"Baseline (r31252)",ss-3d-raytrace,111
+Cortex-A53,"Baseline (r31252)",ss-access-binary-trees,17
+Cortex-A53,"Baseline (r31252)",ss-access-fannkuch,53
+Cortex-A53,"Baseline (r31252)",ss-access-nbody,29
+Cortex-A53,"Baseline (r31252)",ss-access-nsieve,23
+Cortex-A53,"Baseline (r31252)",ss-bitops-3bit-bits-in-byte,8
+Cortex-A53,"Baseline (r31252)",ss-bitops-bits-in-byte,20
+Cortex-A53,"Baseline (r31252)",ss-bitops-bitwise-and,26
+Cortex-A53,"Baseline (r31252)",ss-bitops-nsieve-bits,24
+Cortex-A53,"Baseline (r31252)",ss-controlflow-recursive,17
+Cortex-A53,"Baseline (r31252)",ss-crypto-aes,67
+Cortex-A53,"Baseline (r31252)",ss-crypto-md5,39
+Cortex-A53,"Baseline (r31252)",ss-crypto-sha1,37
+Cortex-A53,"Baseline (r31252)",ss-date-format-tofte,100
+Cortex-A53,"Baseline (r31252)",ss-date-format-xparb,112
+Cortex-A53,"Baseline (r31252)",ss-math-cordic,24
+Cortex-A53,"Baseline (r31252)",ss-math-partial-sums,119
+Cortex-A53,"Baseline (r31252)",ss-math-spectral-norm,20
+Cortex-A53,"Baseline (r31252)",ss-regexp-dna,60
+Cortex-A53,"Baseline (r31252)",ss-string-base64,66
+Cortex-A53,"Baseline (r31252)",ss-string-fasta,142
+Cortex-A53,"Baseline (r31252)",ss-string-tagcloud,245
+Cortex-A53,"Baseline (r31252)",ss-string-unpack-code,242
+Cortex-A53,"Baseline (r31252)",ss-string-validate-input,69
+Cortex-A53,"Baseline (r31252)",ss-3d-cube,98
+Cortex-A53,"Baseline (r31252)",ss-3d-morph,135
+Cortex-A53,"Baseline (r31252)",ss-3d-raytrace,112
+Cortex-A53,"Baseline (r31252)",ss-access-binary-trees,17
+Cortex-A53,"Baseline (r31252)",ss-access-fannkuch,53
+Cortex-A53,"Baseline (r31252)",ss-access-nbody,29
+Cortex-A53,"Baseline (r31252)",ss-access-nsieve,23
+Cortex-A53,"Baseline (r31252)",ss-bitops-3bit-bits-in-byte,8
+Cortex-A53,"Baseline (r31252)",ss-bitops-bits-in-byte,20
+Cortex-A53,"Baseline (r31252)",ss-bitops-bitwise-and,25
+Cortex-A53,"Baseline (r31252)",ss-bitops-nsieve-bits,24
+Cortex-A53,"Baseline (r31252)",ss-controlflow-recursive,17
+Cortex-A53,"Baseline (r31252)",ss-crypto-aes,68
+Cortex-A53,"Baseline (r31252)",ss-crypto-md5,38
+Cortex-A53,"Baseline (r31252)",ss-crypto-sha1,37
+Cortex-A53,"Baseline (r31252)",ss-date-format-tofte,101
+Cortex-A53,"Baseline (r31252)",ss-date-format-xparb,112
+Cortex-A53,"Baseline (r31252)",ss-math-cordic,24
+Cortex-A53,"Baseline (r31252)",ss-math-partial-sums,121
+Cortex-A53,"Baseline (r31252)",ss-math-spectral-norm,20
+Cortex-A53,"Baseline (r31252)",ss-regexp-dna,60
+Cortex-A53,"Baseline (r31252)",ss-string-base64,66
+Cortex-A53,"Baseline (r31252)",ss-string-fasta,151
+Cortex-A53,"Baseline (r31252)",ss-string-tagcloud,240
+Cortex-A53,"Baseline (r31252)",ss-string-unpack-code,240
+Cortex-A53,"Baseline (r31252)",ss-string-validate-input,71
+Cortex-A53,"Baseline (r31252)",ss-3d-cube,98
+Cortex-A53,"Baseline (r31252)",ss-3d-morph,135
+Cortex-A53,"Baseline (r31252)",ss-3d-raytrace,111
+Cortex-A53,"Baseline (r31252)",ss-access-binary-trees,17
+Cortex-A53,"Baseline (r31252)",ss-access-fannkuch,54
+Cortex-A53,"Baseline (r31252)",ss-access-nbody,29
+Cortex-A53,"Baseline (r31252)",ss-access-nsieve,22
+Cortex-A53,"Baseline (r31252)",ss-bitops-3bit-bits-in-byte,8
+Cortex-A53,"Baseline (r31252)",ss-bitops-bits-in-byte,20
+Cortex-A53,"Baseline (r31252)",ss-bitops-bitwise-and,26
+Cortex-A53,"Baseline (r31252)",ss-bitops-nsieve-bits,24
+Cortex-A53,"Baseline (r31252)",ss-controlflow-recursive,17
+Cortex-A53,"Baseline (r31252)",ss-crypto-aes,68
+Cortex-A53,"Baseline (r31252)",ss-crypto-md5,39
+Cortex-A53,"Baseline (r31252)",ss-crypto-sha1,37
+Cortex-A53,"Baseline (r31252)",ss-date-format-tofte,100
+Cortex-A53,"Baseline (r31252)",ss-date-format-xparb,111
+Cortex-A53,"Baseline (r31252)",ss-math-cordic,24
+Cortex-A53,"Baseline (r31252)",ss-math-partial-sums,121
+Cortex-A53,"Baseline (r31252)",ss-math-spectral-norm,20
+Cortex-A53,"Baseline (r31252)",ss-regexp-dna,60
+Cortex-A53,"Baseline (r31252)",ss-string-base64,66
+Cortex-A53,"Baseline (r31252)",ss-string-fasta,142
+Cortex-A53,"Baseline (r31252)",ss-string-tagcloud,240
+Cortex-A53,"Baseline (r31252)",ss-string-unpack-code,242
+Cortex-A53,"Baseline (r31252)",ss-string-validate-input,68
+Cortex-A53,"Baseline (r31252)",ss-3d-cube,98
+Cortex-A53,"Baseline (r31252)",ss-3d-morph,149
+Cortex-A53,"Baseline (r31252)",ss-3d-raytrace,134
+Cortex-A53,"Baseline (r31252)",ss-access-binary-trees,21
+Cortex-A53,"Baseline (r31252)",ss-access-fannkuch,65
+Cortex-A53,"Baseline (r31252)",ss-access-nbody,35
+Cortex-A53,"Baseline (r31252)",ss-access-nsieve,27
+Cortex-A53,"Baseline (r31252)",ss-bitops-3bit-bits-in-byte,9
+Cortex-A53,"Baseline (r31252)",ss-bitops-bits-in-byte,24
+Cortex-A53,"Baseline (r31252)",ss-bitops-bitwise-and,31
+Cortex-A53,"Baseline (r31252)",ss-bitops-nsieve-bits,29
+Cortex-A53,"Baseline (r31252)",ss-controlflow-recursive,20
+Cortex-A53,"Baseline (r31252)",ss-crypto-aes,81
+Cortex-A53,"Baseline (r31252)",ss-crypto-md5,46
+Cortex-A53,"Baseline (r31252)",ss-crypto-sha1,44
+Cortex-A53,"Baseline (r31252)",ss-date-format-tofte,120
+Cortex-A53,"Baseline (r31252)",ss-date-format-xparb,111
+Cortex-A53,"Baseline (r31252)",ss-math-cordic,24
+Cortex-A53,"Baseline (r31252)",ss-math-partial-sums,121
+Cortex-A53,"Baseline (r31252)",ss-math-spectral-norm,21
+Cortex-A53,"Baseline (r31252)",ss-regexp-dna,60
+Cortex-A53,"Baseline (r31252)",ss-string-base64,66
+Cortex-A53,"Baseline (r31252)",ss-string-fasta,144
+Cortex-A53,"Baseline (r31252)",ss-string-tagcloud,240
+Cortex-A53,"Baseline (r31252)",ss-string-unpack-code,241
+Cortex-A53,"Baseline (r31252)",ss-string-validate-input,72
+Cortex-A53,"Baseline (r31252)",ss-3d-cube,104
+Cortex-A53,"Baseline (r31252)",ss-3d-morph,135
+Cortex-A53,"Baseline (r31252)",ss-3d-raytrace,111
+Cortex-A53,"Baseline (r31252)",ss-access-binary-trees,17
+Cortex-A53,"Baseline (r31252)",ss-access-fannkuch,54
+Cortex-A53,"Baseline (r31252)",ss-access-nbody,29
+Cortex-A53,"Baseline (r31252)",ss-access-nsieve,22
+Cortex-A53,"Baseline (r31252)",ss-bitops-3bit-bits-in-byte,8
+Cortex-A53,"Baseline (r31252)",ss-bitops-bits-in-byte,20
+Cortex-A53,"Baseline (r31252)",ss-bitops-bitwise-and,26
+Cortex-A53,"Baseline (r31252)",ss-bitops-nsieve-bits,24
+Cortex-A53,"Baseline (r31252)",ss-controlflow-recursive,17
+Cortex-A53,"Baseline (r31252)",ss-crypto-aes,67
+Cortex-A53,"Baseline (r31252)",ss-crypto-md5,38
+Cortex-A53,"Baseline (r31252)",ss-crypto-sha1,37
+Cortex-A53,"Baseline (r31252)",ss-date-format-tofte,100
+Cortex-A53,"Baseline (r31252)",ss-date-format-xparb,114
+Cortex-A53,"Baseline (r31252)",ss-math-cordic,24
+Cortex-A53,"Baseline (r31252)",ss-math-partial-sums,121
+Cortex-A53,"Baseline (r31252)",ss-math-spectral-norm,20
+Cortex-A53,"Baseline (r31252)",ss-regexp-dna,60
+Cortex-A53,"Baseline (r31252)",ss-string-base64,66
+Cortex-A53,"Baseline (r31252)",ss-string-fasta,144
+Cortex-A53,"Baseline (r31252)",ss-string-tagcloud,242
+Cortex-A53,"Baseline (r31252)",ss-string-unpack-code,241
+Cortex-A53,"Baseline (r31252)",ss-string-validate-input,70
+Cortex-A53,"Baseline (r31252)",ss-3d-cube,98
+Cortex-A53,"Baseline (r31252)",ss-3d-morph,135
+Cortex-A53,"Baseline (r31252)",ss-3d-raytrace,112
+Cortex-A53,"Baseline (r31252)",ss-access-binary-trees,18
+Cortex-A53,"Baseline (r31252)",ss-access-fannkuch,54
+Cortex-A53,"Baseline (r31252)",ss-access-nbody,29
+Cortex-A53,"Baseline (r31252)",ss-access-nsieve,23
+Cortex-A53,"Baseline (r31252)",ss-bitops-3bit-bits-in-byte,8
+Cortex-A53,"Baseline (r31252)",ss-bitops-bits-in-byte,20
+Cortex-A53,"Baseline (r31252)",ss-bitops-bitwise-and,25
+Cortex-A53,"Baseline (r31252)",ss-bitops-nsieve-bits,24
+Cortex-A53,"Baseline (r31252)",ss-controlflow-recursive,17
+Cortex-A53,"Baseline (r31252)",ss-crypto-aes,67
+Cortex-A53,"Baseline (r31252)",ss-crypto-md5,38
+Cortex-A53,"Baseline (r31252)",ss-crypto-sha1,37
+Cortex-A53,"Baseline (r31252)",ss-date-format-tofte,100
+Cortex-A53,"Baseline (r31252)",ss-date-format-xparb,110
+Cortex-A53,"Baseline (r31252)",ss-math-cordic,24
+Cortex-A53,"Baseline (r31252)",ss-math-partial-sums,120
+Cortex-A53,"Baseline (r31252)",ss-math-spectral-norm,20
+Cortex-A53,"Baseline (r31252)",ss-regexp-dna,60
+Cortex-A53,"Baseline (r31252)",ss-string-base64,66
+Cortex-A53,"Baseline (r31252)",ss-string-fasta,142
+Cortex-A53,"Baseline (r31252)",ss-string-tagcloud,240
+Cortex-A53,"Baseline (r31252)",ss-string-unpack-code,241
+Cortex-A53,"Baseline (r31252)",ss-string-validate-input,69
+Cortex-A53,"Baseline (r31252)",ss-3d-cube,98
+Cortex-A53,"Baseline (r31252)",ss-3d-morph,135
+Cortex-A53,"Baseline (r31252)",ss-3d-raytrace,111
+Cortex-A53,"Baseline (r31252)",ss-access-binary-trees,17
+Cortex-A53,"Baseline (r31252)",ss-access-fannkuch,54
+Cortex-A53,"Baseline (r31252)",ss-access-nbody,29
+Cortex-A53,"Baseline (r31252)",ss-access-nsieve,23
+Cortex-A53,"Baseline (r31252)",ss-bitops-3bit-bits-in-byte,8
+Cortex-A53,"Baseline (r31252)",ss-bitops-bits-in-byte,20
+Cortex-A53,"Baseline (r31252)",ss-bitops-bitwise-and,26
+Cortex-A53,"Baseline (r31252)",ss-bitops-nsieve-bits,24
+Cortex-A53,"Baseline (r31252)",ss-controlflow-recursive,17
+Cortex-A53,"Baseline (r31252)",ss-crypto-aes,67
+Cortex-A53,"Baseline (r31252)",ss-crypto-md5,38
+Cortex-A53,"Baseline (r31252)",ss-crypto-sha1,36
+Cortex-A53,"Baseline (r31252)",ss-date-format-tofte,100
+Cortex-A53,"Baseline (r31252)",ss-date-format-xparb,110
+Cortex-A53,"Baseline (r31252)",ss-math-cordic,24
+Cortex-A53,"Baseline (r31252)",ss-math-partial-sums,122
+Cortex-A53,"Baseline (r31252)",ss-math-spectral-norm,21
+Cortex-A53,"Baseline (r31252)",ss-regexp-dna,60
+Cortex-A53,"Baseline (r31252)",ss-string-base64,66
+Cortex-A53,"Baseline (r31252)",ss-string-fasta,142
+Cortex-A53,"Baseline (r31252)",ss-string-tagcloud,241
+Cortex-A53,"Baseline (r31252)",ss-string-unpack-code,242
+Cortex-A53,"Baseline (r31252)",ss-string-validate-input,70
+Cortex-A53,"Baseline (r31252)",ss-3d-cube,98
+Cortex-A53,"Baseline (r31252)",ss-3d-morph,135
+Cortex-A53,"Baseline (r31252)",ss-3d-raytrace,111
+Cortex-A53,"Baseline (r31252)",ss-access-binary-trees,17
+Cortex-A53,"Baseline (r31252)",ss-access-fannkuch,54
+Cortex-A53,"Baseline (r31252)",ss-access-nbody,30
+Cortex-A53,"Baseline (r31252)",ss-access-nsieve,23
+Cortex-A53,"Baseline (r31252)",ss-bitops-3bit-bits-in-byte,8
+Cortex-A53,"Baseline (r31252)",ss-bitops-bits-in-byte,20
+Cortex-A53,"Baseline (r31252)",ss-bitops-bitwise-and,26
+Cortex-A53,"Baseline (r31252)",ss-bitops-nsieve-bits,24
+Cortex-A53,"Baseline (r31252)",ss-controlflow-recursive,17
+Cortex-A53,"Baseline (r31252)",ss-crypto-aes,68
+Cortex-A53,"Baseline (r31252)",ss-crypto-md5,38
+Cortex-A53,"Baseline (r31252)",ss-crypto-sha1,37
+Cortex-A53,"Baseline (r31252)",ss-date-format-tofte,100
+Cortex-A53,"Baseline (r31252)",ss-date-format-xparb,111
+Cortex-A53,"Baseline (r31252)",ss-math-cordic,24
+Cortex-A53,"Baseline (r31252)",ss-math-partial-sums,121
+Cortex-A53,"Baseline (r31252)",ss-math-spectral-norm,20
+Cortex-A53,"Baseline (r31252)",ss-regexp-dna,60
+Cortex-A53,"Baseline (r31252)",ss-string-base64,66
+Cortex-A53,"Baseline (r31252)",ss-string-fasta,141
+Cortex-A53,"Baseline (r31252)",ss-string-tagcloud,242
+Cortex-A53,"Baseline (r31252)",ss-string-unpack-code,241
+Cortex-A53,"Baseline (r31252)",ss-string-validate-input,70
+Cortex-A53,"Baseline (r31252)",ss-3d-cube,98
+Cortex-A53,"Baseline (r31252)",ss-3d-morph,135
+Cortex-A53,"Baseline (r31252)",ss-3d-raytrace,111
+Cortex-A53,"Baseline (r31252)",ss-access-binary-trees,17
+Cortex-A53,"Baseline (r31252)",ss-access-fannkuch,54
+Cortex-A53,"Baseline (r31252)",ss-access-nbody,29
+Cortex-A53,"Baseline (r31252)",ss-access-nsieve,22
+Cortex-A53,"Baseline (r31252)",ss-bitops-3bit-bits-in-byte,8
+Cortex-A53,"Baseline (r31252)",ss-bitops-bits-in-byte,20
+Cortex-A53,"Baseline (r31252)",ss-bitops-bitwise-and,26
+Cortex-A53,"Baseline (r31252)",ss-bitops-nsieve-bits,24
+Cortex-A53,"Baseline (r31252)",ss-controlflow-recursive,17
+Cortex-A53,"Baseline (r31252)",ss-crypto-aes,68
+Cortex-A53,"Baseline (r31252)",ss-crypto-md5,38
+Cortex-A53,"Baseline (r31252)",ss-crypto-sha1,37
+Cortex-A53,"Baseline (r31252)",ss-date-format-tofte,100
+Cortex-A53,"Baseline (r31252)",ss-date-format-xparb,111
+Cortex-A53,"Baseline (r31252)",ss-math-cordic,24
+Cortex-A53,"Baseline (r31252)",ss-math-partial-sums,121
+Cortex-A53,"Baseline (r31252)",ss-math-spectral-norm,21
+Cortex-A53,"Baseline (r31252)",ss-regexp-dna,60
+Cortex-A53,"Baseline (r31252)",ss-string-base64,66
+Cortex-A53,"Baseline (r31252)",ss-string-fasta,141
+Cortex-A53,"Baseline (r31252)",ss-string-tagcloud,240
+Cortex-A53,"Baseline (r31252)",ss-string-unpack-code,241
+Cortex-A53,"Baseline (r31252)",ss-string-validate-input,70
+Cortex-A53,"Baseline (r31252)",ss-3d-cube,105
+Cortex-A53,"Baseline (r31252)",ss-3d-morph,135
+Cortex-A53,"Baseline (r31252)",ss-3d-raytrace,111
+Cortex-A53,"Baseline (r31252)",ss-access-binary-trees,17
+Cortex-A53,"Baseline (r31252)",ss-access-fannkuch,54
+Cortex-A53,"Baseline (r31252)",ss-access-nbody,29
+Cortex-A53,"Baseline (r31252)",ss-access-nsieve,23
+Cortex-A53,"Baseline (r31252)",ss-bitops-3bit-bits-in-byte,8
+Cortex-A53,"Baseline (r31252)",ss-bitops-bits-in-byte,20
+Cortex-A53,"Baseline (r31252)",ss-bitops-bitwise-and,25
+Cortex-A53,"Baseline (r31252)",ss-bitops-nsieve-bits,24
+Cortex-A53,"Baseline (r31252)",ss-controlflow-recursive,17
+Cortex-A53,"Baseline (r31252)",ss-crypto-aes,68
+Cortex-A53,"Baseline (r31252)",ss-crypto-md5,38
+Cortex-A53,"Baseline (r31252)",ss-crypto-sha1,37
+Cortex-A53,"Baseline (r31252)",ss-date-format-tofte,100
+Cortex-A53,"Baseline (r31252)",ss-date-format-xparb,111
+Cortex-A53,"Baseline (r31252)",ss-math-cordic,23
+Cortex-A53,"Baseline (r31252)",ss-math-partial-sums,121
+Cortex-A53,"Baseline (r31252)",ss-math-spectral-norm,21
+Cortex-A53,"Baseline (r31252)",ss-regexp-dna,60
+Cortex-A53,"Baseline (r31252)",ss-string-base64,67
+Cortex-A53,"Baseline (r31252)",ss-string-fasta,144
+Cortex-A53,"Baseline (r31252)",ss-string-tagcloud,240
+Cortex-A53,"Baseline (r31252)",ss-string-unpack-code,239
+Cortex-A53,"Baseline (r31252)",ss-string-validate-input,70
+Cortex-A57,"Baseline (r31252)",asmjs-apps-box2d-loadtime,2789
+Cortex-A57,"Baseline (r31252)",asmjs-apps-box2d-throughput,10506
+Cortex-A57,"Baseline (r31252)",asmjs-apps-bullet-loadtime,7166
+Cortex-A57,"Baseline (r31252)",asmjs-apps-bullet-throughput,16077
+Cortex-A57,"Baseline (r31252)",asmjs-apps-lua_binarytrees-loadtime,1883
+Cortex-A57,"Baseline (r31252)",asmjs-apps-lua_binarytrees-throughput,9454
+Cortex-A57,"Baseline (r31252)",asmjs-apps-zlib-loadtime,2023
+Cortex-A57,"Baseline (r31252)",asmjs-apps-zlib-throughput,7953
+Cortex-A57,"Baseline (r31252)",asmjs-apps-box2d-loadtime,2773
+Cortex-A57,"Baseline (r31252)",asmjs-apps-box2d-throughput,10503
+Cortex-A57,"Baseline (r31252)",asmjs-apps-bullet-loadtime,7179
+Cortex-A57,"Baseline (r31252)",asmjs-apps-bullet-throughput,16125
+Cortex-A57,"Baseline (r31252)",asmjs-apps-lua_binarytrees-loadtime,1883
+Cortex-A57,"Baseline (r31252)",asmjs-apps-lua_binarytrees-throughput,9850
+Cortex-A57,"Baseline (r31252)",asmjs-apps-zlib-loadtime,1775
+Cortex-A57,"Baseline (r31252)",asmjs-apps-zlib-throughput,7942
+Cortex-A57,"Baseline (r31252)",asmjs-apps-box2d-loadtime,2770
+Cortex-A57,"Baseline (r31252)",asmjs-apps-box2d-throughput,10463
+Cortex-A57,"Baseline (r31252)",asmjs-apps-bullet-loadtime,7154
+Cortex-A57,"Baseline (r31252)",asmjs-apps-bullet-throughput,16138
+Cortex-A57,"Baseline (r31252)",asmjs-apps-lua_binarytrees-loadtime,1881
+Cortex-A57,"Baseline (r31252)",asmjs-apps-lua_binarytrees-throughput,9746
+Cortex-A57,"Baseline (r31252)",asmjs-apps-zlib-loadtime,1773
+Cortex-A57,"Baseline (r31252)",asmjs-apps-zlib-throughput,7940
+Cortex-A57,"Baseline (r31252)",asmjs-apps-box2d-loadtime,3049
+Cortex-A57,"Baseline (r31252)",asmjs-apps-box2d-throughput,10487
+Cortex-A57,"Baseline (r31252)",asmjs-apps-bullet-loadtime,7395
+Cortex-A57,"Baseline (r31252)",asmjs-apps-bullet-throughput,15907
+Cortex-A57,"Baseline (r31252)",asmjs-apps-lua_binarytrees-loadtime,2138
+Cortex-A57,"Baseline (r31252)",asmjs-apps-lua_binarytrees-throughput,9604
+Cortex-A57,"Baseline (r31252)",asmjs-apps-zlib-loadtime,2027
+Cortex-A57,"Baseline (r31252)",asmjs-apps-zlib-throughput,7944
+Cortex-A57,"Baseline (r31252)",asmjs-apps-box2d-loadtime,2753
+Cortex-A57,"Baseline (r31252)",asmjs-apps-box2d-throughput,10512
+Cortex-A57,"Baseline (r31252)",asmjs-apps-bullet-loadtime,7160
+Cortex-A57,"Baseline (r31252)",asmjs-apps-bullet-throughput,16108
+Cortex-A57,"Baseline (r31252)",asmjs-apps-lua_binarytrees-loadtime,1890
+Cortex-A57,"Baseline (r31252)",asmjs-apps-lua_binarytrees-throughput,9454
+Cortex-A57,"Baseline (r31252)",asmjs-apps-zlib-loadtime,2020
+Cortex-A57,"Baseline (r31252)",asmjs-apps-zlib-throughput,7939
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-copy,12592
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-corrections,16487
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-fannkuch,17378
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-fasta,39555
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-life,17787
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-memops,31040
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-primes,17607
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-skinning,52213
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-copy,12592
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-corrections,16402
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-fannkuch,17382
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-fasta,39288
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-life,17525
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-memops,31309
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-primes,17607
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-skinning,51423
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-copy,12869
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-corrections,16403
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-fannkuch,17400
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-fasta,39283
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-life,17594
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-memops,31311
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-primes,17602
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-skinning,54080
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-copy,12594
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-corrections,16488
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-fannkuch,17411
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-fasta,39556
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-life,17531
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-memops,31035
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-primes,17608
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-skinning,53309
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-copy,12595
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-corrections,16488
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-fannkuch,17532
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-fasta,39283
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-life,17587
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-memops,31311
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-primes,17607
+Cortex-A57,"Baseline (r31252)",asmjs-ubench-skinning,53307
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-bigfib,2448
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-container,15542
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-dry,4127
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-float-mm,2584
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-gcc-loops,16904
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-n-body,5547
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-quicksort,1725
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-towers,1501
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-bigfib,2437
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-container,15500
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-dry,4057
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-float-mm,2626
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-gcc-loops,17761
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-n-body,5547
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-quicksort,1829
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-towers,1503
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-bigfib,2128
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-container,15553
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-dry,4238
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-float-mm,2585
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-gcc-loops,16997
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-n-body,5823
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-quicksort,1726
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-towers,1502
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-bigfib,2188
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-container,15850
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-dry,4332
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-float-mm,2584
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-gcc-loops,16976
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-n-body,5547
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-quicksort,1725
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-towers,1503
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-bigfib,2187
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-container,15558
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-dry,4057
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-float-mm,2602
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-gcc-loops,17164
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-n-body,5547
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-quicksort,1724
+Cortex-A57,"Baseline (r31252)",jetstream-asmjs-towers,1502
+Cortex-A57,"Baseline (r31252)",kraken-ai-astar,814
+Cortex-A57,"Baseline (r31252)",kraken-audio-beat-detection,359
+Cortex-A57,"Baseline (r31252)",kraken-audio-dft,846
+Cortex-A57,"Baseline (r31252)",kraken-audio-fft,212
+Cortex-A57,"Baseline (r31252)",kraken-audio-oscillator,205
+Cortex-A57,"Baseline (r31252)",kraken-imaging-gaussian-blur,324
+Cortex-A57,"Baseline (r31252)",kraken-imaging-darkroom,928
+Cortex-A57,"Baseline (r31252)",kraken-imaging-desaturate,385
+Cortex-A57,"Baseline (r31252)",kraken-json-parse-financial,210
+Cortex-A57,"Baseline (r31252)",kraken-json-stringify-tinderbox,113
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-aes,283
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-ccm,463
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-pbkdf2,528
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-sha256-iterative,217
+Cortex-A57,"Baseline (r31252)",kraken-ai-astar,594
+Cortex-A57,"Baseline (r31252)",kraken-audio-beat-detection,365
+Cortex-A57,"Baseline (r31252)",kraken-audio-dft,850
+Cortex-A57,"Baseline (r31252)",kraken-audio-fft,202
+Cortex-A57,"Baseline (r31252)",kraken-audio-oscillator,207
+Cortex-A57,"Baseline (r31252)",kraken-imaging-gaussian-blur,324
+Cortex-A57,"Baseline (r31252)",kraken-imaging-darkroom,929
+Cortex-A57,"Baseline (r31252)",kraken-imaging-desaturate,388
+Cortex-A57,"Baseline (r31252)",kraken-json-parse-financial,207
+Cortex-A57,"Baseline (r31252)",kraken-json-stringify-tinderbox,112
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-aes,283
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-ccm,464
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-pbkdf2,511
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-sha256-iterative,217
+Cortex-A57,"Baseline (r31252)",kraken-ai-astar,776
+Cortex-A57,"Baseline (r31252)",kraken-audio-beat-detection,414
+Cortex-A57,"Baseline (r31252)",kraken-audio-dft,847
+Cortex-A57,"Baseline (r31252)",kraken-audio-fft,198
+Cortex-A57,"Baseline (r31252)",kraken-audio-oscillator,205
+Cortex-A57,"Baseline (r31252)",kraken-imaging-gaussian-blur,324
+Cortex-A57,"Baseline (r31252)",kraken-imaging-darkroom,924
+Cortex-A57,"Baseline (r31252)",kraken-imaging-desaturate,379
+Cortex-A57,"Baseline (r31252)",kraken-json-parse-financial,213
+Cortex-A57,"Baseline (r31252)",kraken-json-stringify-tinderbox,112
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-aes,294
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-ccm,465
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-pbkdf2,527
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-sha256-iterative,218
+Cortex-A57,"Baseline (r31252)",kraken-ai-astar,801
+Cortex-A57,"Baseline (r31252)",kraken-audio-beat-detection,448
+Cortex-A57,"Baseline (r31252)",kraken-audio-dft,849
+Cortex-A57,"Baseline (r31252)",kraken-audio-fft,200
+Cortex-A57,"Baseline (r31252)",kraken-audio-oscillator,206
+Cortex-A57,"Baseline (r31252)",kraken-imaging-gaussian-blur,324
+Cortex-A57,"Baseline (r31252)",kraken-imaging-darkroom,922
+Cortex-A57,"Baseline (r31252)",kraken-imaging-desaturate,377
+Cortex-A57,"Baseline (r31252)",kraken-json-parse-financial,211
+Cortex-A57,"Baseline (r31252)",kraken-json-stringify-tinderbox,112
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-aes,286
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-ccm,462
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-pbkdf2,527
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-sha256-iterative,217
+Cortex-A57,"Baseline (r31252)",kraken-ai-astar,594
+Cortex-A57,"Baseline (r31252)",kraken-audio-beat-detection,375
+Cortex-A57,"Baseline (r31252)",kraken-audio-dft,847
+Cortex-A57,"Baseline (r31252)",kraken-audio-fft,218
+Cortex-A57,"Baseline (r31252)",kraken-audio-oscillator,211
+Cortex-A57,"Baseline (r31252)",kraken-imaging-gaussian-blur,324
+Cortex-A57,"Baseline (r31252)",kraken-imaging-darkroom,928
+Cortex-A57,"Baseline (r31252)",kraken-imaging-desaturate,375
+Cortex-A57,"Baseline (r31252)",kraken-json-parse-financial,213
+Cortex-A57,"Baseline (r31252)",kraken-json-stringify-tinderbox,112
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-aes,289
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-ccm,463
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-pbkdf2,538
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-sha256-iterative,216
+Cortex-A57,"Baseline (r31252)",kraken-ai-astar,595
+Cortex-A57,"Baseline (r31252)",kraken-audio-beat-detection,343
+Cortex-A57,"Baseline (r31252)",kraken-audio-dft,843
+Cortex-A57,"Baseline (r31252)",kraken-audio-fft,234
+Cortex-A57,"Baseline (r31252)",kraken-audio-oscillator,206
+Cortex-A57,"Baseline (r31252)",kraken-imaging-gaussian-blur,324
+Cortex-A57,"Baseline (r31252)",kraken-imaging-darkroom,926
+Cortex-A57,"Baseline (r31252)",kraken-imaging-desaturate,381
+Cortex-A57,"Baseline (r31252)",kraken-json-parse-financial,211
+Cortex-A57,"Baseline (r31252)",kraken-json-stringify-tinderbox,113
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-aes,285
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-ccm,464
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-pbkdf2,517
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-sha256-iterative,204
+Cortex-A57,"Baseline (r31252)",kraken-ai-astar,597
+Cortex-A57,"Baseline (r31252)",kraken-audio-beat-detection,342
+Cortex-A57,"Baseline (r31252)",kraken-audio-dft,847
+Cortex-A57,"Baseline (r31252)",kraken-audio-fft,198
+Cortex-A57,"Baseline (r31252)",kraken-audio-oscillator,205
+Cortex-A57,"Baseline (r31252)",kraken-imaging-gaussian-blur,324
+Cortex-A57,"Baseline (r31252)",kraken-imaging-darkroom,933
+Cortex-A57,"Baseline (r31252)",kraken-imaging-desaturate,383
+Cortex-A57,"Baseline (r31252)",kraken-json-parse-financial,211
+Cortex-A57,"Baseline (r31252)",kraken-json-stringify-tinderbox,113
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-aes,295
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-ccm,470
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-pbkdf2,519
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-sha256-iterative,217
+Cortex-A57,"Baseline (r31252)",kraken-ai-astar,595
+Cortex-A57,"Baseline (r31252)",kraken-audio-beat-detection,370
+Cortex-A57,"Baseline (r31252)",kraken-audio-dft,847
+Cortex-A57,"Baseline (r31252)",kraken-audio-fft,197
+Cortex-A57,"Baseline (r31252)",kraken-audio-oscillator,205
+Cortex-A57,"Baseline (r31252)",kraken-imaging-gaussian-blur,325
+Cortex-A57,"Baseline (r31252)",kraken-imaging-darkroom,922
+Cortex-A57,"Baseline (r31252)",kraken-imaging-desaturate,379
+Cortex-A57,"Baseline (r31252)",kraken-json-parse-financial,213
+Cortex-A57,"Baseline (r31252)",kraken-json-stringify-tinderbox,112
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-aes,287
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-ccm,467
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-pbkdf2,530
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-sha256-iterative,218
+Cortex-A57,"Baseline (r31252)",kraken-ai-astar,595
+Cortex-A57,"Baseline (r31252)",kraken-audio-beat-detection,346
+Cortex-A57,"Baseline (r31252)",kraken-audio-dft,846
+Cortex-A57,"Baseline (r31252)",kraken-audio-fft,198
+Cortex-A57,"Baseline (r31252)",kraken-audio-oscillator,208
+Cortex-A57,"Baseline (r31252)",kraken-imaging-gaussian-blur,325
+Cortex-A57,"Baseline (r31252)",kraken-imaging-darkroom,922
+Cortex-A57,"Baseline (r31252)",kraken-imaging-desaturate,366
+Cortex-A57,"Baseline (r31252)",kraken-json-parse-financial,211
+Cortex-A57,"Baseline (r31252)",kraken-json-stringify-tinderbox,112
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-aes,293
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-ccm,465
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-pbkdf2,536
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-sha256-iterative,215
+Cortex-A57,"Baseline (r31252)",kraken-ai-astar,595
+Cortex-A57,"Baseline (r31252)",kraken-audio-beat-detection,345
+Cortex-A57,"Baseline (r31252)",kraken-audio-dft,845
+Cortex-A57,"Baseline (r31252)",kraken-audio-fft,198
+Cortex-A57,"Baseline (r31252)",kraken-audio-oscillator,207
+Cortex-A57,"Baseline (r31252)",kraken-imaging-gaussian-blur,324
+Cortex-A57,"Baseline (r31252)",kraken-imaging-darkroom,925
+Cortex-A57,"Baseline (r31252)",kraken-imaging-desaturate,365
+Cortex-A57,"Baseline (r31252)",kraken-json-parse-financial,211
+Cortex-A57,"Baseline (r31252)",kraken-json-stringify-tinderbox,113
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-aes,286
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-ccm,465
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-pbkdf2,534
+Cortex-A57,"Baseline (r31252)",kraken-stanford-crypto-sha256-iterative,218
+Cortex-A57,"Baseline (r31252)",octane-Richards,5790
+Cortex-A57,"Baseline (r31252)",octane-DeltaBlue,10030
+Cortex-A57,"Baseline (r31252)",octane-Crypto,7775
+Cortex-A57,"Baseline (r31252)",octane-RayTrace,11067
+Cortex-A57,"Baseline (r31252)",octane-EarleyBoyer,8099
+Cortex-A57,"Baseline (r31252)",octane-RegExp,881
+Cortex-A57,"Baseline (r31252)",octane-Splay,4885
+Cortex-A57,"Baseline (r31252)",octane-SplayLatency,9408
+Cortex-A57,"Baseline (r31252)",octane-NavierStokes,6293
+Cortex-A57,"Baseline (r31252)",octane-PdfJS,3392
+Cortex-A57,"Baseline (r31252)",octane-Mandreel,4066
+Cortex-A57,"Baseline (r31252)",octane-MandreelLatency,7670
+Cortex-A57,"Baseline (r31252)",octane-Gameboy,10004
+Cortex-A57,"Baseline (r31252)",octane-CodeLoad,3167
+Cortex-A57,"Baseline (r31252)",octane-Box2D,6791
+Cortex-A57,"Baseline (r31252)",octane-zlib,11320
+Cortex-A57,"Baseline (r31252)",octane-Typescript,3688
+Cortex-A57,"Baseline (r31252)","octane-Score (version 9)",5810
+Cortex-A57,"Baseline (r31252)",octane-Richards,5902
+Cortex-A57,"Baseline (r31252)",octane-DeltaBlue,9574
+Cortex-A57,"Baseline (r31252)",octane-Crypto,7871
+Cortex-A57,"Baseline (r31252)",octane-RayTrace,11118
+Cortex-A57,"Baseline (r31252)",octane-EarleyBoyer,8282
+Cortex-A57,"Baseline (r31252)",octane-RegExp,910
+Cortex-A57,"Baseline (r31252)",octane-Splay,4726
+Cortex-A57,"Baseline (r31252)",octane-SplayLatency,9350
+Cortex-A57,"Baseline (r31252)",octane-NavierStokes,6306
+Cortex-A57,"Baseline (r31252)",octane-PdfJS,3531
+Cortex-A57,"Baseline (r31252)",octane-Mandreel,4312
+Cortex-A57,"Baseline (r31252)",octane-MandreelLatency,8655
+Cortex-A57,"Baseline (r31252)",octane-Gameboy,11560
+Cortex-A57,"Baseline (r31252)",octane-CodeLoad,3142
+Cortex-A57,"Baseline (r31252)",octane-Box2D,6524
+Cortex-A57,"Baseline (r31252)",octane-zlib,11390
+Cortex-A57,"Baseline (r31252)",octane-Typescript,3736
+Cortex-A57,"Baseline (r31252)","octane-Score (version 9)",5928
+Cortex-A57,"Baseline (r31252)",octane-Richards,5585
+Cortex-A57,"Baseline (r31252)",octane-DeltaBlue,9528
+Cortex-A57,"Baseline (r31252)",octane-Crypto,7889
+Cortex-A57,"Baseline (r31252)",octane-RayTrace,11100
+Cortex-A57,"Baseline (r31252)",octane-EarleyBoyer,8224
+Cortex-A57,"Baseline (r31252)",octane-RegExp,910
+Cortex-A57,"Baseline (r31252)",octane-Splay,4652
+Cortex-A57,"Baseline (r31252)",octane-SplayLatency,8579
+Cortex-A57,"Baseline (r31252)",octane-NavierStokes,6299
+Cortex-A57,"Baseline (r31252)",octane-PdfJS,3528
+Cortex-A57,"Baseline (r31252)",octane-Mandreel,4329
+Cortex-A57,"Baseline (r31252)",octane-MandreelLatency,8715
+Cortex-A57,"Baseline (r31252)",octane-Gameboy,11694
+Cortex-A57,"Baseline (r31252)",octane-CodeLoad,3154
+Cortex-A57,"Baseline (r31252)",octane-Box2D,4801
+Cortex-A57,"Baseline (r31252)",octane-zlib,11458
+Cortex-A57,"Baseline (r31252)",octane-Typescript,4181
+Cortex-A57,"Baseline (r31252)","octane-Score (version 9)",5814
+Cortex-A57,"Baseline (r31252)",octane-Richards,5549
+Cortex-A57,"Baseline (r31252)",octane-DeltaBlue,9733
+Cortex-A57,"Baseline (r31252)",octane-Crypto,7830
+Cortex-A57,"Baseline (r31252)",octane-RayTrace,11339
+Cortex-A57,"Baseline (r31252)",octane-EarleyBoyer,8230
+Cortex-A57,"Baseline (r31252)",octane-RegExp,920
+Cortex-A57,"Baseline (r31252)",octane-Splay,4792
+Cortex-A57,"Baseline (r31252)",octane-SplayLatency,9259
+Cortex-A57,"Baseline (r31252)",octane-NavierStokes,6299
+Cortex-A57,"Baseline (r31252)",octane-PdfJS,3494
+Cortex-A57,"Baseline (r31252)",octane-Mandreel,4265
+Cortex-A57,"Baseline (r31252)",octane-MandreelLatency,8670
+Cortex-A57,"Baseline (r31252)",octane-Gameboy,11420
+Cortex-A57,"Baseline (r31252)",octane-CodeLoad,3167
+Cortex-A57,"Baseline (r31252)",octane-Box2D,4824
+Cortex-A57,"Baseline (r31252)",octane-zlib,11435
+Cortex-A57,"Baseline (r31252)",octane-Typescript,4089
+Cortex-A57,"Baseline (r31252)","octane-Score (version 9)",5840
+Cortex-A57,"Baseline (r31252)",octane-Richards,6065
+Cortex-A57,"Baseline (r31252)",octane-DeltaBlue,9495
+Cortex-A57,"Baseline (r31252)",octane-Crypto,7879
+Cortex-A57,"Baseline (r31252)",octane-RayTrace,11731
+Cortex-A57,"Baseline (r31252)",octane-EarleyBoyer,8263
+Cortex-A57,"Baseline (r31252)",octane-RegExp,931
+Cortex-A57,"Baseline (r31252)",octane-Splay,4718
+Cortex-A57,"Baseline (r31252)",octane-SplayLatency,8684
+Cortex-A57,"Baseline (r31252)",octane-NavierStokes,6299
+Cortex-A57,"Baseline (r31252)",octane-PdfJS,3532
+Cortex-A57,"Baseline (r31252)",octane-Mandreel,4288
+Cortex-A57,"Baseline (r31252)",octane-MandreelLatency,8610
+Cortex-A57,"Baseline (r31252)",octane-Gameboy,11530
+Cortex-A57,"Baseline (r31252)",octane-CodeLoad,3140
+Cortex-A57,"Baseline (r31252)",octane-Box2D,6682
+Cortex-A57,"Baseline (r31252)",octane-zlib,11407
+Cortex-A57,"Baseline (r31252)",octane-Typescript,3628
+Cortex-A57,"Baseline (r31252)","octane-Score (version 9)",5928
+Cortex-A57,"Baseline (r31252)",octane-Richards,5782
+Cortex-A57,"Baseline (r31252)",octane-DeltaBlue,9766
+Cortex-A57,"Baseline (r31252)",octane-Crypto,7875
+Cortex-A57,"Baseline (r31252)",octane-RayTrace,11140
+Cortex-A57,"Baseline (r31252)",octane-EarleyBoyer,8302
+Cortex-A57,"Baseline (r31252)",octane-RegExp,891
+Cortex-A57,"Baseline (r31252)",octane-Splay,4775
+Cortex-A57,"Baseline (r31252)",octane-SplayLatency,9270
+Cortex-A57,"Baseline (r31252)",octane-NavierStokes,6299
+Cortex-A57,"Baseline (r31252)",octane-PdfJS,3525
+Cortex-A57,"Baseline (r31252)",octane-Mandreel,4299
+Cortex-A57,"Baseline (r31252)",octane-MandreelLatency,8610
+Cortex-A57,"Baseline (r31252)",octane-Gameboy,11520
+Cortex-A57,"Baseline (r31252)",octane-CodeLoad,3143
+Cortex-A57,"Baseline (r31252)",octane-Box2D,6549
+Cortex-A57,"Baseline (r31252)",octane-zlib,11325
+Cortex-A57,"Baseline (r31252)",octane-Typescript,3780
+Cortex-A57,"Baseline (r31252)","octane-Score (version 9)",5922
+Cortex-A57,"Baseline (r31252)",octane-Richards,6075
+Cortex-A57,"Baseline (r31252)",octane-DeltaBlue,8873
+Cortex-A57,"Baseline (r31252)",octane-Crypto,7869
+Cortex-A57,"Baseline (r31252)",octane-RayTrace,11118
+Cortex-A57,"Baseline (r31252)",octane-EarleyBoyer,8241
+Cortex-A57,"Baseline (r31252)",octane-RegExp,918
+Cortex-A57,"Baseline (r31252)",octane-Splay,4792
+Cortex-A57,"Baseline (r31252)",octane-SplayLatency,9324
+Cortex-A57,"Baseline (r31252)",octane-NavierStokes,6306
+Cortex-A57,"Baseline (r31252)",octane-PdfJS,3470
+Cortex-A57,"Baseline (r31252)",octane-Mandreel,4287
+Cortex-A57,"Baseline (r31252)",octane-MandreelLatency,8610
+Cortex-A57,"Baseline (r31252)",octane-Gameboy,11550
+Cortex-A57,"Baseline (r31252)",octane-CodeLoad,3149
+Cortex-A57,"Baseline (r31252)",octane-Box2D,4915
+Cortex-A57,"Baseline (r31252)",octane-zlib,11467
+Cortex-A57,"Baseline (r31252)",octane-Typescript,4144
+Cortex-A57,"Baseline (r31252)","octane-Score (version 9)",5848
+Cortex-A57,"Baseline (r31252)",octane-Richards,5722
+Cortex-A57,"Baseline (r31252)",octane-DeltaBlue,9534
+Cortex-A57,"Baseline (r31252)",octane-Crypto,7855
+Cortex-A57,"Baseline (r31252)",octane-RayTrace,10824
+Cortex-A57,"Baseline (r31252)",octane-EarleyBoyer,8099
+Cortex-A57,"Baseline (r31252)",octane-RegExp,904
+Cortex-A57,"Baseline (r31252)",octane-Splay,4775
+Cortex-A57,"Baseline (r31252)",octane-SplayLatency,9152
+Cortex-A57,"Baseline (r31252)",octane-NavierStokes,6306
+Cortex-A57,"Baseline (r31252)",octane-PdfJS,3485
+Cortex-A57,"Baseline (r31252)",octane-Mandreel,4288
+Cortex-A57,"Baseline (r31252)",octane-MandreelLatency,8670
+Cortex-A57,"Baseline (r31252)",octane-Gameboy,11495
+Cortex-A57,"Baseline (r31252)",octane-CodeLoad,3154
+Cortex-A57,"Baseline (r31252)",octane-Box2D,4887
+Cortex-A57,"Baseline (r31252)",octane-zlib,10805
+Cortex-A57,"Baseline (r31252)",octane-Typescript,4202
+Cortex-A57,"Baseline (r31252)","octane-Score (version 9)",5809
+Cortex-A57,"Baseline (r31252)",octane-Richards,5521
+Cortex-A57,"Baseline (r31252)",octane-DeltaBlue,9693
+Cortex-A57,"Baseline (r31252)",octane-Crypto,7893
+Cortex-A57,"Baseline (r31252)",octane-RayTrace,11254
+Cortex-A57,"Baseline (r31252)",octane-EarleyBoyer,8323
+Cortex-A57,"Baseline (r31252)",octane-RegExp,890
+Cortex-A57,"Baseline (r31252)",octane-Splay,4738
+Cortex-A57,"Baseline (r31252)",octane-SplayLatency,9321
+Cortex-A57,"Baseline (r31252)",octane-NavierStokes,6306
+Cortex-A57,"Baseline (r31252)",octane-PdfJS,3505
+Cortex-A57,"Baseline (r31252)",octane-Mandreel,4281
+Cortex-A57,"Baseline (r31252)",octane-MandreelLatency,8610
+Cortex-A57,"Baseline (r31252)",octane-Gameboy,11470
+Cortex-A57,"Baseline (r31252)",octane-CodeLoad,3142
+Cortex-A57,"Baseline (r31252)",octane-Box2D,6571
+Cortex-A57,"Baseline (r31252)",octane-zlib,11398
+Cortex-A57,"Baseline (r31252)",octane-Typescript,3774
+Cortex-A57,"Baseline (r31252)","octane-Score (version 9)",5905
+Cortex-A57,"Baseline (r31252)",octane-Richards,6298
+Cortex-A57,"Baseline (r31252)",octane-DeltaBlue,9323
+Cortex-A57,"Baseline (r31252)",octane-Crypto,7910
+Cortex-A57,"Baseline (r31252)",octane-RayTrace,11532
+Cortex-A57,"Baseline (r31252)",octane-EarleyBoyer,8186
+Cortex-A57,"Baseline (r31252)",octane-RegExp,880
+Cortex-A57,"Baseline (r31252)",octane-Splay,4779
+Cortex-A57,"Baseline (r31252)",octane-SplayLatency,9475
+Cortex-A57,"Baseline (r31252)",octane-NavierStokes,6299
+Cortex-A57,"Baseline (r31252)",octane-PdfJS,3511
+Cortex-A57,"Baseline (r31252)",octane-Mandreel,4297
+Cortex-A57,"Baseline (r31252)",octane-MandreelLatency,8655
+Cortex-A57,"Baseline (r31252)",octane-Gameboy,11627
+Cortex-A57,"Baseline (r31252)",octane-CodeLoad,3142
+Cortex-A57,"Baseline (r31252)",octane-Box2D,6580
+Cortex-A57,"Baseline (r31252)",octane-zlib,11407
+Cortex-A57,"Baseline (r31252)",octane-Typescript,3787
+Cortex-A57,"Baseline (r31252)","octane-Score (version 9)",5956
+Cortex-A57,"Baseline (r31252)",octane-Richards,6273
+Cortex-A57,"Baseline (r31252)",octane-DeltaBlue,9799
+Cortex-A57,"Baseline (r31252)",octane-Crypto,7881
+Cortex-A57,"Baseline (r31252)",octane-RayTrace,11458
+Cortex-A57,"Baseline (r31252)",octane-EarleyBoyer,8302
+Cortex-A57,"Baseline (r31252)",octane-RegExp,920
+Cortex-A57,"Baseline (r31252)",octane-Splay,4722
+Cortex-A57,"Baseline (r31252)",octane-SplayLatency,9167
+Cortex-A57,"Baseline (r31252)",octane-NavierStokes,6306
+Cortex-A57,"Baseline (r31252)",octane-PdfJS,3487
+Cortex-A57,"Baseline (r31252)",octane-Mandreel,4301
+Cortex-A57,"Baseline (r31252)",octane-MandreelLatency,8625
+Cortex-A57,"Baseline (r31252)",octane-Gameboy,11627
+Cortex-A57,"Baseline (r31252)",octane-CodeLoad,3138
+Cortex-A57,"Baseline (r31252)",octane-Box2D,6558
+Cortex-A57,"Baseline (r31252)",octane-zlib,11418
+Cortex-A57,"Baseline (r31252)",octane-Typescript,3730
+Cortex-A57,"Baseline (r31252)","octane-Score (version 9)",5963
+Cortex-A57,"Baseline (r31252)",octane-Richards,6047
+Cortex-A57,"Baseline (r31252)",octane-DeltaBlue,9567
+Cortex-A57,"Baseline (r31252)",octane-Crypto,7886
+Cortex-A57,"Baseline (r31252)",octane-RayTrace,10824
+Cortex-A57,"Baseline (r31252)",octane-EarleyBoyer,8298
+Cortex-A57,"Baseline (r31252)",octane-RegExp,943
+Cortex-A57,"Baseline (r31252)",octane-Splay,4611
+Cortex-A57,"Baseline (r31252)",octane-SplayLatency,8302
+Cortex-A57,"Baseline (r31252)",octane-NavierStokes,6306
+Cortex-A57,"Baseline (r31252)",octane-PdfJS,3019
+Cortex-A57,"Baseline (r31252)",octane-Mandreel,4305
+Cortex-A57,"Baseline (r31252)",octane-MandreelLatency,8685
+Cortex-A57,"Baseline (r31252)",octane-Gameboy,11530
+Cortex-A57,"Baseline (r31252)",octane-CodeLoad,3156
+Cortex-A57,"Baseline (r31252)",octane-Box2D,6492
+Cortex-A57,"Baseline (r31252)",octane-zlib,11401
+Cortex-A57,"Baseline (r31252)",octane-Typescript,3744
+Cortex-A57,"Baseline (r31252)","octane-Score (version 9)",5837
+Cortex-A57,"Baseline (r31252)",octane-Richards,5966
+Cortex-A57,"Baseline (r31252)",octane-DeltaBlue,9614
+Cortex-A57,"Baseline (r31252)",octane-Crypto,7880
+Cortex-A57,"Baseline (r31252)",octane-RayTrace,11045
+Cortex-A57,"Baseline (r31252)",octane-EarleyBoyer,8305
+Cortex-A57,"Baseline (r31252)",octane-RegExp,918
+Cortex-A57,"Baseline (r31252)",octane-Splay,4601
+Cortex-A57,"Baseline (r31252)",octane-SplayLatency,8072
+Cortex-A57,"Baseline (r31252)",octane-NavierStokes,6299
+Cortex-A57,"Baseline (r31252)",octane-PdfJS,3488
+Cortex-A57,"Baseline (r31252)",octane-Mandreel,4308
+Cortex-A57,"Baseline (r31252)",octane-MandreelLatency,8715
+Cortex-A57,"Baseline (r31252)",octane-Gameboy,11385
+Cortex-A57,"Baseline (r31252)",octane-CodeLoad,3154
+Cortex-A57,"Baseline (r31252)",octane-Box2D,6511
+Cortex-A57,"Baseline (r31252)",octane-zlib,11390
+Cortex-A57,"Baseline (r31252)",octane-Typescript,3791
+Cortex-A57,"Baseline (r31252)","octane-Score (version 9)",5873
+Cortex-A57,"Baseline (r31252)",octane-Richards,6181
+Cortex-A57,"Baseline (r31252)",octane-DeltaBlue,8470
+Cortex-A57,"Baseline (r31252)",octane-Crypto,7858
+Cortex-A57,"Baseline (r31252)",octane-RayTrace,11328
+Cortex-A57,"Baseline (r31252)",octane-EarleyBoyer,8301
+Cortex-A57,"Baseline (r31252)",octane-RegExp,912
+Cortex-A57,"Baseline (r31252)",octane-Splay,4718
+Cortex-A57,"Baseline (r31252)",octane-SplayLatency,9361
+Cortex-A57,"Baseline (r31252)",octane-NavierStokes,6306
+Cortex-A57,"Baseline (r31252)",octane-PdfJS,3557
+Cortex-A57,"Baseline (r31252)",octane-Mandreel,4331
+Cortex-A57,"Baseline (r31252)",octane-MandreelLatency,8685
+Cortex-A57,"Baseline (r31252)",octane-Gameboy,11555
+Cortex-A57,"Baseline (r31252)",octane-CodeLoad,3151
+Cortex-A57,"Baseline (r31252)",octane-Box2D,6220
+Cortex-A57,"Baseline (r31252)",octane-zlib,11424
+Cortex-A57,"Baseline (r31252)",octane-Typescript,3868
+Cortex-A57,"Baseline (r31252)","octane-Score (version 9)",5912
+Cortex-A57,"Baseline (r31252)",octane-Richards,6524
+Cortex-A57,"Baseline (r31252)",octane-DeltaBlue,9409
+Cortex-A57,"Baseline (r31252)",octane-Crypto,7871
+Cortex-A57,"Baseline (r31252)",octane-RayTrace,10887
+Cortex-A57,"Baseline (r31252)",octane-EarleyBoyer,8236
+Cortex-A57,"Baseline (r31252)",octane-RegExp,905
+Cortex-A57,"Baseline (r31252)",octane-Splay,4645
+Cortex-A57,"Baseline (r31252)",octane-SplayLatency,8158
+Cortex-A57,"Baseline (r31252)",octane-NavierStokes,6299
+Cortex-A57,"Baseline (r31252)",octane-PdfJS,3410
+Cortex-A57,"Baseline (r31252)",octane-Mandreel,4316
+Cortex-A57,"Baseline (r31252)",octane-MandreelLatency,8610
+Cortex-A57,"Baseline (r31252)",octane-Gameboy,11336
+Cortex-A57,"Baseline (r31252)",octane-CodeLoad,3157
+Cortex-A57,"Baseline (r31252)",octane-Box2D,5911
+Cortex-A57,"Baseline (r31252)",octane-zlib,11002
+Cortex-A57,"Baseline (r31252)",octane-Typescript,3732
+Cortex-A57,"Baseline (r31252)","octane-Score (version 9)",5827
+Cortex-A57,"Baseline (r31252)",octane-Richards,6397
+Cortex-A57,"Baseline (r31252)",octane-DeltaBlue,8232
+Cortex-A57,"Baseline (r31252)",octane-Crypto,7718
+Cortex-A57,"Baseline (r31252)",octane-RayTrace,11034
+Cortex-A57,"Baseline (r31252)",octane-EarleyBoyer,8250
+Cortex-A57,"Baseline (r31252)",octane-RegExp,910
+Cortex-A57,"Baseline (r31252)",octane-Splay,4792
+Cortex-A57,"Baseline (r31252)",octane-SplayLatency,9326
+Cortex-A57,"Baseline (r31252)",octane-NavierStokes,6293
+Cortex-A57,"Baseline (r31252)",octane-PdfJS,3481
+Cortex-A57,"Baseline (r31252)",octane-Mandreel,4351
+Cortex-A57,"Baseline (r31252)",octane-MandreelLatency,8435
+Cortex-A57,"Baseline (r31252)",octane-Gameboy,11535
+Cortex-A57,"Baseline (r31252)",octane-CodeLoad,3142
+Cortex-A57,"Baseline (r31252)",octane-Box2D,4561
+Cortex-A57,"Baseline (r31252)",octane-zlib,11470
+Cortex-A57,"Baseline (r31252)",octane-Typescript,4067
+Cortex-A57,"Baseline (r31252)","octane-Score (version 9)",5793
+Cortex-A57,"Baseline (r31252)",octane-Richards,5564
+Cortex-A57,"Baseline (r31252)",octane-DeltaBlue,9567
+Cortex-A57,"Baseline (r31252)",octane-Crypto,7887
+Cortex-A57,"Baseline (r31252)",octane-RayTrace,11067
+Cortex-A57,"Baseline (r31252)",octane-EarleyBoyer,8221
+Cortex-A57,"Baseline (r31252)",octane-RegExp,906
+Cortex-A57,"Baseline (r31252)",octane-Splay,4730
+Cortex-A57,"Baseline (r31252)",octane-SplayLatency,9309
+Cortex-A57,"Baseline (r31252)",octane-NavierStokes,6299
+Cortex-A57,"Baseline (r31252)",octane-PdfJS,3573
+Cortex-A57,"Baseline (r31252)",octane-Mandreel,4327
+Cortex-A57,"Baseline (r31252)",octane-MandreelLatency,8655
+Cortex-A57,"Baseline (r31252)",octane-Gameboy,11520
+Cortex-A57,"Baseline (r31252)",octane-CodeLoad,3161
+Cortex-A57,"Baseline (r31252)",octane-Box2D,6367
+Cortex-A57,"Baseline (r31252)",octane-zlib,11404
+Cortex-A57,"Baseline (r31252)",octane-Typescript,3785
+Cortex-A57,"Baseline (r31252)","octane-Score (version 9)",5904
+Cortex-A57,"Baseline (r31252)",octane-Richards,5807
+Cortex-A57,"Baseline (r31252)",octane-DeltaBlue,7954
+Cortex-A57,"Baseline (r31252)",octane-Crypto,7844
+Cortex-A57,"Baseline (r31252)",octane-RayTrace,11396
+Cortex-A57,"Baseline (r31252)",octane-EarleyBoyer,8229
+Cortex-A57,"Baseline (r31252)",octane-RegExp,883
+Cortex-A57,"Baseline (r31252)",octane-Splay,4819
+Cortex-A57,"Baseline (r31252)",octane-SplayLatency,9413
+Cortex-A57,"Baseline (r31252)",octane-NavierStokes,6299
+Cortex-A57,"Baseline (r31252)",octane-PdfJS,3534
+Cortex-A57,"Baseline (r31252)",octane-Mandreel,4316
+Cortex-A57,"Baseline (r31252)",octane-MandreelLatency,8580
+Cortex-A57,"Baseline (r31252)",octane-Gameboy,11632
+Cortex-A57,"Baseline (r31252)",octane-CodeLoad,3135
+Cortex-A57,"Baseline (r31252)",octane-Box2D,4908
+Cortex-A57,"Baseline (r31252)",octane-zlib,11458
+Cortex-A57,"Baseline (r31252)",octane-Typescript,4103
+Cortex-A57,"Baseline (r31252)","octane-Score (version 9)",5797
+Cortex-A57,"Baseline (r31252)",octane-Richards,5726
+Cortex-A57,"Baseline (r31252)",octane-DeltaBlue,9700
+Cortex-A57,"Baseline (r31252)",octane-Crypto,7881
+Cortex-A57,"Baseline (r31252)",octane-RayTrace,10982
+Cortex-A57,"Baseline (r31252)",octane-EarleyBoyer,8290
+Cortex-A57,"Baseline (r31252)",octane-RegExp,935
+Cortex-A57,"Baseline (r31252)",octane-Splay,4661
+Cortex-A57,"Baseline (r31252)",octane-SplayLatency,8453
+Cortex-A57,"Baseline (r31252)",octane-NavierStokes,6299
+Cortex-A57,"Baseline (r31252)",octane-PdfJS,3523
+Cortex-A57,"Baseline (r31252)",octane-Mandreel,4308
+Cortex-A57,"Baseline (r31252)",octane-MandreelLatency,8746
+Cortex-A57,"Baseline (r31252)",octane-Gameboy,11725
+Cortex-A57,"Baseline (r31252)",octane-CodeLoad,3138
+Cortex-A57,"Baseline (r31252)",octane-Box2D,6471
+Cortex-A57,"Baseline (r31252)",octane-zlib,11415
+Cortex-A57,"Baseline (r31252)",octane-Typescript,3786
+Cortex-A57,"Baseline (r31252)","octane-Score (version 9)",5898
+Cortex-A57,"Baseline (r31252)",octane-Richards,6075
+Cortex-A57,"Baseline (r31252)",octane-DeltaBlue,9058
+Cortex-A57,"Baseline (r31252)",octane-Crypto,7819
+Cortex-A57,"Baseline (r31252)",octane-RayTrace,10804
+Cortex-A57,"Baseline (r31252)",octane-EarleyBoyer,8265
+Cortex-A57,"Baseline (r31252)",octane-RegExp,863
+Cortex-A57,"Baseline (r31252)",octane-Splay,4665
+Cortex-A57,"Baseline (r31252)",octane-SplayLatency,9325
+Cortex-A57,"Baseline (r31252)",octane-NavierStokes,6299
+Cortex-A57,"Baseline (r31252)",octane-PdfJS,3529
+Cortex-A57,"Baseline (r31252)",octane-Mandreel,4288
+Cortex-A57,"Baseline (r31252)",octane-MandreelLatency,8551
+Cortex-A57,"Baseline (r31252)",octane-Gameboy,11287
+Cortex-A57,"Baseline (r31252)",octane-CodeLoad,3112
+Cortex-A57,"Baseline (r31252)",octane-Box2D,6653
+Cortex-A57,"Baseline (r31252)",octane-zlib,11381
+Cortex-A57,"Baseline (r31252)",octane-Typescript,3749
+Cortex-A57,"Baseline (r31252)","octane-Score (version 9)",5872
+Cortex-A57,"Baseline (r31252)",ss-3d-cube,51
+Cortex-A57,"Baseline (r31252)",ss-3d-morph,67
+Cortex-A57,"Baseline (r31252)",ss-3d-raytrace,62
+Cortex-A57,"Baseline (r31252)",ss-access-binary-trees,9
+Cortex-A57,"Baseline (r31252)",ss-access-fannkuch,26
+Cortex-A57,"Baseline (r31252)",ss-access-nbody,14
+Cortex-A57,"Baseline (r31252)",ss-access-nsieve,10
+Cortex-A57,"Baseline (r31252)",ss-bitops-3bit-bits-in-byte,4
+Cortex-A57,"Baseline (r31252)",ss-bitops-bits-in-byte,17
+Cortex-A57,"Baseline (r31252)",ss-bitops-bitwise-and,7
+Cortex-A57,"Baseline (r31252)",ss-bitops-nsieve-bits,14
+Cortex-A57,"Baseline (r31252)",ss-controlflow-recursive,7
+Cortex-A57,"Baseline (r31252)",ss-crypto-aes,34
+Cortex-A57,"Baseline (r31252)",ss-crypto-md5,18
+Cortex-A57,"Baseline (r31252)",ss-crypto-sha1,18
+Cortex-A57,"Baseline (r31252)",ss-date-format-tofte,52
+Cortex-A57,"Baseline (r31252)",ss-date-format-xparb,57
+Cortex-A57,"Baseline (r31252)",ss-math-cordic,11
+Cortex-A57,"Baseline (r31252)",ss-math-partial-sums,59
+Cortex-A57,"Baseline (r31252)",ss-math-spectral-norm,10
+Cortex-A57,"Baseline (r31252)",ss-regexp-dna,37
+Cortex-A57,"Baseline (r31252)",ss-string-base64,28
+Cortex-A57,"Baseline (r31252)",ss-string-fasta,60
+Cortex-A57,"Baseline (r31252)",ss-string-tagcloud,118
+Cortex-A57,"Baseline (r31252)",ss-string-unpack-code,115
+Cortex-A57,"Baseline (r31252)",ss-string-validate-input,34
+Cortex-A57,"Baseline (r31252)",ss-3d-cube,51
+Cortex-A57,"Baseline (r31252)",ss-3d-morph,67
+Cortex-A57,"Baseline (r31252)",ss-3d-raytrace,61
+Cortex-A57,"Baseline (r31252)",ss-access-binary-trees,9
+Cortex-A57,"Baseline (r31252)",ss-access-fannkuch,26
+Cortex-A57,"Baseline (r31252)",ss-access-nbody,19
+Cortex-A57,"Baseline (r31252)",ss-access-nsieve,14
+Cortex-A57,"Baseline (r31252)",ss-bitops-3bit-bits-in-byte,6
+Cortex-A57,"Baseline (r31252)",ss-bitops-bits-in-byte,23
+Cortex-A57,"Baseline (r31252)",ss-bitops-bitwise-and,9
+Cortex-A57,"Baseline (r31252)",ss-bitops-nsieve-bits,19
+Cortex-A57,"Baseline (r31252)",ss-controlflow-recursive,10
+Cortex-A57,"Baseline (r31252)",ss-crypto-aes,44
+Cortex-A57,"Baseline (r31252)",ss-crypto-md5,24
+Cortex-A57,"Baseline (r31252)",ss-crypto-sha1,25
+Cortex-A57,"Baseline (r31252)",ss-date-format-tofte,68
+Cortex-A57,"Baseline (r31252)",ss-date-format-xparb,78
+Cortex-A57,"Baseline (r31252)",ss-math-cordic,14
+Cortex-A57,"Baseline (r31252)",ss-math-partial-sums,80
+Cortex-A57,"Baseline (r31252)",ss-math-spectral-norm,13
+Cortex-A57,"Baseline (r31252)",ss-regexp-dna,49
+Cortex-A57,"Baseline (r31252)",ss-string-base64,38
+Cortex-A57,"Baseline (r31252)",ss-string-fasta,79
+Cortex-A57,"Baseline (r31252)",ss-string-tagcloud,158
+Cortex-A57,"Baseline (r31252)",ss-string-unpack-code,117
+Cortex-A57,"Baseline (r31252)",ss-string-validate-input,34
+Cortex-A57,"Baseline (r31252)",ss-3d-cube,51
+Cortex-A57,"Baseline (r31252)",ss-3d-morph,66
+Cortex-A57,"Baseline (r31252)",ss-3d-raytrace,61
+Cortex-A57,"Baseline (r31252)",ss-access-binary-trees,8
+Cortex-A57,"Baseline (r31252)",ss-access-fannkuch,26
+Cortex-A57,"Baseline (r31252)",ss-access-nbody,14
+Cortex-A57,"Baseline (r31252)",ss-access-nsieve,11
+Cortex-A57,"Baseline (r31252)",ss-bitops-3bit-bits-in-byte,4
+Cortex-A57,"Baseline (r31252)",ss-bitops-bits-in-byte,17
+Cortex-A57,"Baseline (r31252)",ss-bitops-bitwise-and,7
+Cortex-A57,"Baseline (r31252)",ss-bitops-nsieve-bits,14
+Cortex-A57,"Baseline (r31252)",ss-controlflow-recursive,8
+Cortex-A57,"Baseline (r31252)",ss-crypto-aes,33
+Cortex-A57,"Baseline (r31252)",ss-crypto-md5,18
+Cortex-A57,"Baseline (r31252)",ss-crypto-sha1,18
+Cortex-A57,"Baseline (r31252)",ss-date-format-tofte,52
+Cortex-A57,"Baseline (r31252)",ss-date-format-xparb,57
+Cortex-A57,"Baseline (r31252)",ss-math-cordic,10
+Cortex-A57,"Baseline (r31252)",ss-math-partial-sums,60
+Cortex-A57,"Baseline (r31252)",ss-math-spectral-norm,10
+Cortex-A57,"Baseline (r31252)",ss-regexp-dna,37
+Cortex-A57,"Baseline (r31252)",ss-string-base64,29
+Cortex-A57,"Baseline (r31252)",ss-string-fasta,62
+Cortex-A57,"Baseline (r31252)",ss-string-tagcloud,118
+Cortex-A57,"Baseline (r31252)",ss-string-unpack-code,114
+Cortex-A57,"Baseline (r31252)",ss-string-validate-input,34
+Cortex-A57,"Baseline (r31252)",ss-3d-cube,52
+Cortex-A57,"Baseline (r31252)",ss-3d-morph,67
+Cortex-A57,"Baseline (r31252)",ss-3d-raytrace,72
+Cortex-A57,"Baseline (r31252)",ss-access-binary-trees,11
+Cortex-A57,"Baseline (r31252)",ss-access-fannkuch,36
+Cortex-A57,"Baseline (r31252)",ss-access-nbody,18
+Cortex-A57,"Baseline (r31252)",ss-access-nsieve,15
+Cortex-A57,"Baseline (r31252)",ss-bitops-3bit-bits-in-byte,5
+Cortex-A57,"Baseline (r31252)",ss-bitops-bits-in-byte,23
+Cortex-A57,"Baseline (r31252)",ss-bitops-bitwise-and,10
+Cortex-A57,"Baseline (r31252)",ss-bitops-nsieve-bits,18
+Cortex-A57,"Baseline (r31252)",ss-controlflow-recursive,9
+Cortex-A57,"Baseline (r31252)",ss-crypto-aes,45
+Cortex-A57,"Baseline (r31252)",ss-crypto-md5,25
+Cortex-A57,"Baseline (r31252)",ss-crypto-sha1,25
+Cortex-A57,"Baseline (r31252)",ss-date-format-tofte,70
+Cortex-A57,"Baseline (r31252)",ss-date-format-xparb,80
+Cortex-A57,"Baseline (r31252)",ss-math-cordic,14
+Cortex-A57,"Baseline (r31252)",ss-math-partial-sums,81
+Cortex-A57,"Baseline (r31252)",ss-math-spectral-norm,13
+Cortex-A57,"Baseline (r31252)",ss-regexp-dna,50
+Cortex-A57,"Baseline (r31252)",ss-string-base64,39
+Cortex-A57,"Baseline (r31252)",ss-string-fasta,83
+Cortex-A57,"Baseline (r31252)",ss-string-tagcloud,132
+Cortex-A57,"Baseline (r31252)",ss-string-unpack-code,115
+Cortex-A57,"Baseline (r31252)",ss-string-validate-input,34
+Cortex-A57,"Baseline (r31252)",ss-3d-cube,54
+Cortex-A57,"Baseline (r31252)",ss-3d-morph,67
+Cortex-A57,"Baseline (r31252)",ss-3d-raytrace,60
+Cortex-A57,"Baseline (r31252)",ss-access-binary-trees,9
+Cortex-A57,"Baseline (r31252)",ss-access-fannkuch,26
+Cortex-A57,"Baseline (r31252)",ss-access-nbody,16
+Cortex-A57,"Baseline (r31252)",ss-access-nsieve,11
+Cortex-A57,"Baseline (r31252)",ss-bitops-3bit-bits-in-byte,4
+Cortex-A57,"Baseline (r31252)",ss-bitops-bits-in-byte,16
+Cortex-A57,"Baseline (r31252)",ss-bitops-bitwise-and,7
+Cortex-A57,"Baseline (r31252)",ss-bitops-nsieve-bits,13
+Cortex-A57,"Baseline (r31252)",ss-controlflow-recursive,7
+Cortex-A57,"Baseline (r31252)",ss-crypto-aes,33
+Cortex-A57,"Baseline (r31252)",ss-crypto-md5,18
+Cortex-A57,"Baseline (r31252)",ss-crypto-sha1,18
+Cortex-A57,"Baseline (r31252)",ss-date-format-tofte,68
+Cortex-A57,"Baseline (r31252)",ss-date-format-xparb,79
+Cortex-A57,"Baseline (r31252)",ss-math-cordic,14
+Cortex-A57,"Baseline (r31252)",ss-math-partial-sums,80
+Cortex-A57,"Baseline (r31252)",ss-math-spectral-norm,16
+Cortex-A57,"Baseline (r31252)",ss-regexp-dna,50
+Cortex-A57,"Baseline (r31252)",ss-string-base64,39
+Cortex-A57,"Baseline (r31252)",ss-string-fasta,83
+Cortex-A57,"Baseline (r31252)",ss-string-tagcloud,158
+Cortex-A57,"Baseline (r31252)",ss-string-unpack-code,153
+Cortex-A57,"Baseline (r31252)",ss-string-validate-input,46
+Cortex-A57,"Baseline (r31252)",ss-3d-cube,61
+Cortex-A57,"Baseline (r31252)",ss-3d-morph,67
+Cortex-A57,"Baseline (r31252)",ss-3d-raytrace,60
+Cortex-A57,"Baseline (r31252)",ss-access-binary-trees,9
+Cortex-A57,"Baseline (r31252)",ss-access-fannkuch,26
+Cortex-A57,"Baseline (r31252)",ss-access-nbody,14
+Cortex-A57,"Baseline (r31252)",ss-access-nsieve,10
+Cortex-A57,"Baseline (r31252)",ss-bitops-3bit-bits-in-byte,4
+Cortex-A57,"Baseline (r31252)",ss-bitops-bits-in-byte,17
+Cortex-A57,"Baseline (r31252)",ss-bitops-bitwise-and,7
+Cortex-A57,"Baseline (r31252)",ss-bitops-nsieve-bits,14
+Cortex-A57,"Baseline (r31252)",ss-controlflow-recursive,7
+Cortex-A57,"Baseline (r31252)",ss-crypto-aes,33
+Cortex-A57,"Baseline (r31252)",ss-crypto-md5,19
+Cortex-A57,"Baseline (r31252)",ss-crypto-sha1,19
+Cortex-A57,"Baseline (r31252)",ss-date-format-tofte,51
+Cortex-A57,"Baseline (r31252)",ss-date-format-xparb,58
+Cortex-A57,"Baseline (r31252)",ss-math-cordic,11
+Cortex-A57,"Baseline (r31252)",ss-math-partial-sums,60
+Cortex-A57,"Baseline (r31252)",ss-math-spectral-norm,10
+Cortex-A57,"Baseline (r31252)",ss-regexp-dna,37
+Cortex-A57,"Baseline (r31252)",ss-string-base64,30
+Cortex-A57,"Baseline (r31252)",ss-string-fasta,58
+Cortex-A57,"Baseline (r31252)",ss-string-tagcloud,118
+Cortex-A57,"Baseline (r31252)",ss-string-unpack-code,115
+Cortex-A57,"Baseline (r31252)",ss-string-validate-input,34
+Cortex-A57,"Baseline (r31252)",ss-3d-cube,50
+Cortex-A57,"Baseline (r31252)",ss-3d-morph,67
+Cortex-A57,"Baseline (r31252)",ss-3d-raytrace,61
+Cortex-A57,"Baseline (r31252)",ss-access-binary-trees,9
+Cortex-A57,"Baseline (r31252)",ss-access-fannkuch,26
+Cortex-A57,"Baseline (r31252)",ss-access-nbody,14
+Cortex-A57,"Baseline (r31252)",ss-access-nsieve,11
+Cortex-A57,"Baseline (r31252)",ss-bitops-3bit-bits-in-byte,4
+Cortex-A57,"Baseline (r31252)",ss-bitops-bits-in-byte,16
+Cortex-A57,"Baseline (r31252)",ss-bitops-bitwise-and,7
+Cortex-A57,"Baseline (r31252)",ss-bitops-nsieve-bits,14
+Cortex-A57,"Baseline (r31252)",ss-controlflow-recursive,7
+Cortex-A57,"Baseline (r31252)",ss-crypto-aes,41
+Cortex-A57,"Baseline (r31252)",ss-crypto-md5,24
+Cortex-A57,"Baseline (r31252)",ss-crypto-sha1,25
+Cortex-A57,"Baseline (r31252)",ss-date-format-tofte,69
+Cortex-A57,"Baseline (r31252)",ss-date-format-xparb,75
+Cortex-A57,"Baseline (r31252)",ss-math-cordic,15
+Cortex-A57,"Baseline (r31252)",ss-math-partial-sums,81
+Cortex-A57,"Baseline (r31252)",ss-math-spectral-norm,14
+Cortex-A57,"Baseline (r31252)",ss-regexp-dna,50
+Cortex-A57,"Baseline (r31252)",ss-string-base64,38
+Cortex-A57,"Baseline (r31252)",ss-string-fasta,80
+Cortex-A57,"Baseline (r31252)",ss-string-tagcloud,159
+Cortex-A57,"Baseline (r31252)",ss-string-unpack-code,151
+Cortex-A57,"Baseline (r31252)",ss-string-validate-input,40
+Cortex-A57,"Baseline (r31252)",ss-3d-cube,52
+Cortex-A57,"Baseline (r31252)",ss-3d-morph,67
+Cortex-A57,"Baseline (r31252)",ss-3d-raytrace,60
+Cortex-A57,"Baseline (r31252)",ss-access-binary-trees,8
+Cortex-A57,"Baseline (r31252)",ss-access-fannkuch,26
+Cortex-A57,"Baseline (r31252)",ss-access-nbody,17
+Cortex-A57,"Baseline (r31252)",ss-access-nsieve,10
+Cortex-A57,"Baseline (r31252)",ss-bitops-3bit-bits-in-byte,4
+Cortex-A57,"Baseline (r31252)",ss-bitops-bits-in-byte,17
+Cortex-A57,"Baseline (r31252)",ss-bitops-bitwise-and,7
+Cortex-A57,"Baseline (r31252)",ss-bitops-nsieve-bits,14
+Cortex-A57,"Baseline (r31252)",ss-controlflow-recursive,6
+Cortex-A57,"Baseline (r31252)",ss-crypto-aes,33
+Cortex-A57,"Baseline (r31252)",ss-crypto-md5,18
+Cortex-A57,"Baseline (r31252)",ss-crypto-sha1,18
+Cortex-A57,"Baseline (r31252)",ss-date-format-tofte,52
+Cortex-A57,"Baseline (r31252)",ss-date-format-xparb,56
+Cortex-A57,"Baseline (r31252)",ss-math-cordic,10
+Cortex-A57,"Baseline (r31252)",ss-math-partial-sums,60
+Cortex-A57,"Baseline (r31252)",ss-math-spectral-norm,10
+Cortex-A57,"Baseline (r31252)",ss-regexp-dna,37
+Cortex-A57,"Baseline (r31252)",ss-string-base64,29
+Cortex-A57,"Baseline (r31252)",ss-string-fasta,61
+Cortex-A57,"Baseline (r31252)",ss-string-tagcloud,119
+Cortex-A57,"Baseline (r31252)",ss-string-unpack-code,113
+Cortex-A57,"Baseline (r31252)",ss-string-validate-input,33
+Cortex-A57,"Baseline (r31252)",ss-3d-cube,51
+Cortex-A57,"Baseline (r31252)",ss-3d-morph,67
+Cortex-A57,"Baseline (r31252)",ss-3d-raytrace,62
+Cortex-A57,"Baseline (r31252)",ss-access-binary-trees,9
+Cortex-A57,"Baseline (r31252)",ss-access-fannkuch,27
+Cortex-A57,"Baseline (r31252)",ss-access-nbody,13
+Cortex-A57,"Baseline (r31252)",ss-access-nsieve,11
+Cortex-A57,"Baseline (r31252)",ss-bitops-3bit-bits-in-byte,4
+Cortex-A57,"Baseline (r31252)",ss-bitops-bits-in-byte,22
+Cortex-A57,"Baseline (r31252)",ss-bitops-bitwise-and,10
+Cortex-A57,"Baseline (r31252)",ss-bitops-nsieve-bits,19
+Cortex-A57,"Baseline (r31252)",ss-controlflow-recursive,9
+Cortex-A57,"Baseline (r31252)",ss-crypto-aes,44
+Cortex-A57,"Baseline (r31252)",ss-crypto-md5,24
+Cortex-A57,"Baseline (r31252)",ss-crypto-sha1,25
+Cortex-A57,"Baseline (r31252)",ss-date-format-tofte,70
+Cortex-A57,"Baseline (r31252)",ss-date-format-xparb,79
+Cortex-A57,"Baseline (r31252)",ss-math-cordic,15
+Cortex-A57,"Baseline (r31252)",ss-math-partial-sums,81
+Cortex-A57,"Baseline (r31252)",ss-math-spectral-norm,13
+Cortex-A57,"Baseline (r31252)",ss-regexp-dna,50
+Cortex-A57,"Baseline (r31252)",ss-string-base64,38
+Cortex-A57,"Baseline (r31252)",ss-string-fasta,83
+Cortex-A57,"Baseline (r31252)",ss-string-tagcloud,157
+Cortex-A57,"Baseline (r31252)",ss-string-unpack-code,130
+Cortex-A57,"Baseline (r31252)",ss-string-validate-input,34
+Cortex-A57,"Baseline (r31252)",ss-3d-cube,56
+Cortex-A57,"Baseline (r31252)",ss-3d-morph,66
+Cortex-A57,"Baseline (r31252)",ss-3d-raytrace,61
+Cortex-A57,"Baseline (r31252)",ss-access-binary-trees,8
+Cortex-A57,"Baseline (r31252)",ss-access-fannkuch,26
+Cortex-A57,"Baseline (r31252)",ss-access-nbody,14
+Cortex-A57,"Baseline (r31252)",ss-access-nsieve,10
+Cortex-A57,"Baseline (r31252)",ss-bitops-3bit-bits-in-byte,4
+Cortex-A57,"Baseline (r31252)",ss-bitops-bits-in-byte,17
+Cortex-A57,"Baseline (r31252)",ss-bitops-bitwise-and,7
+Cortex-A57,"Baseline (r31252)",ss-bitops-nsieve-bits,14
+Cortex-A57,"Baseline (r31252)",ss-controlflow-recursive,7
+Cortex-A57,"Baseline (r31252)",ss-crypto-aes,33
+Cortex-A57,"Baseline (r31252)",ss-crypto-md5,18
+Cortex-A57,"Baseline (r31252)",ss-crypto-sha1,19
+Cortex-A57,"Baseline (r31252)",ss-date-format-tofte,51
+Cortex-A57,"Baseline (r31252)",ss-date-format-xparb,58
+Cortex-A57,"Baseline (r31252)",ss-math-cordic,10
+Cortex-A57,"Baseline (r31252)",ss-math-partial-sums,80
+Cortex-A57,"Baseline (r31252)",ss-math-spectral-norm,15
+Cortex-A57,"Baseline (r31252)",ss-regexp-dna,50
+Cortex-A57,"Baseline (r31252)",ss-string-base64,38
+Cortex-A57,"Baseline (r31252)",ss-string-fasta,83
+Cortex-A57,"Baseline (r31252)",ss-string-tagcloud,158
+Cortex-A57,"Baseline (r31252)",ss-string-unpack-code,152
+Cortex-A57,"Baseline (r31252)",ss-string-validate-input,45
+Cortex-A53,Patch,asmjs-apps-box2d-loadtime,5671
+Cortex-A53,Patch,asmjs-apps-box2d-throughput,23958
+Cortex-A53,Patch,asmjs-apps-bullet-loadtime,17145
+Cortex-A53,Patch,asmjs-apps-bullet-throughput,37212
+Cortex-A53,Patch,asmjs-apps-lua_binarytrees-loadtime,4073
+Cortex-A53,Patch,asmjs-apps-lua_binarytrees-throughput,27357
+Cortex-A53,Patch,asmjs-apps-zlib-loadtime,3593
+Cortex-A53,Patch,asmjs-apps-zlib-throughput,17453
+Cortex-A53,Patch,asmjs-apps-box2d-loadtime,5666
+Cortex-A53,Patch,asmjs-apps-box2d-throughput,23774
+Cortex-A53,Patch,asmjs-apps-bullet-loadtime,17141
+Cortex-A53,Patch,asmjs-apps-bullet-throughput,37275
+Cortex-A53,Patch,asmjs-apps-lua_binarytrees-loadtime,4050
+Cortex-A53,Patch,asmjs-apps-lua_binarytrees-throughput,27545
+Cortex-A53,Patch,asmjs-apps-zlib-loadtime,3587
+Cortex-A53,Patch,asmjs-apps-zlib-throughput,17434
+Cortex-A53,Patch,asmjs-apps-box2d-loadtime,5819
+Cortex-A53,Patch,asmjs-apps-box2d-throughput,23769
+Cortex-A53,Patch,asmjs-apps-bullet-loadtime,17304
+Cortex-A53,Patch,asmjs-apps-bullet-throughput,37310
+Cortex-A53,Patch,asmjs-apps-lua_binarytrees-loadtime,4067
+Cortex-A53,Patch,asmjs-apps-lua_binarytrees-throughput,27255
+Cortex-A53,Patch,asmjs-apps-zlib-loadtime,3586
+Cortex-A53,Patch,asmjs-apps-zlib-throughput,17438
+Cortex-A53,Patch,asmjs-apps-box2d-loadtime,6120
+Cortex-A53,Patch,asmjs-apps-box2d-throughput,23701
+Cortex-A53,Patch,asmjs-apps-bullet-loadtime,17161
+Cortex-A53,Patch,asmjs-apps-bullet-throughput,37203
+Cortex-A53,Patch,asmjs-apps-lua_binarytrees-loadtime,4065
+Cortex-A53,Patch,asmjs-apps-lua_binarytrees-throughput,27416
+Cortex-A53,Patch,asmjs-apps-zlib-loadtime,3587
+Cortex-A53,Patch,asmjs-apps-zlib-throughput,17485
+Cortex-A53,Patch,asmjs-apps-box2d-loadtime,5648
+Cortex-A53,Patch,asmjs-apps-box2d-throughput,23979
+Cortex-A53,Patch,asmjs-apps-bullet-loadtime,17147
+Cortex-A53,Patch,asmjs-apps-bullet-throughput,37413
+Cortex-A53,Patch,asmjs-apps-lua_binarytrees-loadtime,4055
+Cortex-A53,Patch,asmjs-apps-lua_binarytrees-throughput,26919
+Cortex-A53,Patch,asmjs-apps-zlib-loadtime,3589
+Cortex-A53,Patch,asmjs-apps-zlib-throughput,17444
+Cortex-A53,Patch,asmjs-ubench-copy,32404
+Cortex-A53,Patch,asmjs-ubench-corrections,33826
+Cortex-A53,Patch,asmjs-ubench-fannkuch,32065
+Cortex-A53,Patch,asmjs-ubench-fasta,86945
+Cortex-A53,Patch,asmjs-ubench-life,49938
+Cortex-A53,Patch,asmjs-ubench-memops,86972
+Cortex-A53,Patch,asmjs-ubench-primes,37466
+Cortex-A53,Patch,asmjs-ubench-skinning,172483
+Cortex-A53,Patch,asmjs-ubench-copy,32404
+Cortex-A53,Patch,asmjs-ubench-corrections,33826
+Cortex-A53,Patch,asmjs-ubench-fannkuch,32082
+Cortex-A53,Patch,asmjs-ubench-fasta,87094
+Cortex-A53,Patch,asmjs-ubench-life,49936
+Cortex-A53,Patch,asmjs-ubench-memops,84731
+Cortex-A53,Patch,asmjs-ubench-primes,37460
+Cortex-A53,Patch,asmjs-ubench-skinning,172595
+Cortex-A53,Patch,asmjs-ubench-copy,32855
+Cortex-A53,Patch,asmjs-ubench-corrections,33827
+Cortex-A53,Patch,asmjs-ubench-fannkuch,32067
+Cortex-A53,Patch,asmjs-ubench-fasta,86930
+Cortex-A53,Patch,asmjs-ubench-life,49949
+Cortex-A53,Patch,asmjs-ubench-memops,87022
+Cortex-A53,Patch,asmjs-ubench-primes,37463
+Cortex-A53,Patch,asmjs-ubench-skinning,172884
+Cortex-A53,Patch,asmjs-ubench-copy,32582
+Cortex-A53,Patch,asmjs-ubench-corrections,33826
+Cortex-A53,Patch,asmjs-ubench-fannkuch,32082
+Cortex-A53,Patch,asmjs-ubench-fasta,86911
+Cortex-A53,Patch,asmjs-ubench-life,49962
+Cortex-A53,Patch,asmjs-ubench-memops,87003
+Cortex-A53,Patch,asmjs-ubench-primes,37461
+Cortex-A53,Patch,asmjs-ubench-skinning,172299
+Cortex-A53,Patch,asmjs-ubench-copy,32405
+Cortex-A53,Patch,asmjs-ubench-corrections,33828
+Cortex-A53,Patch,asmjs-ubench-fannkuch,32064
+Cortex-A53,Patch,asmjs-ubench-fasta,86929
+Cortex-A53,Patch,asmjs-ubench-life,49941
+Cortex-A53,Patch,asmjs-ubench-memops,86954
+Cortex-A53,Patch,asmjs-ubench-primes,37466
+Cortex-A53,Patch,asmjs-ubench-skinning,171706
+Cortex-A53,Patch,jetstream-asmjs-bigfib,4851
+Cortex-A53,Patch,jetstream-asmjs-container,28689
+Cortex-A53,Patch,jetstream-asmjs-dry,6197
+Cortex-A53,Patch,jetstream-asmjs-float-mm,9666
+Cortex-A53,Patch,jetstream-asmjs-gcc-loops,46774
+Cortex-A53,Patch,jetstream-asmjs-n-body,12911
+Cortex-A53,Patch,jetstream-asmjs-quicksort,2669
+Cortex-A53,Patch,jetstream-asmjs-towers,3906
+Cortex-A53,Patch,jetstream-asmjs-bigfib,4548
+Cortex-A53,Patch,jetstream-asmjs-container,28318
+Cortex-A53,Patch,jetstream-asmjs-dry,6182
+Cortex-A53,Patch,jetstream-asmjs-float-mm,9847
+Cortex-A53,Patch,jetstream-asmjs-gcc-loops,47083
+Cortex-A53,Patch,jetstream-asmjs-n-body,12732
+Cortex-A53,Patch,jetstream-asmjs-quicksort,2495
+Cortex-A53,Patch,jetstream-asmjs-towers,3738
+Cortex-A53,Patch,jetstream-asmjs-bigfib,4690
+Cortex-A53,Patch,jetstream-asmjs-container,28380
+Cortex-A53,Patch,jetstream-asmjs-dry,6023
+Cortex-A53,Patch,jetstream-asmjs-float-mm,9845
+Cortex-A53,Patch,jetstream-asmjs-gcc-loops,46778
+Cortex-A53,Patch,jetstream-asmjs-n-body,12872
+Cortex-A53,Patch,jetstream-asmjs-quicksort,2495
+Cortex-A53,Patch,jetstream-asmjs-towers,3751
+Cortex-A53,Patch,jetstream-asmjs-bigfib,4693
+Cortex-A53,Patch,jetstream-asmjs-container,28849
+Cortex-A53,Patch,jetstream-asmjs-dry,6494
+Cortex-A53,Patch,jetstream-asmjs-float-mm,9845
+Cortex-A53,Patch,jetstream-asmjs-gcc-loops,46813
+Cortex-A53,Patch,jetstream-asmjs-n-body,12876
+Cortex-A53,Patch,jetstream-asmjs-quicksort,2495
+Cortex-A53,Patch,jetstream-asmjs-towers,3751
+Cortex-A53,Patch,jetstream-asmjs-bigfib,4694
+Cortex-A53,Patch,jetstream-asmjs-container,28491
+Cortex-A53,Patch,jetstream-asmjs-dry,6022
+Cortex-A53,Patch,jetstream-asmjs-float-mm,10141
+Cortex-A53,Patch,jetstream-asmjs-gcc-loops,46618
+Cortex-A53,Patch,jetstream-asmjs-n-body,12733
+Cortex-A53,Patch,jetstream-asmjs-quicksort,2495
+Cortex-A53,Patch,jetstream-asmjs-towers,3751
+Cortex-A53,Patch,kraken-ai-astar,2031
+Cortex-A53,Patch,kraken-audio-beat-detection,977
+Cortex-A53,Patch,kraken-audio-dft,3318
+Cortex-A53,Patch,kraken-audio-fft,628
+Cortex-A53,Patch,kraken-audio-oscillator,536
+Cortex-A53,Patch,kraken-imaging-gaussian-blur,1229
+Cortex-A53,Patch,kraken-imaging-darkroom,1264
+Cortex-A53,Patch,kraken-imaging-desaturate,1100
+Cortex-A53,Patch,kraken-json-parse-financial,509
+Cortex-A53,Patch,kraken-json-stringify-tinderbox,259
+Cortex-A53,Patch,kraken-stanford-crypto-aes,658
+Cortex-A53,Patch,kraken-stanford-crypto-ccm,1027
+Cortex-A53,Patch,kraken-stanford-crypto-pbkdf2,1114
+Cortex-A53,Patch,kraken-stanford-crypto-sha256-iterative,452
+Cortex-A53,Patch,kraken-ai-astar,2035
+Cortex-A53,Patch,kraken-audio-beat-detection,980
+Cortex-A53,Patch,kraken-audio-dft,3311
+Cortex-A53,Patch,kraken-audio-fft,628
+Cortex-A53,Patch,kraken-audio-oscillator,534
+Cortex-A53,Patch,kraken-imaging-gaussian-blur,1229
+Cortex-A53,Patch,kraken-imaging-darkroom,1263
+Cortex-A53,Patch,kraken-imaging-desaturate,1098
+Cortex-A53,Patch,kraken-json-parse-financial,515
+Cortex-A53,Patch,kraken-json-stringify-tinderbox,260
+Cortex-A53,Patch,kraken-stanford-crypto-aes,657
+Cortex-A53,Patch,kraken-stanford-crypto-ccm,1021
+Cortex-A53,Patch,kraken-stanford-crypto-pbkdf2,1087
+Cortex-A53,Patch,kraken-stanford-crypto-sha256-iterative,450
+Cortex-A53,Patch,kraken-ai-astar,2031
+Cortex-A53,Patch,kraken-audio-beat-detection,979
+Cortex-A53,Patch,kraken-audio-dft,3310
+Cortex-A53,Patch,kraken-audio-fft,630
+Cortex-A53,Patch,kraken-audio-oscillator,539
+Cortex-A53,Patch,kraken-imaging-gaussian-blur,1230
+Cortex-A53,Patch,kraken-imaging-darkroom,1265
+Cortex-A53,Patch,kraken-imaging-desaturate,1096
+Cortex-A53,Patch,kraken-json-parse-financial,507
+Cortex-A53,Patch,kraken-json-stringify-tinderbox,258
+Cortex-A53,Patch,kraken-stanford-crypto-aes,666
+Cortex-A53,Patch,kraken-stanford-crypto-ccm,1021
+Cortex-A53,Patch,kraken-stanford-crypto-pbkdf2,1075
+Cortex-A53,Patch,kraken-stanford-crypto-sha256-iterative,450
+Cortex-A53,Patch,kraken-ai-astar,2030
+Cortex-A53,Patch,kraken-audio-beat-detection,981
+Cortex-A53,Patch,kraken-audio-dft,3311
+Cortex-A53,Patch,kraken-audio-fft,629
+Cortex-A53,Patch,kraken-audio-oscillator,536
+Cortex-A53,Patch,kraken-imaging-gaussian-blur,1230
+Cortex-A53,Patch,kraken-imaging-darkroom,1267
+Cortex-A53,Patch,kraken-imaging-desaturate,1102
+Cortex-A53,Patch,kraken-json-parse-financial,511
+Cortex-A53,Patch,kraken-json-stringify-tinderbox,260
+Cortex-A53,Patch,kraken-stanford-crypto-aes,647
+Cortex-A53,Patch,kraken-stanford-crypto-ccm,1018
+Cortex-A53,Patch,kraken-stanford-crypto-pbkdf2,1086
+Cortex-A53,Patch,kraken-stanford-crypto-sha256-iterative,451
+Cortex-A53,Patch,kraken-ai-astar,2032
+Cortex-A53,Patch,kraken-audio-beat-detection,986
+Cortex-A53,Patch,kraken-audio-dft,3313
+Cortex-A53,Patch,kraken-audio-fft,628
+Cortex-A53,Patch,kraken-audio-oscillator,541
+Cortex-A53,Patch,kraken-imaging-gaussian-blur,1230
+Cortex-A53,Patch,kraken-imaging-darkroom,1264
+Cortex-A53,Patch,kraken-imaging-desaturate,1100
+Cortex-A53,Patch,kraken-json-parse-financial,506
+Cortex-A53,Patch,kraken-json-stringify-tinderbox,258
+Cortex-A53,Patch,kraken-stanford-crypto-aes,645
+Cortex-A53,Patch,kraken-stanford-crypto-ccm,1012
+Cortex-A53,Patch,kraken-stanford-crypto-pbkdf2,1096
+Cortex-A53,Patch,kraken-stanford-crypto-sha256-iterative,452
+Cortex-A53,Patch,kraken-ai-astar,2030
+Cortex-A53,Patch,kraken-audio-beat-detection,978
+Cortex-A53,Patch,kraken-audio-dft,3321
+Cortex-A53,Patch,kraken-audio-fft,631
+Cortex-A53,Patch,kraken-audio-oscillator,533
+Cortex-A53,Patch,kraken-imaging-gaussian-blur,1229
+Cortex-A53,Patch,kraken-imaging-darkroom,1263
+Cortex-A53,Patch,kraken-imaging-desaturate,1098
+Cortex-A53,Patch,kraken-json-parse-financial,508
+Cortex-A53,Patch,kraken-json-stringify-tinderbox,259
+Cortex-A53,Patch,kraken-stanford-crypto-aes,654
+Cortex-A53,Patch,kraken-stanford-crypto-ccm,1026
+Cortex-A53,Patch,kraken-stanford-crypto-pbkdf2,1089
+Cortex-A53,Patch,kraken-stanford-crypto-sha256-iterative,451
+Cortex-A53,Patch,kraken-ai-astar,2031
+Cortex-A53,Patch,kraken-audio-beat-detection,975
+Cortex-A53,Patch,kraken-audio-dft,3316
+Cortex-A53,Patch,kraken-audio-fft,633
+Cortex-A53,Patch,kraken-audio-oscillator,536
+Cortex-A53,Patch,kraken-imaging-gaussian-blur,1230
+Cortex-A53,Patch,kraken-imaging-darkroom,1263
+Cortex-A53,Patch,kraken-imaging-desaturate,1098
+Cortex-A53,Patch,kraken-json-parse-financial,513
+Cortex-A53,Patch,kraken-json-stringify-tinderbox,258
+Cortex-A53,Patch,kraken-stanford-crypto-aes,665
+Cortex-A53,Patch,kraken-stanford-crypto-ccm,1016
+Cortex-A53,Patch,kraken-stanford-crypto-pbkdf2,1089
+Cortex-A53,Patch,kraken-stanford-crypto-sha256-iterative,450
+Cortex-A53,Patch,kraken-ai-astar,2218
+Cortex-A53,Patch,kraken-audio-beat-detection,940
+Cortex-A53,Patch,kraken-audio-dft,3297
+Cortex-A53,Patch,kraken-audio-fft,628
+Cortex-A53,Patch,kraken-audio-oscillator,534
+Cortex-A53,Patch,kraken-imaging-gaussian-blur,1228
+Cortex-A53,Patch,kraken-imaging-darkroom,1265
+Cortex-A53,Patch,kraken-imaging-desaturate,1100
+Cortex-A53,Patch,kraken-json-parse-financial,512
+Cortex-A53,Patch,kraken-json-stringify-tinderbox,260
+Cortex-A53,Patch,kraken-stanford-crypto-aes,662
+Cortex-A53,Patch,kraken-stanford-crypto-ccm,1014
+Cortex-A53,Patch,kraken-stanford-crypto-pbkdf2,1089
+Cortex-A53,Patch,kraken-stanford-crypto-sha256-iterative,449
+Cortex-A53,Patch,kraken-ai-astar,2034
+Cortex-A53,Patch,kraken-audio-beat-detection,927
+Cortex-A53,Patch,kraken-audio-dft,3285
+Cortex-A53,Patch,kraken-audio-fft,628
+Cortex-A53,Patch,kraken-audio-oscillator,540
+Cortex-A53,Patch,kraken-imaging-gaussian-blur,1229
+Cortex-A53,Patch,kraken-imaging-darkroom,1268
+Cortex-A53,Patch,kraken-imaging-desaturate,1098
+Cortex-A53,Patch,kraken-json-parse-financial,512
+Cortex-A53,Patch,kraken-json-stringify-tinderbox,259
+Cortex-A53,Patch,kraken-stanford-crypto-aes,649
+Cortex-A53,Patch,kraken-stanford-crypto-ccm,1031
+Cortex-A53,Patch,kraken-stanford-crypto-pbkdf2,1111
+Cortex-A53,Patch,kraken-stanford-crypto-sha256-iterative,450
+Cortex-A53,Patch,kraken-ai-astar,2028
+Cortex-A53,Patch,kraken-audio-beat-detection,928
+Cortex-A53,Patch,kraken-audio-dft,3299
+Cortex-A53,Patch,kraken-audio-fft,629
+Cortex-A53,Patch,kraken-audio-oscillator,534
+Cortex-A53,Patch,kraken-imaging-gaussian-blur,1229
+Cortex-A53,Patch,kraken-imaging-darkroom,1265
+Cortex-A53,Patch,kraken-imaging-desaturate,1102
+Cortex-A53,Patch,kraken-json-parse-financial,505
+Cortex-A53,Patch,kraken-json-stringify-tinderbox,258
+Cortex-A53,Patch,kraken-stanford-crypto-aes,656
+Cortex-A53,Patch,kraken-stanford-crypto-ccm,1029
+Cortex-A53,Patch,kraken-stanford-crypto-pbkdf2,1098
+Cortex-A53,Patch,kraken-stanford-crypto-sha256-iterative,450
+Cortex-A53,Patch,octane-Richards,2323
+Cortex-A53,Patch,octane-DeltaBlue,3547
+Cortex-A53,Patch,octane-Crypto,2520
+Cortex-A53,Patch,octane-RayTrace,4379
+Cortex-A53,Patch,octane-EarleyBoyer,3303
+Cortex-A53,Patch,octane-RegExp,391
+Cortex-A53,Patch,octane-Splay,592
+Cortex-A53,Patch,octane-SplayLatency,3904
+Cortex-A53,Patch,octane-NavierStokes,2814
+Cortex-A53,Patch,octane-PdfJS,1534
+Cortex-A53,Patch,octane-Mandreel,1709
+Cortex-A53,Patch,octane-MandreelLatency,3814
+Cortex-A53,Patch,octane-Gameboy,3513
+Cortex-A53,Patch,octane-CodeLoad,1676
+Cortex-A53,Patch,octane-Box2D,2248
+Cortex-A53,Patch,octane-zlib,5188
+Cortex-A53,Patch,octane-Typescript,2272
+Cortex-A53,Patch,"octane-Score (version 9)",2277
+Cortex-A53,Patch,octane-Richards,2302
+Cortex-A53,Patch,octane-DeltaBlue,3488
+Cortex-A53,Patch,octane-Crypto,2497
+Cortex-A53,Patch,octane-RayTrace,4336
+Cortex-A53,Patch,octane-EarleyBoyer,3296
+Cortex-A53,Patch,octane-RegExp,390
+Cortex-A53,Patch,octane-Splay,610
+Cortex-A53,Patch,octane-SplayLatency,3923
+Cortex-A53,Patch,octane-NavierStokes,2817
+Cortex-A53,Patch,octane-PdfJS,1456
+Cortex-A53,Patch,octane-Mandreel,1605
+Cortex-A53,Patch,octane-MandreelLatency,3541
+Cortex-A53,Patch,octane-Gameboy,3518
+Cortex-A53,Patch,octane-CodeLoad,1670
+Cortex-A53,Patch,octane-Box2D,2248
+Cortex-A53,Patch,octane-zlib,5188
+Cortex-A53,Patch,octane-Typescript,2256
+Cortex-A53,Patch,"octane-Score (version 9)",2249
+Cortex-A53,Patch,octane-Richards,2330
+Cortex-A53,Patch,octane-DeltaBlue,3521
+Cortex-A53,Patch,octane-Crypto,2535
+Cortex-A53,Patch,octane-RayTrace,4323
+Cortex-A53,Patch,octane-EarleyBoyer,3323
+Cortex-A53,Patch,octane-RegExp,389
+Cortex-A53,Patch,octane-Splay,611
+Cortex-A53,Patch,octane-SplayLatency,3932
+Cortex-A53,Patch,octane-NavierStokes,2811
+Cortex-A53,Patch,octane-PdfJS,1463
+Cortex-A53,Patch,octane-Mandreel,1727
+Cortex-A53,Patch,octane-MandreelLatency,3765
+Cortex-A53,Patch,octane-Gameboy,3564
+Cortex-A53,Patch,octane-CodeLoad,1683
+Cortex-A53,Patch,octane-Box2D,2254
+Cortex-A53,Patch,octane-zlib,5189
+Cortex-A53,Patch,octane-Typescript,2233
+Cortex-A53,Patch,"octane-Score (version 9)",2275
+Cortex-A53,Patch,octane-Richards,2296
+Cortex-A53,Patch,octane-DeltaBlue,3521
+Cortex-A53,Patch,octane-Crypto,2535
+Cortex-A53,Patch,octane-RayTrace,4460
+Cortex-A53,Patch,octane-EarleyBoyer,3312
+Cortex-A53,Patch,octane-RegExp,390
+Cortex-A53,Patch,octane-Splay,611
+Cortex-A53,Patch,octane-SplayLatency,3958
+Cortex-A53,Patch,octane-NavierStokes,2814
+Cortex-A53,Patch,octane-PdfJS,1546
+Cortex-A53,Patch,octane-Mandreel,1704
+Cortex-A53,Patch,octane-MandreelLatency,3886
+Cortex-A53,Patch,octane-Gameboy,3510
+Cortex-A53,Patch,octane-CodeLoad,1677
+Cortex-A53,Patch,octane-Box2D,2244
+Cortex-A53,Patch,octane-zlib,5193
+Cortex-A53,Patch,octane-Typescript,2258
+Cortex-A53,Patch,"octane-Score (version 9)",2286
+Cortex-A53,Patch,octane-Richards,2302
+Cortex-A53,Patch,octane-DeltaBlue,3521
+Cortex-A53,Patch,octane-Crypto,2530
+Cortex-A53,Patch,octane-RayTrace,4310
+Cortex-A53,Patch,octane-EarleyBoyer,3298
+Cortex-A53,Patch,octane-RegExp,390
+Cortex-A53,Patch,octane-Splay,613
+Cortex-A53,Patch,octane-SplayLatency,3910
+Cortex-A53,Patch,octane-NavierStokes,2811
+Cortex-A53,Patch,octane-PdfJS,1542
+Cortex-A53,Patch,octane-Mandreel,1703
+Cortex-A53,Patch,octane-MandreelLatency,3841
+Cortex-A53,Patch,octane-Gameboy,3519
+Cortex-A53,Patch,octane-CodeLoad,1670
+Cortex-A53,Patch,octane-Box2D,2161
+Cortex-A53,Patch,octane-zlib,5165
+Cortex-A53,Patch,octane-Typescript,2281
+Cortex-A53,Patch,"octane-Score (version 9)",2273
+Cortex-A53,Patch,octane-Richards,2298
+Cortex-A53,Patch,octane-DeltaBlue,3610
+Cortex-A53,Patch,octane-Crypto,2534
+Cortex-A53,Patch,octane-RayTrace,4413
+Cortex-A53,Patch,octane-EarleyBoyer,3315
+Cortex-A53,Patch,octane-RegExp,388
+Cortex-A53,Patch,octane-Splay,610
+Cortex-A53,Patch,octane-SplayLatency,3926
+Cortex-A53,Patch,octane-NavierStokes,2814
+Cortex-A53,Patch,octane-PdfJS,1440
+Cortex-A53,Patch,octane-Mandreel,1717
+Cortex-A53,Patch,octane-MandreelLatency,3898
+Cortex-A53,Patch,octane-Gameboy,3566
+Cortex-A53,Patch,octane-CodeLoad,1682
+Cortex-A53,Patch,octane-Box2D,2259
+Cortex-A53,Patch,octane-zlib,5163
+Cortex-A53,Patch,octane-Typescript,2275
+Cortex-A53,Patch,"octane-Score (version 9)",2282
+Cortex-A53,Patch,octane-Richards,2330
+Cortex-A53,Patch,octane-DeltaBlue,3580
+Cortex-A53,Patch,octane-Crypto,2534
+Cortex-A53,Patch,octane-RayTrace,4520
+Cortex-A53,Patch,octane-EarleyBoyer,3308
+Cortex-A53,Patch,octane-RegExp,391
+Cortex-A53,Patch,octane-Splay,609
+Cortex-A53,Patch,octane-SplayLatency,3949
+Cortex-A53,Patch,octane-NavierStokes,2811
+Cortex-A53,Patch,octane-PdfJS,1552
+Cortex-A53,Patch,octane-Mandreel,1704
+Cortex-A53,Patch,octane-MandreelLatency,3823
+Cortex-A53,Patch,octane-Gameboy,3536
+Cortex-A53,Patch,octane-CodeLoad,1681
+Cortex-A53,Patch,octane-Box2D,2154
+Cortex-A53,Patch,octane-zlib,5187
+Cortex-A53,Patch,octane-Typescript,2268
+Cortex-A53,Patch,"octane-Score (version 9)",2286
+Cortex-A53,Patch,octane-Richards,2326
+Cortex-A53,Patch,octane-DeltaBlue,3554
+Cortex-A53,Patch,octane-Crypto,2528
+Cortex-A53,Patch,octane-RayTrace,4452
+Cortex-A53,Patch,octane-EarleyBoyer,3289
+Cortex-A53,Patch,octane-RegExp,391
+Cortex-A53,Patch,octane-Splay,602
+Cortex-A53,Patch,octane-SplayLatency,3905
+Cortex-A53,Patch,octane-NavierStokes,2814
+Cortex-A53,Patch,octane-PdfJS,1459
+Cortex-A53,Patch,octane-Mandreel,1716
+Cortex-A53,Patch,octane-MandreelLatency,3862
+Cortex-A53,Patch,octane-Gameboy,3547
+Cortex-A53,Patch,octane-CodeLoad,1682
+Cortex-A53,Patch,octane-Box2D,2252
+Cortex-A53,Patch,octane-zlib,5168
+Cortex-A53,Patch,octane-Typescript,2238
+Cortex-A53,Patch,"octane-Score (version 9)",2277
+Cortex-A53,Patch,octane-Richards,2323
+Cortex-A53,Patch,octane-DeltaBlue,3468
+Cortex-A53,Patch,octane-Crypto,2534
+Cortex-A53,Patch,octane-RayTrace,4465
+Cortex-A53,Patch,octane-EarleyBoyer,3306
+Cortex-A53,Patch,octane-RegExp,376
+Cortex-A53,Patch,octane-Splay,639
+Cortex-A53,Patch,octane-SplayLatency,3429
+Cortex-A53,Patch,octane-NavierStokes,2811
+Cortex-A53,Patch,octane-PdfJS,1400
+Cortex-A53,Patch,octane-Mandreel,1721
+Cortex-A53,Patch,octane-MandreelLatency,3782
+Cortex-A53,Patch,octane-Gameboy,3554
+Cortex-A53,Patch,octane-CodeLoad,1664
+Cortex-A53,Patch,octane-Box2D,2181
+Cortex-A53,Patch,octane-zlib,5164
+Cortex-A53,Patch,octane-Typescript,2266
+Cortex-A53,Patch,"octane-Score (version 9)",2249
+Cortex-A53,Patch,octane-Richards,2328
+Cortex-A53,Patch,octane-DeltaBlue,3498
+Cortex-A53,Patch,octane-Crypto,2537
+Cortex-A53,Patch,octane-RayTrace,4427
+Cortex-A53,Patch,octane-EarleyBoyer,3335
+Cortex-A53,Patch,octane-RegExp,390
+Cortex-A53,Patch,octane-Splay,601
+Cortex-A53,Patch,octane-SplayLatency,3901
+Cortex-A53,Patch,octane-NavierStokes,2814
+Cortex-A53,Patch,octane-PdfJS,1445
+Cortex-A53,Patch,octane-Mandreel,1604
+Cortex-A53,Patch,octane-MandreelLatency,3569
+Cortex-A53,Patch,octane-Gameboy,3529
+Cortex-A53,Patch,octane-CodeLoad,1682
+Cortex-A53,Patch,octane-Box2D,2256
+Cortex-A53,Patch,octane-zlib,5187
+Cortex-A53,Patch,octane-Typescript,2279
+Cortex-A53,Patch,"octane-Score (version 9)",2258
+Cortex-A53,Patch,octane-Richards,2321
+Cortex-A53,Patch,octane-DeltaBlue,3544
+Cortex-A53,Patch,octane-Crypto,2536
+Cortex-A53,Patch,octane-RayTrace,4370
+Cortex-A53,Patch,octane-EarleyBoyer,3325
+Cortex-A53,Patch,octane-RegExp,391
+Cortex-A53,Patch,octane-Splay,616
+Cortex-A53,Patch,octane-SplayLatency,3926
+Cortex-A53,Patch,octane-NavierStokes,2811
+Cortex-A53,Patch,octane-PdfJS,1536
+Cortex-A53,Patch,octane-Mandreel,1702
+Cortex-A53,Patch,octane-MandreelLatency,3883
+Cortex-A53,Patch,octane-Gameboy,3545
+Cortex-A53,Patch,octane-CodeLoad,1675
+Cortex-A53,Patch,octane-Box2D,2247
+Cortex-A53,Patch,octane-zlib,5191
+Cortex-A53,Patch,octane-Typescript,2245
+Cortex-A53,Patch,"octane-Score (version 9)",2286
+Cortex-A53,Patch,octane-Richards,2326
+Cortex-A53,Patch,octane-DeltaBlue,3531
+Cortex-A53,Patch,octane-Crypto,2532
+Cortex-A53,Patch,octane-RayTrace,4409
+Cortex-A53,Patch,octane-EarleyBoyer,3302
+Cortex-A53,Patch,octane-RegExp,388
+Cortex-A53,Patch,octane-Splay,601
+Cortex-A53,Patch,octane-SplayLatency,4237
+Cortex-A53,Patch,octane-NavierStokes,2814
+Cortex-A53,Patch,octane-PdfJS,1428
+Cortex-A53,Patch,octane-Mandreel,1594
+Cortex-A53,Patch,octane-MandreelLatency,3513
+Cortex-A53,Patch,octane-Gameboy,3549
+Cortex-A53,Patch,octane-CodeLoad,1672
+Cortex-A53,Patch,octane-Box2D,2244
+Cortex-A53,Patch,octane-zlib,5168
+Cortex-A53,Patch,octane-Typescript,2256
+Cortex-A53,Patch,"octane-Score (version 9)",2260
+Cortex-A53,Patch,octane-Richards,2326
+Cortex-A53,Patch,octane-DeltaBlue,3537
+Cortex-A53,Patch,octane-Crypto,2534
+Cortex-A53,Patch,octane-RayTrace,4440
+Cortex-A53,Patch,octane-EarleyBoyer,3308
+Cortex-A53,Patch,octane-RegExp,391
+Cortex-A53,Patch,octane-Splay,575
+Cortex-A53,Patch,octane-SplayLatency,3913
+Cortex-A53,Patch,octane-NavierStokes,2811
+Cortex-A53,Patch,octane-PdfJS,1456
+Cortex-A53,Patch,octane-Mandreel,1725
+Cortex-A53,Patch,octane-MandreelLatency,3892
+Cortex-A53,Patch,octane-Gameboy,3539
+Cortex-A53,Patch,octane-CodeLoad,1680
+Cortex-A53,Patch,octane-Box2D,2239
+Cortex-A53,Patch,octane-zlib,5187
+Cortex-A53,Patch,octane-Typescript,2250
+Cortex-A53,Patch,"octane-Score (version 9)",2273
+Cortex-A53,Patch,octane-Richards,2326
+Cortex-A53,Patch,octane-DeltaBlue,3484
+Cortex-A53,Patch,octane-Crypto,2525
+Cortex-A53,Patch,octane-RayTrace,4435
+Cortex-A53,Patch,octane-EarleyBoyer,3311
+Cortex-A53,Patch,octane-RegExp,389
+Cortex-A53,Patch,octane-Splay,608
+Cortex-A53,Patch,octane-SplayLatency,3912
+Cortex-A53,Patch,octane-NavierStokes,2814
+Cortex-A53,Patch,octane-PdfJS,1536
+Cortex-A53,Patch,octane-Mandreel,1592
+Cortex-A53,Patch,octane-MandreelLatency,3546
+Cortex-A53,Patch,octane-Gameboy,3546
+Cortex-A53,Patch,octane-CodeLoad,1677
+Cortex-A53,Patch,octane-Box2D,2274
+Cortex-A53,Patch,octane-zlib,5168
+Cortex-A53,Patch,octane-Typescript,2277
+Cortex-A53,Patch,"octane-Score (version 9)",2264
+Cortex-A53,Patch,octane-Richards,2330
+Cortex-A53,Patch,octane-DeltaBlue,3540
+Cortex-A53,Patch,octane-Crypto,2557
+Cortex-A53,Patch,octane-RayTrace,4392
+Cortex-A53,Patch,octane-EarleyBoyer,3327
+Cortex-A53,Patch,octane-RegExp,389
+Cortex-A53,Patch,octane-Splay,607
+Cortex-A53,Patch,octane-SplayLatency,3899
+Cortex-A53,Patch,octane-NavierStokes,2814
+Cortex-A53,Patch,octane-PdfJS,1470
+Cortex-A53,Patch,octane-Mandreel,1721
+Cortex-A53,Patch,octane-MandreelLatency,3877
+Cortex-A53,Patch,octane-Gameboy,3551
+Cortex-A53,Patch,octane-CodeLoad,1684
+Cortex-A53,Patch,octane-Box2D,2256
+Cortex-A53,Patch,octane-zlib,5169
+Cortex-A53,Patch,octane-Typescript,2262
+Cortex-A53,Patch,"octane-Score (version 9)",2282
+Cortex-A53,Patch,octane-Richards,2326
+Cortex-A53,Patch,octane-DeltaBlue,3435
+Cortex-A53,Patch,octane-Crypto,2528
+Cortex-A53,Patch,octane-RayTrace,4440
+Cortex-A53,Patch,octane-EarleyBoyer,3309
+Cortex-A53,Patch,octane-RegExp,391
+Cortex-A53,Patch,octane-Splay,616
+Cortex-A53,Patch,octane-SplayLatency,3932
+Cortex-A53,Patch,octane-NavierStokes,2817
+Cortex-A53,Patch,octane-PdfJS,1457
+Cortex-A53,Patch,octane-Mandreel,1601
+Cortex-A53,Patch,octane-MandreelLatency,3563
+Cortex-A53,Patch,octane-Gameboy,3540
+Cortex-A53,Patch,octane-CodeLoad,1676
+Cortex-A53,Patch,octane-Box2D,2246
+Cortex-A53,Patch,octane-zlib,5164
+Cortex-A53,Patch,octane-Typescript,2269
+Cortex-A53,Patch,"octane-Score (version 9)",2257
+Cortex-A53,Patch,octane-Richards,2328
+Cortex-A53,Patch,octane-DeltaBlue,3540
+Cortex-A53,Patch,octane-Crypto,2534
+Cortex-A53,Patch,octane-RayTrace,4405
+Cortex-A53,Patch,octane-EarleyBoyer,3308
+Cortex-A53,Patch,octane-RegExp,389
+Cortex-A53,Patch,octane-Splay,624
+Cortex-A53,Patch,octane-SplayLatency,4350
+Cortex-A53,Patch,octane-NavierStokes,2814
+Cortex-A53,Patch,octane-PdfJS,1433
+Cortex-A53,Patch,octane-Mandreel,1706
+Cortex-A53,Patch,octane-MandreelLatency,3856
+Cortex-A53,Patch,octane-Gameboy,3557
+Cortex-A53,Patch,octane-CodeLoad,1661
+Cortex-A53,Patch,octane-Box2D,2195
+Cortex-A53,Patch,octane-zlib,5164
+Cortex-A53,Patch,octane-Typescript,2270
+Cortex-A53,Patch,"octane-Score (version 9)",2289
+Cortex-A53,Patch,octane-Richards,2289
+Cortex-A53,Patch,octane-DeltaBlue,3590
+Cortex-A53,Patch,octane-Crypto,2485
+Cortex-A53,Patch,octane-RayTrace,4349
+Cortex-A53,Patch,octane-EarleyBoyer,3312
+Cortex-A53,Patch,octane-RegExp,387
+Cortex-A53,Patch,octane-Splay,595
+Cortex-A53,Patch,octane-SplayLatency,3884
+Cortex-A53,Patch,octane-NavierStokes,2811
+Cortex-A53,Patch,octane-PdfJS,1551
+Cortex-A53,Patch,octane-Mandreel,1698
+Cortex-A53,Patch,octane-MandreelLatency,3820
+Cortex-A53,Patch,octane-Gameboy,3516
+Cortex-A53,Patch,octane-CodeLoad,1675
+Cortex-A53,Patch,octane-Box2D,2255
+Cortex-A53,Patch,octane-zlib,5189
+Cortex-A53,Patch,octane-Typescript,2253
+Cortex-A53,Patch,"octane-Score (version 9)",2273
+Cortex-A53,Patch,octane-Richards,2317
+Cortex-A53,Patch,octane-DeltaBlue,3570
+Cortex-A53,Patch,octane-Crypto,2534
+Cortex-A53,Patch,octane-RayTrace,4452
+Cortex-A53,Patch,octane-EarleyBoyer,3304
+Cortex-A53,Patch,octane-RegExp,386
+Cortex-A53,Patch,octane-Splay,615
+Cortex-A53,Patch,octane-SplayLatency,4292
+Cortex-A53,Patch,octane-NavierStokes,2817
+Cortex-A53,Patch,octane-PdfJS,1429
+Cortex-A53,Patch,octane-Mandreel,1597
+Cortex-A53,Patch,octane-MandreelLatency,3561
+Cortex-A53,Patch,octane-Gameboy,3558
+Cortex-A53,Patch,octane-CodeLoad,1680
+Cortex-A53,Patch,octane-Box2D,2250
+Cortex-A53,Patch,octane-zlib,5187
+Cortex-A53,Patch,octane-Typescript,2256
+Cortex-A53,Patch,"octane-Score (version 9)",2270
+Cortex-A53,Patch,octane-Richards,2326
+Cortex-A53,Patch,octane-DeltaBlue,3544
+Cortex-A53,Patch,octane-Crypto,2529
+Cortex-A53,Patch,octane-RayTrace,4405
+Cortex-A53,Patch,octane-EarleyBoyer,3302
+Cortex-A53,Patch,octane-RegExp,388
+Cortex-A53,Patch,octane-Splay,601
+Cortex-A53,Patch,octane-SplayLatency,3930
+Cortex-A53,Patch,octane-NavierStokes,2814
+Cortex-A53,Patch,octane-PdfJS,1534
+Cortex-A53,Patch,octane-Mandreel,1699
+Cortex-A53,Patch,octane-MandreelLatency,3814
+Cortex-A53,Patch,octane-Gameboy,3519
+Cortex-A53,Patch,octane-CodeLoad,1679
+Cortex-A53,Patch,octane-Box2D,2243
+Cortex-A53,Patch,octane-zlib,5168
+Cortex-A53,Patch,octane-Typescript,2280
+Cortex-A53,Patch,"octane-Score (version 9)",2280
+Cortex-A53,Patch,ss-3d-cube,98
+Cortex-A53,Patch,ss-3d-morph,136
+Cortex-A53,Patch,ss-3d-raytrace,112
+Cortex-A53,Patch,ss-access-binary-trees,18
+Cortex-A53,Patch,ss-access-fannkuch,54
+Cortex-A53,Patch,ss-access-nbody,30
+Cortex-A53,Patch,ss-access-nsieve,23
+Cortex-A53,Patch,ss-bitops-3bit-bits-in-byte,8
+Cortex-A53,Patch,ss-bitops-bits-in-byte,20
+Cortex-A53,Patch,ss-bitops-bitwise-and,26
+Cortex-A53,Patch,ss-bitops-nsieve-bits,24
+Cortex-A53,Patch,ss-controlflow-recursive,17
+Cortex-A53,Patch,ss-crypto-aes,68
+Cortex-A53,Patch,ss-crypto-md5,38
+Cortex-A53,Patch,ss-crypto-sha1,37
+Cortex-A53,Patch,ss-date-format-tofte,101
+Cortex-A53,Patch,ss-date-format-xparb,112
+Cortex-A53,Patch,ss-math-cordic,24
+Cortex-A53,Patch,ss-math-partial-sums,123
+Cortex-A53,Patch,ss-math-spectral-norm,21
+Cortex-A53,Patch,ss-regexp-dna,60
+Cortex-A53,Patch,ss-string-base64,67
+Cortex-A53,Patch,ss-string-fasta,148
+Cortex-A53,Patch,ss-string-tagcloud,243
+Cortex-A53,Patch,ss-string-unpack-code,241
+Cortex-A53,Patch,ss-string-validate-input,70
+Cortex-A53,Patch,ss-3d-cube,98
+Cortex-A53,Patch,ss-3d-morph,134
+Cortex-A53,Patch,ss-3d-raytrace,112
+Cortex-A53,Patch,ss-access-binary-trees,17
+Cortex-A53,Patch,ss-access-fannkuch,54
+Cortex-A53,Patch,ss-access-nbody,29
+Cortex-A53,Patch,ss-access-nsieve,22
+Cortex-A53,Patch,ss-bitops-3bit-bits-in-byte,8
+Cortex-A53,Patch,ss-bitops-bits-in-byte,19
+Cortex-A53,Patch,ss-bitops-bitwise-and,25
+Cortex-A53,Patch,ss-bitops-nsieve-bits,25
+Cortex-A53,Patch,ss-controlflow-recursive,17
+Cortex-A53,Patch,ss-crypto-aes,67
+Cortex-A53,Patch,ss-crypto-md5,38
+Cortex-A53,Patch,ss-crypto-sha1,38
+Cortex-A53,Patch,ss-date-format-tofte,100
+Cortex-A53,Patch,ss-date-format-xparb,112
+Cortex-A53,Patch,ss-math-cordic,23
+Cortex-A53,Patch,ss-math-partial-sums,121
+Cortex-A53,Patch,ss-math-spectral-norm,20
+Cortex-A53,Patch,ss-regexp-dna,60
+Cortex-A53,Patch,ss-string-base64,66
+Cortex-A53,Patch,ss-string-fasta,150
+Cortex-A53,Patch,ss-string-tagcloud,245
+Cortex-A53,Patch,ss-string-unpack-code,242
+Cortex-A53,Patch,ss-string-validate-input,69
+Cortex-A53,Patch,ss-3d-cube,100
+Cortex-A53,Patch,ss-3d-morph,134
+Cortex-A53,Patch,ss-3d-raytrace,113
+Cortex-A53,Patch,ss-access-binary-trees,18
+Cortex-A53,Patch,ss-access-fannkuch,54
+Cortex-A53,Patch,ss-access-nbody,33
+Cortex-A53,Patch,ss-access-nsieve,22
+Cortex-A53,Patch,ss-bitops-3bit-bits-in-byte,8
+Cortex-A53,Patch,ss-bitops-bits-in-byte,19
+Cortex-A53,Patch,ss-bitops-bitwise-and,26
+Cortex-A53,Patch,ss-bitops-nsieve-bits,25
+Cortex-A53,Patch,ss-controlflow-recursive,17
+Cortex-A53,Patch,ss-crypto-aes,66
+Cortex-A53,Patch,ss-crypto-md5,38
+Cortex-A53,Patch,ss-crypto-sha1,37
+Cortex-A53,Patch,ss-date-format-tofte,101
+Cortex-A53,Patch,ss-date-format-xparb,113
+Cortex-A53,Patch,ss-math-cordic,24
+Cortex-A53,Patch,ss-math-partial-sums,121
+Cortex-A53,Patch,ss-math-spectral-norm,22
+Cortex-A53,Patch,ss-regexp-dna,60
+Cortex-A53,Patch,ss-string-base64,66
+Cortex-A53,Patch,ss-string-fasta,148
+Cortex-A53,Patch,ss-string-tagcloud,245
+Cortex-A53,Patch,ss-string-unpack-code,242
+Cortex-A53,Patch,ss-string-validate-input,70
+Cortex-A53,Patch,ss-3d-cube,98
+Cortex-A53,Patch,ss-3d-morph,135
+Cortex-A53,Patch,ss-3d-raytrace,113
+Cortex-A53,Patch,ss-access-binary-trees,17
+Cortex-A53,Patch,ss-access-fannkuch,54
+Cortex-A53,Patch,ss-access-nbody,29
+Cortex-A53,Patch,ss-access-nsieve,22
+Cortex-A53,Patch,ss-bitops-3bit-bits-in-byte,8
+Cortex-A53,Patch,ss-bitops-bits-in-byte,21
+Cortex-A53,Patch,ss-bitops-bitwise-and,26
+Cortex-A53,Patch,ss-bitops-nsieve-bits,24
+Cortex-A53,Patch,ss-controlflow-recursive,17
+Cortex-A53,Patch,ss-crypto-aes,68
+Cortex-A53,Patch,ss-crypto-md5,38
+Cortex-A53,Patch,ss-crypto-sha1,37
+Cortex-A53,Patch,ss-date-format-tofte,101
+Cortex-A53,Patch,ss-date-format-xparb,113
+Cortex-A53,Patch,ss-math-cordic,24
+Cortex-A53,Patch,ss-math-partial-sums,122
+Cortex-A53,Patch,ss-math-spectral-norm,20
+Cortex-A53,Patch,ss-regexp-dna,60
+Cortex-A53,Patch,ss-string-base64,66
+Cortex-A53,Patch,ss-string-fasta,158
+Cortex-A53,Patch,ss-string-tagcloud,243
+Cortex-A53,Patch,ss-string-unpack-code,242
+Cortex-A53,Patch,ss-string-validate-input,69
+Cortex-A53,Patch,ss-3d-cube,118
+Cortex-A53,Patch,ss-3d-morph,162
+Cortex-A53,Patch,ss-3d-raytrace,134
+Cortex-A53,Patch,ss-access-binary-trees,20
+Cortex-A53,Patch,ss-access-fannkuch,65
+Cortex-A53,Patch,ss-access-nbody,35
+Cortex-A53,Patch,ss-access-nsieve,27
+Cortex-A53,Patch,ss-bitops-3bit-bits-in-byte,10
+Cortex-A53,Patch,ss-bitops-bits-in-byte,24
+Cortex-A53,Patch,ss-bitops-bitwise-and,32
+Cortex-A53,Patch,ss-bitops-nsieve-bits,29
+Cortex-A53,Patch,ss-controlflow-recursive,21
+Cortex-A53,Patch,ss-crypto-aes,72
+Cortex-A53,Patch,ss-crypto-md5,38
+Cortex-A53,Patch,ss-crypto-sha1,37
+Cortex-A53,Patch,ss-date-format-tofte,100
+Cortex-A53,Patch,ss-date-format-xparb,112
+Cortex-A53,Patch,ss-math-cordic,23
+Cortex-A53,Patch,ss-math-partial-sums,121
+Cortex-A53,Patch,ss-math-spectral-norm,20
+Cortex-A53,Patch,ss-regexp-dna,60
+Cortex-A53,Patch,ss-string-base64,65
+Cortex-A53,Patch,ss-string-fasta,158
+Cortex-A53,Patch,ss-string-tagcloud,243
+Cortex-A53,Patch,ss-string-unpack-code,244
+Cortex-A53,Patch,ss-string-validate-input,70
+Cortex-A53,Patch,ss-3d-cube,99
+Cortex-A53,Patch,ss-3d-morph,133
+Cortex-A53,Patch,ss-3d-raytrace,112
+Cortex-A53,Patch,ss-access-binary-trees,18
+Cortex-A53,Patch,ss-access-fannkuch,54
+Cortex-A53,Patch,ss-access-nbody,29
+Cortex-A53,Patch,ss-access-nsieve,23
+Cortex-A53,Patch,ss-bitops-3bit-bits-in-byte,8
+Cortex-A53,Patch,ss-bitops-bits-in-byte,21
+Cortex-A53,Patch,ss-bitops-bitwise-and,26
+Cortex-A53,Patch,ss-bitops-nsieve-bits,24
+Cortex-A53,Patch,ss-controlflow-recursive,17
+Cortex-A53,Patch,ss-crypto-aes,68
+Cortex-A53,Patch,ss-crypto-md5,39
+Cortex-A53,Patch,ss-crypto-sha1,37
+Cortex-A53,Patch,ss-date-format-tofte,101
+Cortex-A53,Patch,ss-date-format-xparb,112
+Cortex-A53,Patch,ss-math-cordic,23
+Cortex-A53,Patch,ss-math-partial-sums,122
+Cortex-A53,Patch,ss-math-spectral-norm,21
+Cortex-A53,Patch,ss-regexp-dna,60
+Cortex-A53,Patch,ss-string-base64,66
+Cortex-A53,Patch,ss-string-fasta,147
+Cortex-A53,Patch,ss-string-tagcloud,244
+Cortex-A53,Patch,ss-string-unpack-code,243
+Cortex-A53,Patch,ss-string-validate-input,70
+Cortex-A53,Patch,ss-3d-cube,100
+Cortex-A53,Patch,ss-3d-morph,135
+Cortex-A53,Patch,ss-3d-raytrace,113
+Cortex-A53,Patch,ss-access-binary-trees,17
+Cortex-A53,Patch,ss-access-fannkuch,54
+Cortex-A53,Patch,ss-access-nbody,30
+Cortex-A53,Patch,ss-access-nsieve,23
+Cortex-A53,Patch,ss-bitops-3bit-bits-in-byte,8
+Cortex-A53,Patch,ss-bitops-bits-in-byte,20
+Cortex-A53,Patch,ss-bitops-bitwise-and,26
+Cortex-A53,Patch,ss-bitops-nsieve-bits,24
+Cortex-A53,Patch,ss-controlflow-recursive,17
+Cortex-A53,Patch,ss-crypto-aes,67
+Cortex-A53,Patch,ss-crypto-md5,38
+Cortex-A53,Patch,ss-crypto-sha1,37
+Cortex-A53,Patch,ss-date-format-tofte,102
+Cortex-A53,Patch,ss-date-format-xparb,112
+Cortex-A53,Patch,ss-math-cordic,24
+Cortex-A53,Patch,ss-math-partial-sums,123
+Cortex-A53,Patch,ss-math-spectral-norm,21
+Cortex-A53,Patch,ss-regexp-dna,60
+Cortex-A53,Patch,ss-string-base64,66
+Cortex-A53,Patch,ss-string-fasta,149
+Cortex-A53,Patch,ss-string-tagcloud,244
+Cortex-A53,Patch,ss-string-unpack-code,244
+Cortex-A53,Patch,ss-string-validate-input,70
+Cortex-A53,Patch,ss-3d-cube,100
+Cortex-A53,Patch,ss-3d-morph,134
+Cortex-A53,Patch,ss-3d-raytrace,113
+Cortex-A53,Patch,ss-access-binary-trees,17
+Cortex-A53,Patch,ss-access-fannkuch,54
+Cortex-A53,Patch,ss-access-nbody,29
+Cortex-A53,Patch,ss-access-nsieve,22
+Cortex-A53,Patch,ss-bitops-3bit-bits-in-byte,8
+Cortex-A53,Patch,ss-bitops-bits-in-byte,20
+Cortex-A53,Patch,ss-bitops-bitwise-and,25
+Cortex-A53,Patch,ss-bitops-nsieve-bits,24
+Cortex-A53,Patch,ss-controlflow-recursive,17
+Cortex-A53,Patch,ss-crypto-aes,68
+Cortex-A53,Patch,ss-crypto-md5,39
+Cortex-A53,Patch,ss-crypto-sha1,37
+Cortex-A53,Patch,ss-date-format-tofte,101
+Cortex-A53,Patch,ss-date-format-xparb,112
+Cortex-A53,Patch,ss-math-cordic,24
+Cortex-A53,Patch,ss-math-partial-sums,122
+Cortex-A53,Patch,ss-math-spectral-norm,20
+Cortex-A53,Patch,ss-regexp-dna,60
+Cortex-A53,Patch,ss-string-base64,66
+Cortex-A53,Patch,ss-string-fasta,147
+Cortex-A53,Patch,ss-string-tagcloud,244
+Cortex-A53,Patch,ss-string-unpack-code,242
+Cortex-A53,Patch,ss-string-validate-input,70
+Cortex-A53,Patch,ss-3d-cube,99
+Cortex-A53,Patch,ss-3d-morph,134
+Cortex-A53,Patch,ss-3d-raytrace,112
+Cortex-A53,Patch,ss-access-binary-trees,17
+Cortex-A53,Patch,ss-access-fannkuch,55
+Cortex-A53,Patch,ss-access-nbody,29
+Cortex-A53,Patch,ss-access-nsieve,22
+Cortex-A53,Patch,ss-bitops-3bit-bits-in-byte,8
+Cortex-A53,Patch,ss-bitops-bits-in-byte,19
+Cortex-A53,Patch,ss-bitops-bitwise-and,25
+Cortex-A53,Patch,ss-bitops-nsieve-bits,25
+Cortex-A53,Patch,ss-controlflow-recursive,17
+Cortex-A53,Patch,ss-crypto-aes,67
+Cortex-A53,Patch,ss-crypto-md5,38
+Cortex-A53,Patch,ss-crypto-sha1,37
+Cortex-A53,Patch,ss-date-format-tofte,101
+Cortex-A53,Patch,ss-date-format-xparb,113
+Cortex-A53,Patch,ss-math-cordic,24
+Cortex-A53,Patch,ss-math-partial-sums,121
+Cortex-A53,Patch,ss-math-spectral-norm,21
+Cortex-A53,Patch,ss-regexp-dna,60
+Cortex-A53,Patch,ss-string-base64,65
+Cortex-A53,Patch,ss-string-fasta,149
+Cortex-A53,Patch,ss-string-tagcloud,244
+Cortex-A53,Patch,ss-string-unpack-code,242
+Cortex-A53,Patch,ss-string-validate-input,69
+Cortex-A53,Patch,ss-3d-cube,99
+Cortex-A53,Patch,ss-3d-morph,134
+Cortex-A53,Patch,ss-3d-raytrace,111
+Cortex-A53,Patch,ss-access-binary-trees,17
+Cortex-A53,Patch,ss-access-fannkuch,54
+Cortex-A53,Patch,ss-access-nbody,29
+Cortex-A53,Patch,ss-access-nsieve,22
+Cortex-A53,Patch,ss-bitops-3bit-bits-in-byte,8
+Cortex-A53,Patch,ss-bitops-bits-in-byte,19
+Cortex-A53,Patch,ss-bitops-bitwise-and,25
+Cortex-A53,Patch,ss-bitops-nsieve-bits,24
+Cortex-A53,Patch,ss-controlflow-recursive,17
+Cortex-A53,Patch,ss-crypto-aes,68
+Cortex-A53,Patch,ss-crypto-md5,39
+Cortex-A53,Patch,ss-crypto-sha1,37
+Cortex-A53,Patch,ss-date-format-tofte,100
+Cortex-A53,Patch,ss-date-format-xparb,113
+Cortex-A53,Patch,ss-math-cordic,24
+Cortex-A53,Patch,ss-math-partial-sums,122
+Cortex-A53,Patch,ss-math-spectral-norm,20
+Cortex-A53,Patch,ss-regexp-dna,60
+Cortex-A53,Patch,ss-string-base64,66
+Cortex-A53,Patch,ss-string-fasta,146
+Cortex-A53,Patch,ss-string-tagcloud,244
+Cortex-A53,Patch,ss-string-unpack-code,242
+Cortex-A53,Patch,ss-string-validate-input,70
+Cortex-A57,Patch,asmjs-apps-box2d-loadtime,2797
+Cortex-A57,Patch,asmjs-apps-box2d-throughput,10531
+Cortex-A57,Patch,asmjs-apps-bullet-loadtime,7177
+Cortex-A57,Patch,asmjs-apps-bullet-throughput,15856
+Cortex-A57,Patch,asmjs-apps-lua_binarytrees-loadtime,1879
+Cortex-A57,Patch,asmjs-apps-lua_binarytrees-throughput,9498
+Cortex-A57,Patch,asmjs-apps-zlib-loadtime,2037
+Cortex-A57,Patch,asmjs-apps-zlib-throughput,7967
+Cortex-A57,Patch,asmjs-apps-box2d-loadtime,2789
+Cortex-A57,Patch,asmjs-apps-box2d-throughput,10476
+Cortex-A57,Patch,asmjs-apps-bullet-loadtime,7169
+Cortex-A57,Patch,asmjs-apps-bullet-throughput,16114
+Cortex-A57,Patch,asmjs-apps-lua_binarytrees-loadtime,1879
+Cortex-A57,Patch,asmjs-apps-lua_binarytrees-throughput,9503
+Cortex-A57,Patch,asmjs-apps-zlib-loadtime,1787
+Cortex-A57,Patch,asmjs-apps-zlib-throughput,7954
+Cortex-A57,Patch,asmjs-apps-box2d-loadtime,2797
+Cortex-A57,Patch,asmjs-apps-box2d-throughput,10527
+Cortex-A57,Patch,asmjs-apps-bullet-loadtime,7170
+Cortex-A57,Patch,asmjs-apps-bullet-throughput,16050
+Cortex-A57,Patch,asmjs-apps-lua_binarytrees-loadtime,1885
+Cortex-A57,Patch,asmjs-apps-lua_binarytrees-throughput,9541
+Cortex-A57,Patch,asmjs-apps-zlib-loadtime,1783
+Cortex-A57,Patch,asmjs-apps-zlib-throughput,8211
+Cortex-A57,Patch,asmjs-apps-box2d-loadtime,2801
+Cortex-A57,Patch,asmjs-apps-box2d-throughput,10465
+Cortex-A57,Patch,asmjs-apps-bullet-loadtime,7162
+Cortex-A57,Patch,asmjs-apps-bullet-throughput,16209
+Cortex-A57,Patch,asmjs-apps-lua_binarytrees-loadtime,1894
+Cortex-A57,Patch,asmjs-apps-lua_binarytrees-throughput,9506
+Cortex-A57,Patch,asmjs-apps-zlib-loadtime,1784
+Cortex-A57,Patch,asmjs-apps-zlib-throughput,7964
+Cortex-A57,Patch,asmjs-apps-box2d-loadtime,2797
+Cortex-A57,Patch,asmjs-apps-box2d-throughput,10483
+Cortex-A57,Patch,asmjs-apps-bullet-loadtime,7162
+Cortex-A57,Patch,asmjs-apps-bullet-throughput,16185
+Cortex-A57,Patch,asmjs-apps-lua_binarytrees-loadtime,1872
+Cortex-A57,Patch,asmjs-apps-lua_binarytrees-throughput,9743
+Cortex-A57,Patch,asmjs-apps-zlib-loadtime,1785
+Cortex-A57,Patch,asmjs-apps-zlib-throughput,7969
+Cortex-A57,Patch,asmjs-ubench-copy,12587
+Cortex-A57,Patch,asmjs-ubench-corrections,16488
+Cortex-A57,Patch,asmjs-ubench-fannkuch,17504
+Cortex-A57,Patch,asmjs-ubench-fasta,39308
+Cortex-A57,Patch,asmjs-ubench-life,17527
+Cortex-A57,Patch,asmjs-ubench-memops,31036
+Cortex-A57,Patch,asmjs-ubench-primes,17607
+Cortex-A57,Patch,asmjs-ubench-skinning,52319
+Cortex-A57,Patch,asmjs-ubench-copy,12854
+Cortex-A57,Patch,asmjs-ubench-corrections,16488
+Cortex-A57,Patch,asmjs-ubench-fannkuch,17485
+Cortex-A57,Patch,asmjs-ubench-fasta,39302
+Cortex-A57,Patch,asmjs-ubench-life,17504
+Cortex-A57,Patch,asmjs-ubench-memops,31038
+Cortex-A57,Patch,asmjs-ubench-primes,17609
+Cortex-A57,Patch,asmjs-ubench-skinning,53098
+Cortex-A57,Patch,asmjs-ubench-copy,12586
+Cortex-A57,Patch,asmjs-ubench-corrections,16488
+Cortex-A57,Patch,asmjs-ubench-fannkuch,16662
+Cortex-A57,Patch,asmjs-ubench-fasta,39581
+Cortex-A57,Patch,asmjs-ubench-life,17531
+Cortex-A57,Patch,asmjs-ubench-memops,31035
+Cortex-A57,Patch,asmjs-ubench-primes,17608
+Cortex-A57,Patch,asmjs-ubench-skinning,51558
+Cortex-A57,Patch,asmjs-ubench-copy,12586
+Cortex-A57,Patch,asmjs-ubench-corrections,16489
+Cortex-A57,Patch,asmjs-ubench-fannkuch,16588
+Cortex-A57,Patch,asmjs-ubench-fasta,39320
+Cortex-A57,Patch,asmjs-ubench-life,17573
+Cortex-A57,Patch,asmjs-ubench-memops,31035
+Cortex-A57,Patch,asmjs-ubench-primes,17606
+Cortex-A57,Patch,asmjs-ubench-skinning,50243
+Cortex-A57,Patch,asmjs-ubench-copy,12593
+Cortex-A57,Patch,asmjs-ubench-corrections,16487
+Cortex-A57,Patch,asmjs-ubench-fannkuch,16643
+Cortex-A57,Patch,asmjs-ubench-fasta,39582
+Cortex-A57,Patch,asmjs-ubench-life,17504
+Cortex-A57,Patch,asmjs-ubench-memops,31037
+Cortex-A57,Patch,asmjs-ubench-primes,17610
+Cortex-A57,Patch,asmjs-ubench-skinning,52167
+Cortex-A57,Patch,jetstream-asmjs-bigfib,2372
+Cortex-A57,Patch,jetstream-asmjs-container,15437
+Cortex-A57,Patch,jetstream-asmjs-dry,4015
+Cortex-A57,Patch,jetstream-asmjs-float-mm,2586
+Cortex-A57,Patch,jetstream-asmjs-gcc-loops,17493
+Cortex-A57,Patch,jetstream-asmjs-n-body,5547
+Cortex-A57,Patch,jetstream-asmjs-quicksort,2102
+Cortex-A57,Patch,jetstream-asmjs-towers,1782
+Cortex-A57,Patch,jetstream-asmjs-bigfib,2117
+Cortex-A57,Patch,jetstream-asmjs-container,15509
+Cortex-A57,Patch,jetstream-asmjs-dry,4057
+Cortex-A57,Patch,jetstream-asmjs-float-mm,2596
+Cortex-A57,Patch,jetstream-asmjs-gcc-loops,17961
+Cortex-A57,Patch,jetstream-asmjs-n-body,5547
+Cortex-A57,Patch,jetstream-asmjs-quicksort,1826
+Cortex-A57,Patch,jetstream-asmjs-towers,1503
+Cortex-A57,Patch,jetstream-asmjs-bigfib,2367
+Cortex-A57,Patch,jetstream-asmjs-container,15504
+Cortex-A57,Patch,jetstream-asmjs-dry,4057
+Cortex-A57,Patch,jetstream-asmjs-float-mm,2586
+Cortex-A57,Patch,jetstream-asmjs-gcc-loops,17462
+Cortex-A57,Patch,jetstream-asmjs-n-body,5548
+Cortex-A57,Patch,jetstream-asmjs-quicksort,2103
+Cortex-A57,Patch,jetstream-asmjs-towers,1506
+Cortex-A57,Patch,jetstream-asmjs-bigfib,2370
+Cortex-A57,Patch,jetstream-asmjs-container,15448
+Cortex-A57,Patch,jetstream-asmjs-dry,4057
+Cortex-A57,Patch,jetstream-asmjs-float-mm,2585
+Cortex-A57,Patch,jetstream-asmjs-gcc-loops,17798
+Cortex-A57,Patch,jetstream-asmjs-n-body,5547
+Cortex-A57,Patch,jetstream-asmjs-quicksort,1826
+Cortex-A57,Patch,jetstream-asmjs-towers,1503
+Cortex-A57,Patch,jetstream-asmjs-bigfib,2122
+Cortex-A57,Patch,jetstream-asmjs-container,15485
+Cortex-A57,Patch,jetstream-asmjs-dry,4058
+Cortex-A57,Patch,jetstream-asmjs-float-mm,2594
+Cortex-A57,Patch,jetstream-asmjs-gcc-loops,17778
+Cortex-A57,Patch,jetstream-asmjs-n-body,5548
+Cortex-A57,Patch,jetstream-asmjs-quicksort,1883
+Cortex-A57,Patch,jetstream-asmjs-towers,1505
+Cortex-A57,Patch,kraken-ai-astar,817
+Cortex-A57,Patch,kraken-audio-beat-detection,368
+Cortex-A57,Patch,kraken-audio-dft,858
+Cortex-A57,Patch,kraken-audio-fft,222
+Cortex-A57,Patch,kraken-audio-oscillator,203
+Cortex-A57,Patch,kraken-imaging-gaussian-blur,324
+Cortex-A57,Patch,kraken-imaging-darkroom,928
+Cortex-A57,Patch,kraken-imaging-desaturate,371
+Cortex-A57,Patch,kraken-json-parse-financial,214
+Cortex-A57,Patch,kraken-json-stringify-tinderbox,114
+Cortex-A57,Patch,kraken-stanford-crypto-aes,293
+Cortex-A57,Patch,kraken-stanford-crypto-ccm,467
+Cortex-A57,Patch,kraken-stanford-crypto-pbkdf2,523
+Cortex-A57,Patch,kraken-stanford-crypto-sha256-iterative,202
+Cortex-A57,Patch,kraken-ai-astar,597
+Cortex-A57,Patch,kraken-audio-beat-detection,345
+Cortex-A57,Patch,kraken-audio-dft,851
+Cortex-A57,Patch,kraken-audio-fft,210
+Cortex-A57,Patch,kraken-audio-oscillator,206
+Cortex-A57,Patch,kraken-imaging-gaussian-blur,325
+Cortex-A57,Patch,kraken-imaging-darkroom,931
+Cortex-A57,Patch,kraken-imaging-desaturate,375
+Cortex-A57,Patch,kraken-json-parse-financial,211
+Cortex-A57,Patch,kraken-json-stringify-tinderbox,112
+Cortex-A57,Patch,kraken-stanford-crypto-aes,284
+Cortex-A57,Patch,kraken-stanford-crypto-ccm,460
+Cortex-A57,Patch,kraken-stanford-crypto-pbkdf2,520
+Cortex-A57,Patch,kraken-stanford-crypto-sha256-iterative,205
+Cortex-A57,Patch,kraken-ai-astar,799
+Cortex-A57,Patch,kraken-audio-beat-detection,387
+Cortex-A57,Patch,kraken-audio-dft,853
+Cortex-A57,Patch,kraken-audio-fft,198
+Cortex-A57,Patch,kraken-audio-oscillator,202
+Cortex-A57,Patch,kraken-imaging-gaussian-blur,324
+Cortex-A57,Patch,kraken-imaging-darkroom,926
+Cortex-A57,Patch,kraken-imaging-desaturate,351
+Cortex-A57,Patch,kraken-json-parse-financial,207
+Cortex-A57,Patch,kraken-json-stringify-tinderbox,113
+Cortex-A57,Patch,kraken-stanford-crypto-aes,279
+Cortex-A57,Patch,kraken-stanford-crypto-ccm,473
+Cortex-A57,Patch,kraken-stanford-crypto-pbkdf2,519
+Cortex-A57,Patch,kraken-stanford-crypto-sha256-iterative,207
+Cortex-A57,Patch,kraken-ai-astar,808
+Cortex-A57,Patch,kraken-audio-beat-detection,380
+Cortex-A57,Patch,kraken-audio-dft,848
+Cortex-A57,Patch,kraken-audio-fft,200
+Cortex-A57,Patch,kraken-audio-oscillator,200
+Cortex-A57,Patch,kraken-imaging-gaussian-blur,324
+Cortex-A57,Patch,kraken-imaging-darkroom,926
+Cortex-A57,Patch,kraken-imaging-desaturate,366
+Cortex-A57,Patch,kraken-json-parse-financial,210
+Cortex-A57,Patch,kraken-json-stringify-tinderbox,113
+Cortex-A57,Patch,kraken-stanford-crypto-aes,284
+Cortex-A57,Patch,kraken-stanford-crypto-ccm,474
+Cortex-A57,Patch,kraken-stanford-crypto-pbkdf2,515
+Cortex-A57,Patch,kraken-stanford-crypto-sha256-iterative,206
+Cortex-A57,Patch,kraken-ai-astar,597
+Cortex-A57,Patch,kraken-audio-beat-detection,359
+Cortex-A57,Patch,kraken-audio-dft,856
+Cortex-A57,Patch,kraken-audio-fft,197
+Cortex-A57,Patch,kraken-audio-oscillator,200
+Cortex-A57,Patch,kraken-imaging-gaussian-blur,324
+Cortex-A57,Patch,kraken-imaging-darkroom,924
+Cortex-A57,Patch,kraken-imaging-desaturate,368
+Cortex-A57,Patch,kraken-json-parse-financial,206
+Cortex-A57,Patch,kraken-json-stringify-tinderbox,112
+Cortex-A57,Patch,kraken-stanford-crypto-aes,286
+Cortex-A57,Patch,kraken-stanford-crypto-ccm,483
+Cortex-A57,Patch,kraken-stanford-crypto-pbkdf2,511
+Cortex-A57,Patch,kraken-stanford-crypto-sha256-iterative,204
+Cortex-A57,Patch,kraken-ai-astar,597
+Cortex-A57,Patch,kraken-audio-beat-detection,346
+Cortex-A57,Patch,kraken-audio-dft,852
+Cortex-A57,Patch,kraken-audio-fft,196
+Cortex-A57,Patch,kraken-audio-oscillator,202
+Cortex-A57,Patch,kraken-imaging-gaussian-blur,324
+Cortex-A57,Patch,kraken-imaging-darkroom,921
+Cortex-A57,Patch,kraken-imaging-desaturate,369
+Cortex-A57,Patch,kraken-json-parse-financial,210
+Cortex-A57,Patch,kraken-json-stringify-tinderbox,113
+Cortex-A57,Patch,kraken-stanford-crypto-aes,284
+Cortex-A57,Patch,kraken-stanford-crypto-ccm,437
+Cortex-A57,Patch,kraken-stanford-crypto-pbkdf2,528
+Cortex-A57,Patch,kraken-stanford-crypto-sha256-iterative,205
+Cortex-A57,Patch,kraken-ai-astar,598
+Cortex-A57,Patch,kraken-audio-beat-detection,341
+Cortex-A57,Patch,kraken-audio-dft,850
+Cortex-A57,Patch,kraken-audio-fft,202
+Cortex-A57,Patch,kraken-audio-oscillator,200
+Cortex-A57,Patch,kraken-imaging-gaussian-blur,323
+Cortex-A57,Patch,kraken-imaging-darkroom,924
+Cortex-A57,Patch,kraken-imaging-desaturate,367
+Cortex-A57,Patch,kraken-json-parse-financial,213
+Cortex-A57,Patch,kraken-json-stringify-tinderbox,112
+Cortex-A57,Patch,kraken-stanford-crypto-aes,287
+Cortex-A57,Patch,kraken-stanford-crypto-ccm,475
+Cortex-A57,Patch,kraken-stanford-crypto-pbkdf2,517
+Cortex-A57,Patch,kraken-stanford-crypto-sha256-iterative,202
+Cortex-A57,Patch,kraken-ai-astar,597
+Cortex-A57,Patch,kraken-audio-beat-detection,343
+Cortex-A57,Patch,kraken-audio-dft,851
+Cortex-A57,Patch,kraken-audio-fft,220
+Cortex-A57,Patch,kraken-audio-oscillator,205
+Cortex-A57,Patch,kraken-imaging-gaussian-blur,324
+Cortex-A57,Patch,kraken-imaging-darkroom,925
+Cortex-A57,Patch,kraken-imaging-desaturate,354
+Cortex-A57,Patch,kraken-json-parse-financial,208
+Cortex-A57,Patch,kraken-json-stringify-tinderbox,112
+Cortex-A57,Patch,kraken-stanford-crypto-aes,283
+Cortex-A57,Patch,kraken-stanford-crypto-ccm,471
+Cortex-A57,Patch,kraken-stanford-crypto-pbkdf2,511
+Cortex-A57,Patch,kraken-stanford-crypto-sha256-iterative,200
+Cortex-A57,Patch,kraken-ai-astar,597
+Cortex-A57,Patch,kraken-audio-beat-detection,341
+Cortex-A57,Patch,kraken-audio-dft,854
+Cortex-A57,Patch,kraken-audio-fft,202
+Cortex-A57,Patch,kraken-audio-oscillator,201
+Cortex-A57,Patch,kraken-imaging-gaussian-blur,324
+Cortex-A57,Patch,kraken-imaging-darkroom,926
+Cortex-A57,Patch,kraken-imaging-desaturate,459
+Cortex-A57,Patch,kraken-json-parse-financial,288
+Cortex-A57,Patch,kraken-json-stringify-tinderbox,134
+Cortex-A57,Patch,kraken-stanford-crypto-aes,286
+Cortex-A57,Patch,kraken-stanford-crypto-ccm,460
+Cortex-A57,Patch,kraken-stanford-crypto-pbkdf2,522
+Cortex-A57,Patch,kraken-stanford-crypto-sha256-iterative,202
+Cortex-A57,Patch,kraken-ai-astar,597
+Cortex-A57,Patch,kraken-audio-beat-detection,372
+Cortex-A57,Patch,kraken-audio-dft,847
+Cortex-A57,Patch,kraken-audio-fft,198
+Cortex-A57,Patch,kraken-audio-oscillator,202
+Cortex-A57,Patch,kraken-imaging-gaussian-blur,324
+Cortex-A57,Patch,kraken-imaging-darkroom,921
+Cortex-A57,Patch,kraken-imaging-desaturate,381
+Cortex-A57,Patch,kraken-json-parse-financial,212
+Cortex-A57,Patch,kraken-json-stringify-tinderbox,112
+Cortex-A57,Patch,kraken-stanford-crypto-aes,282
+Cortex-A57,Patch,kraken-stanford-crypto-ccm,459
+Cortex-A57,Patch,kraken-stanford-crypto-pbkdf2,521
+Cortex-A57,Patch,kraken-stanford-crypto-sha256-iterative,203
+Cortex-A57,Patch,octane-Richards,6626
+Cortex-A57,Patch,octane-DeltaBlue,9719
+Cortex-A57,Patch,octane-Crypto,7866
+Cortex-A57,Patch,octane-RayTrace,11509
+Cortex-A57,Patch,octane-EarleyBoyer,8231
+Cortex-A57,Patch,octane-RegExp,909
+Cortex-A57,Patch,octane-Splay,4767
+Cortex-A57,Patch,octane-SplayLatency,9325
+Cortex-A57,Patch,octane-NavierStokes,6281
+Cortex-A57,Patch,octane-PdfJS,3510
+Cortex-A57,Patch,octane-Mandreel,4318
+Cortex-A57,Patch,octane-MandreelLatency,8186
+Cortex-A57,Patch,octane-Gameboy,11480
+Cortex-A57,Patch,octane-CodeLoad,3132
+Cortex-A57,Patch,octane-Box2D,6168
+Cortex-A57,Patch,octane-zlib,11350
+Cortex-A57,Patch,octane-Typescript,3768
+Cortex-A57,Patch,"octane-Score (version 9)",5941
+Cortex-A57,Patch,octane-Richards,6361
+Cortex-A57,Patch,octane-DeltaBlue,9713
+Cortex-A57,Patch,octane-Crypto,7856
+Cortex-A57,Patch,octane-RayTrace,11486
+Cortex-A57,Patch,octane-EarleyBoyer,8186
+Cortex-A57,Patch,octane-RegExp,891
+Cortex-A57,Patch,octane-Splay,4681
+Cortex-A57,Patch,octane-SplayLatency,9418
+Cortex-A57,Patch,octane-NavierStokes,6287
+Cortex-A57,Patch,octane-PdfJS,3183
+Cortex-A57,Patch,octane-Mandreel,4312
+Cortex-A57,Patch,octane-MandreelLatency,8731
+Cortex-A57,Patch,octane-Gameboy,11510
+Cortex-A57,Patch,octane-CodeLoad,3117
+Cortex-A57,Patch,octane-Box2D,6669
+Cortex-A57,Patch,octane-zlib,11430
+Cortex-A57,Patch,octane-Typescript,3668
+Cortex-A57,Patch,"octane-Score (version 9)",5922
+Cortex-A57,Patch,octane-Richards,6241
+Cortex-A57,Patch,octane-DeltaBlue,9052
+Cortex-A57,Patch,octane-Crypto,7871
+Cortex-A57,Patch,octane-RayTrace,11163
+Cortex-A57,Patch,octane-EarleyBoyer,8302
+Cortex-A57,Patch,octane-RegExp,923
+Cortex-A57,Patch,octane-Splay,4694
+Cortex-A57,Patch,octane-SplayLatency,5572
+Cortex-A57,Patch,octane-NavierStokes,6287
+Cortex-A57,Patch,octane-PdfJS,3610
+Cortex-A57,Patch,octane-Mandreel,4265
+Cortex-A57,Patch,octane-MandreelLatency,8435
+Cortex-A57,Patch,octane-Gameboy,11465
+Cortex-A57,Patch,octane-CodeLoad,3147
+Cortex-A57,Patch,octane-Box2D,6511
+Cortex-A57,Patch,octane-zlib,11415
+Cortex-A57,Patch,octane-Typescript,3825
+Cortex-A57,Patch,"octane-Score (version 9)",5755
+Cortex-A57,Patch,octane-Richards,6400
+Cortex-A57,Patch,octane-DeltaBlue,9501
+Cortex-A57,Patch,octane-Crypto,7894
+Cortex-A57,Patch,octane-RayTrace,11606
+Cortex-A57,Patch,octane-EarleyBoyer,8289
+Cortex-A57,Patch,octane-RegExp,901
+Cortex-A57,Patch,octane-Splay,4705
+Cortex-A57,Patch,octane-SplayLatency,9337
+Cortex-A57,Patch,octane-NavierStokes,6281
+Cortex-A57,Patch,octane-PdfJS,3514
+Cortex-A57,Patch,octane-Mandreel,4288
+Cortex-A57,Patch,octane-MandreelLatency,8595
+Cortex-A57,Patch,octane-Gameboy,11530
+Cortex-A57,Patch,octane-CodeLoad,3131
+Cortex-A57,Patch,octane-Box2D,6536
+Cortex-A57,Patch,octane-zlib,11415
+Cortex-A57,Patch,octane-Typescript,3749
+Cortex-A57,Patch,"octane-Score (version 9)",5958
+Cortex-A57,Patch,octane-Richards,6570
+Cortex-A57,Patch,octane-DeltaBlue,10030
+Cortex-A57,Patch,octane-Crypto,7875
+Cortex-A57,Patch,octane-RayTrace,11396
+Cortex-A57,Patch,octane-EarleyBoyer,8295
+Cortex-A57,Patch,octane-RegExp,938
+Cortex-A57,Patch,octane-Splay,4800
+Cortex-A57,Patch,octane-SplayLatency,5555
+Cortex-A57,Patch,octane-NavierStokes,6287
+Cortex-A57,Patch,octane-PdfJS,3525
+Cortex-A57,Patch,octane-Mandreel,4334
+Cortex-A57,Patch,octane-MandreelLatency,8625
+Cortex-A57,Patch,octane-Gameboy,11470
+Cortex-A57,Patch,octane-CodeLoad,3147
+Cortex-A57,Patch,octane-Box2D,5259
+Cortex-A57,Patch,octane-zlib,11239
+Cortex-A57,Patch,octane-Typescript,4173
+Cortex-A57,Patch,"octane-Score (version 9)",5783
+Cortex-A57,Patch,octane-Richards,6753
+Cortex-A57,Patch,octane-DeltaBlue,9733
+Cortex-A57,Patch,octane-Crypto,7874
+Cortex-A57,Patch,octane-RayTrace,11781
+Cortex-A57,Patch,octane-EarleyBoyer,8222
+Cortex-A57,Patch,octane-RegExp,903
+Cortex-A57,Patch,octane-Splay,4669
+Cortex-A57,Patch,octane-SplayLatency,9295
+Cortex-A57,Patch,octane-NavierStokes,6287
+Cortex-A57,Patch,octane-PdfJS,3523
+Cortex-A57,Patch,octane-Mandreel,4320
+Cortex-A57,Patch,octane-MandreelLatency,8146
+Cortex-A57,Patch,octane-Gameboy,11663
+Cortex-A57,Patch,octane-CodeLoad,3137
+Cortex-A57,Patch,octane-Box2D,6125
+Cortex-A57,Patch,octane-zlib,11418
+Cortex-A57,Patch,octane-Typescript,3877
+Cortex-A57,Patch,"octane-Score (version 9)",5962
+Cortex-A57,Patch,octane-Richards,6736
+Cortex-A57,Patch,octane-DeltaBlue,9832
+Cortex-A57,Patch,octane-Crypto,7875
+Cortex-A57,Patch,octane-RayTrace,11396
+Cortex-A57,Patch,octane-EarleyBoyer,8262
+Cortex-A57,Patch,octane-RegExp,945
+Cortex-A57,Patch,octane-Splay,4735
+Cortex-A57,Patch,octane-SplayLatency,5607
+Cortex-A57,Patch,octane-NavierStokes,6287
+Cortex-A57,Patch,octane-PdfJS,3581
+Cortex-A57,Patch,octane-Mandreel,4283
+Cortex-A57,Patch,octane-MandreelLatency,8350
+Cortex-A57,Patch,octane-Gameboy,11535
+Cortex-A57,Patch,octane-CodeLoad,3144
+Cortex-A57,Patch,octane-Box2D,6263
+Cortex-A57,Patch,octane-zlib,11415
+Cortex-A57,Patch,octane-Typescript,3837
+Cortex-A57,Patch,"octane-Score (version 9)",5813
+Cortex-A57,Patch,octane-Richards,6697
+Cortex-A57,Patch,octane-DeltaBlue,9627
+Cortex-A57,Patch,octane-Crypto,7891
+Cortex-A57,Patch,octane-RayTrace,11311
+Cortex-A57,Patch,octane-EarleyBoyer,8276
+Cortex-A57,Patch,octane-RegExp,919
+Cortex-A57,Patch,octane-Splay,4730
+Cortex-A57,Patch,octane-SplayLatency,9121
+Cortex-A57,Patch,octane-NavierStokes,6287
+Cortex-A57,Patch,octane-PdfJS,3435
+Cortex-A57,Patch,octane-Mandreel,4344
+Cortex-A57,Patch,octane-MandreelLatency,8610
+Cortex-A57,Patch,octane-Gameboy,11668
+Cortex-A57,Patch,octane-CodeLoad,3148
+Cortex-A57,Patch,octane-Box2D,6272
+Cortex-A57,Patch,octane-zlib,11415
+Cortex-A57,Patch,octane-Typescript,3820
+Cortex-A57,Patch,"octane-Score (version 9)",5965
+Cortex-A57,Patch,octane-Richards,6326
+Cortex-A57,Patch,octane-DeltaBlue,9693
+Cortex-A57,Patch,octane-Crypto,7905
+Cortex-A57,Patch,octane-RayTrace,11657
+Cortex-A57,Patch,octane-EarleyBoyer,8264
+Cortex-A57,Patch,octane-RegExp,933
+Cortex-A57,Patch,octane-Splay,4610
+Cortex-A57,Patch,octane-SplayLatency,8279
+Cortex-A57,Patch,octane-NavierStokes,6287
+Cortex-A57,Patch,octane-PdfJS,3532
+Cortex-A57,Patch,octane-Mandreel,4323
+Cortex-A57,Patch,octane-MandreelLatency,8522
+Cortex-A57,Patch,octane-Gameboy,11663
+Cortex-A57,Patch,octane-CodeLoad,3124
+Cortex-A57,Patch,octane-Box2D,5464
+Cortex-A57,Patch,octane-zlib,11228
+Cortex-A57,Patch,octane-Typescript,4095
+Cortex-A57,Patch,"octane-Score (version 9)",5893
+Cortex-A57,Patch,octane-Richards,6453
+Cortex-A57,Patch,octane-DeltaBlue,8192
+Cortex-A57,Patch,octane-Crypto,7866
+Cortex-A57,Patch,octane-RayTrace,11288
+Cortex-A57,Patch,octane-EarleyBoyer,8146
+Cortex-A57,Patch,octane-RegExp,932
+Cortex-A57,Patch,octane-Splay,4743
+Cortex-A57,Patch,octane-SplayLatency,5631
+Cortex-A57,Patch,octane-NavierStokes,6287
+Cortex-A57,Patch,octane-PdfJS,3520
+Cortex-A57,Patch,octane-Mandreel,4329
+Cortex-A57,Patch,octane-MandreelLatency,8580
+Cortex-A57,Patch,octane-Gameboy,11530
+Cortex-A57,Patch,octane-CodeLoad,3153
+Cortex-A57,Patch,octane-Box2D,6119
+Cortex-A57,Patch,octane-zlib,10351
+Cortex-A57,Patch,octane-Typescript,4068
+Cortex-A57,Patch,"octane-Score (version 9)",5712
+Cortex-A57,Patch,octane-Richards,6443
+Cortex-A57,Patch,octane-DeltaBlue,8437
+Cortex-A57,Patch,octane-Crypto,7898
+Cortex-A57,Patch,octane-RayTrace,11804
+Cortex-A57,Patch,octane-EarleyBoyer,8204
+Cortex-A57,Patch,octane-RegExp,918
+Cortex-A57,Patch,octane-Splay,4644
+Cortex-A57,Patch,octane-SplayLatency,7904
+Cortex-A57,Patch,octane-NavierStokes,6293
+Cortex-A57,Patch,octane-PdfJS,3554
+Cortex-A57,Patch,octane-Mandreel,4294
+Cortex-A57,Patch,octane-MandreelLatency,8566
+Cortex-A57,Patch,octane-Gameboy,11495
+Cortex-A57,Patch,octane-CodeLoad,3148
+Cortex-A57,Patch,octane-Box2D,5582
+Cortex-A57,Patch,octane-zlib,10493
+Cortex-A57,Patch,octane-Typescript,4102
+Cortex-A57,Patch,"octane-Score (version 9)",5818
+Cortex-A57,Patch,octane-Richards,6474
+Cortex-A57,Patch,octane-DeltaBlue,9580
+Cortex-A57,Patch,octane-Crypto,7898
+Cortex-A57,Patch,octane-RayTrace,11486
+Cortex-A57,Patch,octane-EarleyBoyer,8331
+Cortex-A57,Patch,octane-RegExp,852
+Cortex-A57,Patch,octane-Splay,4881
+Cortex-A57,Patch,octane-SplayLatency,9602
+Cortex-A57,Patch,octane-NavierStokes,6287
+Cortex-A57,Patch,octane-PdfJS,3529
+Cortex-A57,Patch,octane-Mandreel,4359
+Cortex-A57,Patch,octane-MandreelLatency,8715
+Cortex-A57,Patch,octane-Gameboy,11581
+Cortex-A57,Patch,octane-CodeLoad,3142
+Cortex-A57,Patch,octane-Box2D,4970
+Cortex-A57,Patch,octane-zlib,10632
+Cortex-A57,Patch,octane-Typescript,4267
+Cortex-A57,Patch,"octane-Score (version 9)",5906
+Cortex-A57,Patch,octane-Richards,6609
+Cortex-A57,Patch,octane-DeltaBlue,9600
+Cortex-A57,Patch,octane-Crypto,7850
+Cortex-A57,Patch,octane-RayTrace,11583
+Cortex-A57,Patch,octane-EarleyBoyer,8319
+Cortex-A57,Patch,octane-RegExp,905
+Cortex-A57,Patch,octane-Splay,4726
+Cortex-A57,Patch,octane-SplayLatency,9155
+Cortex-A57,Patch,octane-NavierStokes,6287
+Cortex-A57,Patch,octane-PdfJS,3531
+Cortex-A57,Patch,octane-Mandreel,4336
+Cortex-A57,Patch,octane-MandreelLatency,8640
+Cortex-A57,Patch,octane-Gameboy,11550
+Cortex-A57,Patch,octane-CodeLoad,3138
+Cortex-A57,Patch,octane-Box2D,6146
+Cortex-A57,Patch,octane-zlib,11390
+Cortex-A57,Patch,octane-Typescript,3813
+Cortex-A57,Patch,"octane-Score (version 9)",5960
+Cortex-A57,Patch,octane-Richards,6365
+Cortex-A57,Patch,octane-DeltaBlue,9852
+Cortex-A57,Patch,octane-Crypto,7890
+Cortex-A57,Patch,octane-RayTrace,11237
+Cortex-A57,Patch,octane-EarleyBoyer,8256
+Cortex-A57,Patch,octane-RegExp,941
+Cortex-A57,Patch,octane-Splay,4621
+Cortex-A57,Patch,octane-SplayLatency,8440
+Cortex-A57,Patch,octane-NavierStokes,6287
+Cortex-A57,Patch,octane-PdfJS,3565
+Cortex-A57,Patch,octane-Mandreel,4310
+Cortex-A57,Patch,octane-MandreelLatency,8625
+Cortex-A57,Patch,octane-Gameboy,11525
+Cortex-A57,Patch,octane-CodeLoad,3126
+Cortex-A57,Patch,octane-Box2D,6546
+Cortex-A57,Patch,octane-zlib,11393
+Cortex-A57,Patch,octane-Typescript,3830
+Cortex-A57,Patch,"octane-Score (version 9)",5944
+Cortex-A57,Patch,octane-Richards,6591
+Cortex-A57,Patch,octane-DeltaBlue,8529
+Cortex-A57,Patch,octane-Crypto,7890
+Cortex-A57,Patch,octane-RayTrace,11560
+Cortex-A57,Patch,octane-EarleyBoyer,8289
+Cortex-A57,Patch,octane-RegExp,926
+Cortex-A57,Patch,octane-Splay,4718
+Cortex-A57,Patch,octane-SplayLatency,5584
+Cortex-A57,Patch,octane-NavierStokes,6287
+Cortex-A57,Patch,octane-PdfJS,3579
+Cortex-A57,Patch,octane-Mandreel,4334
+Cortex-A57,Patch,octane-MandreelLatency,8595
+Cortex-A57,Patch,octane-Gameboy,11689
+Cortex-A57,Patch,octane-CodeLoad,3142
+Cortex-A57,Patch,octane-Box2D,6210
+Cortex-A57,Patch,octane-zlib,11438
+Cortex-A57,Patch,octane-Typescript,3820
+Cortex-A57,Patch,"octane-Score (version 9)",5768
+Cortex-A57,Patch,octane-Richards,6485
+Cortex-A57,Patch,octane-DeltaBlue,9448
+Cortex-A57,Patch,octane-Crypto,7897
+Cortex-A57,Patch,octane-RayTrace,10772
+Cortex-A57,Patch,octane-EarleyBoyer,8301
+Cortex-A57,Patch,octane-RegExp,920
+Cortex-A57,Patch,octane-Splay,4803
+Cortex-A57,Patch,octane-SplayLatency,9230
+Cortex-A57,Patch,octane-NavierStokes,6281
+Cortex-A57,Patch,octane-PdfJS,3466
+Cortex-A57,Patch,octane-Mandreel,4340
+Cortex-A57,Patch,octane-MandreelLatency,8640
+Cortex-A57,Patch,octane-Gameboy,11684
+Cortex-A57,Patch,octane-CodeLoad,3127
+Cortex-A57,Patch,octane-Box2D,4661
+Cortex-A57,Patch,octane-zlib,11470
+Cortex-A57,Patch,octane-Typescript,4208
+Cortex-A57,Patch,"octane-Score (version 9)",5875
+Cortex-A57,Patch,octane-Richards,6623
+Cortex-A57,Patch,octane-DeltaBlue,9733
+Cortex-A57,Patch,octane-Crypto,7863
+Cortex-A57,Patch,octane-RayTrace,11521
+Cortex-A57,Patch,octane-EarleyBoyer,8125
+Cortex-A57,Patch,octane-RegExp,924
+Cortex-A57,Patch,octane-Splay,4665
+Cortex-A57,Patch,octane-SplayLatency,8462
+Cortex-A57,Patch,octane-NavierStokes,6287
+Cortex-A57,Patch,octane-PdfJS,3565
+Cortex-A57,Patch,octane-Mandreel,4347
+Cortex-A57,Patch,octane-MandreelLatency,8522
+Cortex-A57,Patch,octane-Gameboy,11627
+Cortex-A57,Patch,octane-CodeLoad,3136
+Cortex-A57,Patch,octane-Box2D,6210
+Cortex-A57,Patch,octane-zlib,11418
+Cortex-A57,Patch,octane-Typescript,3812
+Cortex-A57,Patch,"octane-Score (version 9)",5938
+Cortex-A57,Patch,octane-Richards,6305
+Cortex-A57,Patch,octane-DeltaBlue,9898
+Cortex-A57,Patch,octane-Crypto,7880
+Cortex-A57,Patch,octane-RayTrace,11328
+Cortex-A57,Patch,octane-EarleyBoyer,8230
+Cortex-A57,Patch,octane-RegExp,941
+Cortex-A57,Patch,octane-Splay,4689
+Cortex-A57,Patch,octane-SplayLatency,8435
+Cortex-A57,Patch,octane-NavierStokes,6287
+Cortex-A57,Patch,octane-PdfJS,3546
+Cortex-A57,Patch,octane-Mandreel,4297
+Cortex-A57,Patch,octane-MandreelLatency,8610
+Cortex-A57,Patch,octane-Gameboy,11555
+Cortex-A57,Patch,octane-CodeLoad,3140
+Cortex-A57,Patch,octane-Box2D,6137
+Cortex-A57,Patch,octane-zlib,11393
+Cortex-A57,Patch,octane-Typescript,3744
+Cortex-A57,Patch,"octane-Score (version 9)",5917
+Cortex-A57,Patch,octane-Richards,6354
+Cortex-A57,Patch,octane-DeltaBlue,9263
+Cortex-A57,Patch,octane-Crypto,7898
+Cortex-A57,Patch,octane-RayTrace,11350
+Cortex-A57,Patch,octane-EarleyBoyer,8224
+Cortex-A57,Patch,octane-RegExp,886
+Cortex-A57,Patch,octane-Splay,4841
+Cortex-A57,Patch,octane-SplayLatency,9399
+Cortex-A57,Patch,octane-NavierStokes,6287
+Cortex-A57,Patch,octane-PdfJS,3548
+Cortex-A57,Patch,octane-Mandreel,4308
+Cortex-A57,Patch,octane-MandreelLatency,8464
+Cortex-A57,Patch,octane-Gameboy,11505
+Cortex-A57,Patch,octane-CodeLoad,3139
+Cortex-A57,Patch,octane-Box2D,5135
+Cortex-A57,Patch,octane-zlib,11353
+Cortex-A57,Patch,octane-Typescript,4134
+Cortex-A57,Patch,"octane-Score (version 9)",5891
+Cortex-A57,Patch,octane-Richards,6520
+Cortex-A57,Patch,octane-DeltaBlue,9812
+Cortex-A57,Patch,octane-Crypto,7891
+Cortex-A57,Patch,octane-RayTrace,11498
+Cortex-A57,Patch,octane-EarleyBoyer,8268
+Cortex-A57,Patch,octane-RegExp,946
+Cortex-A57,Patch,octane-Splay,4638
+Cortex-A57,Patch,octane-SplayLatency,5597
+Cortex-A57,Patch,octane-NavierStokes,6293
+Cortex-A57,Patch,octane-PdfJS,3234
+Cortex-A57,Patch,octane-Mandreel,3924
+Cortex-A57,Patch,octane-MandreelLatency,8067
+Cortex-A57,Patch,octane-Gameboy,11555
+Cortex-A57,Patch,octane-CodeLoad,3128
+Cortex-A57,Patch,octane-Box2D,6552
+Cortex-A57,Patch,octane-zlib,11435
+Cortex-A57,Patch,octane-Typescript,3835
+Cortex-A57,Patch,"octane-Score (version 9)",5736
+Cortex-A57,Patch,ss-3d-cube,52
+Cortex-A57,Patch,ss-3d-morph,67
+Cortex-A57,Patch,ss-3d-raytrace,61
+Cortex-A57,Patch,ss-access-binary-trees,9
+Cortex-A57,Patch,ss-access-fannkuch,26
+Cortex-A57,Patch,ss-access-nbody,14
+Cortex-A57,Patch,ss-access-nsieve,14
+Cortex-A57,Patch,ss-bitops-3bit-bits-in-byte,5
+Cortex-A57,Patch,ss-bitops-bits-in-byte,22
+Cortex-A57,Patch,ss-bitops-bitwise-and,9
+Cortex-A57,Patch,ss-bitops-nsieve-bits,19
+Cortex-A57,Patch,ss-controlflow-recursive,10
+Cortex-A57,Patch,ss-crypto-aes,44
+Cortex-A57,Patch,ss-crypto-md5,24
+Cortex-A57,Patch,ss-crypto-sha1,25
+Cortex-A57,Patch,ss-date-format-tofte,70
+Cortex-A57,Patch,ss-date-format-xparb,78
+Cortex-A57,Patch,ss-math-cordic,14
+Cortex-A57,Patch,ss-math-partial-sums,82
+Cortex-A57,Patch,ss-math-spectral-norm,14
+Cortex-A57,Patch,ss-regexp-dna,50
+Cortex-A57,Patch,ss-string-base64,38
+Cortex-A57,Patch,ss-string-fasta,84
+Cortex-A57,Patch,ss-string-tagcloud,159
+Cortex-A57,Patch,ss-string-unpack-code,122
+Cortex-A57,Patch,ss-string-validate-input,35
+Cortex-A57,Patch,ss-3d-cube,52
+Cortex-A57,Patch,ss-3d-morph,66
+Cortex-A57,Patch,ss-3d-raytrace,61
+Cortex-A57,Patch,ss-access-binary-trees,9
+Cortex-A57,Patch,ss-access-fannkuch,26
+Cortex-A57,Patch,ss-access-nbody,14
+Cortex-A57,Patch,ss-access-nsieve,11
+Cortex-A57,Patch,ss-bitops-3bit-bits-in-byte,4
+Cortex-A57,Patch,ss-bitops-bits-in-byte,16
+Cortex-A57,Patch,ss-bitops-bitwise-and,7
+Cortex-A57,Patch,ss-bitops-nsieve-bits,14
+Cortex-A57,Patch,ss-controlflow-recursive,7
+Cortex-A57,Patch,ss-crypto-aes,33
+Cortex-A57,Patch,ss-crypto-md5,18
+Cortex-A57,Patch,ss-crypto-sha1,18
+Cortex-A57,Patch,ss-date-format-tofte,52
+Cortex-A57,Patch,ss-date-format-xparb,59
+Cortex-A57,Patch,ss-math-cordic,11
+Cortex-A57,Patch,ss-math-partial-sums,60
+Cortex-A57,Patch,ss-math-spectral-norm,10
+Cortex-A57,Patch,ss-regexp-dna,37
+Cortex-A57,Patch,ss-string-base64,29
+Cortex-A57,Patch,ss-string-fasta,58
+Cortex-A57,Patch,ss-string-tagcloud,119
+Cortex-A57,Patch,ss-string-unpack-code,114
+Cortex-A57,Patch,ss-string-validate-input,35
+Cortex-A57,Patch,ss-3d-cube,51
+Cortex-A57,Patch,ss-3d-morph,66
+Cortex-A57,Patch,ss-3d-raytrace,60
+Cortex-A57,Patch,ss-access-binary-trees,12
+Cortex-A57,Patch,ss-access-fannkuch,35
+Cortex-A57,Patch,ss-access-nbody,19
+Cortex-A57,Patch,ss-access-nsieve,15
+Cortex-A57,Patch,ss-bitops-3bit-bits-in-byte,5
+Cortex-A57,Patch,ss-bitops-bits-in-byte,23
+Cortex-A57,Patch,ss-bitops-bitwise-and,10
+Cortex-A57,Patch,ss-bitops-nsieve-bits,19
+Cortex-A57,Patch,ss-controlflow-recursive,10
+Cortex-A57,Patch,ss-crypto-aes,44
+Cortex-A57,Patch,ss-crypto-md5,24
+Cortex-A57,Patch,ss-crypto-sha1,25
+Cortex-A57,Patch,ss-date-format-tofte,70
+Cortex-A57,Patch,ss-date-format-xparb,78
+Cortex-A57,Patch,ss-math-cordic,15
+Cortex-A57,Patch,ss-math-partial-sums,82
+Cortex-A57,Patch,ss-math-spectral-norm,13
+Cortex-A57,Patch,ss-regexp-dna,50
+Cortex-A57,Patch,ss-string-base64,39
+Cortex-A57,Patch,ss-string-fasta,80
+Cortex-A57,Patch,ss-string-tagcloud,147
+Cortex-A57,Patch,ss-string-unpack-code,114
+Cortex-A57,Patch,ss-string-validate-input,35
+Cortex-A57,Patch,ss-3d-cube,51
+Cortex-A57,Patch,ss-3d-morph,66
+Cortex-A57,Patch,ss-3d-raytrace,60
+Cortex-A57,Patch,ss-access-binary-trees,8
+Cortex-A57,Patch,ss-access-fannkuch,26
+Cortex-A57,Patch,ss-access-nbody,14
+Cortex-A57,Patch,ss-access-nsieve,11
+Cortex-A57,Patch,ss-bitops-3bit-bits-in-byte,4
+Cortex-A57,Patch,ss-bitops-bits-in-byte,16
+Cortex-A57,Patch,ss-bitops-bitwise-and,7
+Cortex-A57,Patch,ss-bitops-nsieve-bits,14
+Cortex-A57,Patch,ss-controlflow-recursive,7
+Cortex-A57,Patch,ss-crypto-aes,33
+Cortex-A57,Patch,ss-crypto-md5,19
+Cortex-A57,Patch,ss-crypto-sha1,18
+Cortex-A57,Patch,ss-date-format-tofte,52
+Cortex-A57,Patch,ss-date-format-xparb,58
+Cortex-A57,Patch,ss-math-cordic,10
+Cortex-A57,Patch,ss-math-partial-sums,61
+Cortex-A57,Patch,ss-math-spectral-norm,10
+Cortex-A57,Patch,ss-regexp-dna,37
+Cortex-A57,Patch,ss-string-base64,29
+Cortex-A57,Patch,ss-string-fasta,59
+Cortex-A57,Patch,ss-string-tagcloud,119
+Cortex-A57,Patch,ss-string-unpack-code,115
+Cortex-A57,Patch,ss-string-validate-input,35
+Cortex-A57,Patch,ss-3d-cube,50
+Cortex-A57,Patch,ss-3d-morph,76
+Cortex-A57,Patch,ss-3d-raytrace,81
+Cortex-A57,Patch,ss-access-binary-trees,12
+Cortex-A57,Patch,ss-access-fannkuch,35
+Cortex-A57,Patch,ss-access-nbody,22
+Cortex-A57,Patch,ss-access-nsieve,14
+Cortex-A57,Patch,ss-bitops-3bit-bits-in-byte,6
+Cortex-A57,Patch,ss-bitops-bits-in-byte,22
+Cortex-A57,Patch,ss-bitops-bitwise-and,10
+Cortex-A57,Patch,ss-bitops-nsieve-bits,20
+Cortex-A57,Patch,ss-controlflow-recursive,10
+Cortex-A57,Patch,ss-crypto-aes,44
+Cortex-A57,Patch,ss-crypto-md5,24
+Cortex-A57,Patch,ss-crypto-sha1,25
+Cortex-A57,Patch,ss-date-format-tofte,69
+Cortex-A57,Patch,ss-date-format-xparb,77
+Cortex-A57,Patch,ss-math-cordic,17
+Cortex-A57,Patch,ss-math-partial-sums,81
+Cortex-A57,Patch,ss-math-spectral-norm,14
+Cortex-A57,Patch,ss-regexp-dna,50
+Cortex-A57,Patch,ss-string-base64,39
+Cortex-A57,Patch,ss-string-fasta,81
+Cortex-A57,Patch,ss-string-tagcloud,119
+Cortex-A57,Patch,ss-string-unpack-code,114
+Cortex-A57,Patch,ss-string-validate-input,35
+Cortex-A57,Patch,ss-3d-cube,51
+Cortex-A57,Patch,ss-3d-morph,66
+Cortex-A57,Patch,ss-3d-raytrace,60
+Cortex-A57,Patch,ss-access-binary-trees,8
+Cortex-A57,Patch,ss-access-fannkuch,26
+Cortex-A57,Patch,ss-access-nbody,14
+Cortex-A57,Patch,ss-access-nsieve,11
+Cortex-A57,Patch,ss-bitops-3bit-bits-in-byte,4
+Cortex-A57,Patch,ss-bitops-bits-in-byte,16
+Cortex-A57,Patch,ss-bitops-bitwise-and,8
+Cortex-A57,Patch,ss-bitops-nsieve-bits,14
+Cortex-A57,Patch,ss-controlflow-recursive,7
+Cortex-A57,Patch,ss-crypto-aes,33
+Cortex-A57,Patch,ss-crypto-md5,25
+Cortex-A57,Patch,ss-crypto-sha1,25
+Cortex-A57,Patch,ss-date-format-tofte,71
+Cortex-A57,Patch,ss-date-format-xparb,78
+Cortex-A57,Patch,ss-math-cordic,15
+Cortex-A57,Patch,ss-math-partial-sums,81
+Cortex-A57,Patch,ss-math-spectral-norm,13
+Cortex-A57,Patch,ss-regexp-dna,50
+Cortex-A57,Patch,ss-string-base64,40
+Cortex-A57,Patch,ss-string-fasta,80
+Cortex-A57,Patch,ss-string-tagcloud,160
+Cortex-A57,Patch,ss-string-unpack-code,151
+Cortex-A57,Patch,ss-string-validate-input,47
+Cortex-A57,Patch,ss-3d-cube,51
+Cortex-A57,Patch,ss-3d-morph,66
+Cortex-A57,Patch,ss-3d-raytrace,61
+Cortex-A57,Patch,ss-access-binary-trees,8
+Cortex-A57,Patch,ss-access-fannkuch,26
+Cortex-A57,Patch,ss-access-nbody,14
+Cortex-A57,Patch,ss-access-nsieve,11
+Cortex-A57,Patch,ss-bitops-3bit-bits-in-byte,4
+Cortex-A57,Patch,ss-bitops-bits-in-byte,16
+Cortex-A57,Patch,ss-bitops-bitwise-and,7
+Cortex-A57,Patch,ss-bitops-nsieve-bits,14
+Cortex-A57,Patch,ss-controlflow-recursive,8
+Cortex-A57,Patch,ss-crypto-aes,33
+Cortex-A57,Patch,ss-crypto-md5,18
+Cortex-A57,Patch,ss-crypto-sha1,19
+Cortex-A57,Patch,ss-date-format-tofte,52
+Cortex-A57,Patch,ss-date-format-xparb,58
+Cortex-A57,Patch,ss-math-cordic,11
+Cortex-A57,Patch,ss-math-partial-sums,60
+Cortex-A57,Patch,ss-math-spectral-norm,10
+Cortex-A57,Patch,ss-regexp-dna,37
+Cortex-A57,Patch,ss-string-base64,29
+Cortex-A57,Patch,ss-string-fasta,59
+Cortex-A57,Patch,ss-string-tagcloud,119
+Cortex-A57,Patch,ss-string-unpack-code,115
+Cortex-A57,Patch,ss-string-validate-input,35
+Cortex-A57,Patch,ss-3d-cube,50
+Cortex-A57,Patch,ss-3d-morph,66
+Cortex-A57,Patch,ss-3d-raytrace,62
+Cortex-A57,Patch,ss-access-binary-trees,8
+Cortex-A57,Patch,ss-access-fannkuch,26
+Cortex-A57,Patch,ss-access-nbody,14
+Cortex-A57,Patch,ss-access-nsieve,11
+Cortex-A57,Patch,ss-bitops-3bit-bits-in-byte,4
+Cortex-A57,Patch,ss-bitops-bits-in-byte,16
+Cortex-A57,Patch,ss-bitops-bitwise-and,7
+Cortex-A57,Patch,ss-bitops-nsieve-bits,14
+Cortex-A57,Patch,ss-controlflow-recursive,7
+Cortex-A57,Patch,ss-crypto-aes,33
+Cortex-A57,Patch,ss-crypto-md5,18
+Cortex-A57,Patch,ss-crypto-sha1,19
+Cortex-A57,Patch,ss-date-format-tofte,53
+Cortex-A57,Patch,ss-date-format-xparb,56
+Cortex-A57,Patch,ss-math-cordic,11
+Cortex-A57,Patch,ss-math-partial-sums,61
+Cortex-A57,Patch,ss-math-spectral-norm,10
+Cortex-A57,Patch,ss-regexp-dna,37
+Cortex-A57,Patch,ss-string-base64,28
+Cortex-A57,Patch,ss-string-fasta,62
+Cortex-A57,Patch,ss-string-tagcloud,119
+Cortex-A57,Patch,ss-string-unpack-code,114
+Cortex-A57,Patch,ss-string-validate-input,37
+Cortex-A57,Patch,ss-3d-cube,52
+Cortex-A57,Patch,ss-3d-morph,66
+Cortex-A57,Patch,ss-3d-raytrace,61
+Cortex-A57,Patch,ss-access-binary-trees,9
+Cortex-A57,Patch,ss-access-fannkuch,25
+Cortex-A57,Patch,ss-access-nbody,14
+Cortex-A57,Patch,ss-access-nsieve,11
+Cortex-A57,Patch,ss-bitops-3bit-bits-in-byte,4
+Cortex-A57,Patch,ss-bitops-bits-in-byte,16
+Cortex-A57,Patch,ss-bitops-bitwise-and,8
+Cortex-A57,Patch,ss-bitops-nsieve-bits,14
+Cortex-A57,Patch,ss-controlflow-recursive,7
+Cortex-A57,Patch,ss-crypto-aes,33
+Cortex-A57,Patch,ss-crypto-md5,18
+Cortex-A57,Patch,ss-crypto-sha1,18
+Cortex-A57,Patch,ss-date-format-tofte,52
+Cortex-A57,Patch,ss-date-format-xparb,55
+Cortex-A57,Patch,ss-math-cordic,11
+Cortex-A57,Patch,ss-math-partial-sums,60
+Cortex-A57,Patch,ss-math-spectral-norm,10
+Cortex-A57,Patch,ss-regexp-dna,37
+Cortex-A57,Patch,ss-string-base64,29
+Cortex-A57,Patch,ss-string-fasta,63
+Cortex-A57,Patch,ss-string-tagcloud,120
+Cortex-A57,Patch,ss-string-unpack-code,116
+Cortex-A57,Patch,ss-string-validate-input,35
+Cortex-A57,Patch,ss-3d-cube,50
+Cortex-A57,Patch,ss-3d-morph,66
+Cortex-A57,Patch,ss-3d-raytrace,61
+Cortex-A57,Patch,ss-access-binary-trees,9
+Cortex-A57,Patch,ss-access-fannkuch,26
+Cortex-A57,Patch,ss-access-nbody,14
+Cortex-A57,Patch,ss-access-nsieve,10
+Cortex-A57,Patch,ss-bitops-3bit-bits-in-byte,4
+Cortex-A57,Patch,ss-bitops-bits-in-byte,17
+Cortex-A57,Patch,ss-bitops-bitwise-and,7
+Cortex-A57,Patch,ss-bitops-nsieve-bits,14
+Cortex-A57,Patch,ss-controlflow-recursive,7
+Cortex-A57,Patch,ss-crypto-aes,33
+Cortex-A57,Patch,ss-crypto-md5,18
+Cortex-A57,Patch,ss-crypto-sha1,19
+Cortex-A57,Patch,ss-date-format-tofte,66
+Cortex-A57,Patch,ss-date-format-xparb,79
+Cortex-A57,Patch,ss-math-cordic,14
+Cortex-A57,Patch,ss-math-partial-sums,81
+Cortex-A57,Patch,ss-math-spectral-norm,13
+Cortex-A57,Patch,ss-regexp-dna,50
+Cortex-A57,Patch,ss-string-base64,39
+Cortex-A57,Patch,ss-string-fasta,83
+Cortex-A57,Patch,ss-string-tagcloud,159
+Cortex-A57,Patch,ss-string-unpack-code,150
+Cortex-A57,Patch,ss-string-validate-input,47

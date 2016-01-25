@@ -1,0 +1,961 @@
+Column,Set,Benchmark,Result
+Cortex-A53,"r30356 (baseline)",asmjs-apps-box2d-loadtime,5854
+Cortex-A53,"r30356 (baseline)",asmjs-apps-box2d-throughput,23364
+Cortex-A53,"r30356 (baseline)",asmjs-apps-bullet-loadtime,16779
+Cortex-A53,"r30356 (baseline)",asmjs-apps-bullet-throughput,37103
+Cortex-A53,"r30356 (baseline)",asmjs-apps-lua_binarytrees-loadtime,3927
+Cortex-A53,"r30356 (baseline)",asmjs-apps-lua_binarytrees-throughput,25659
+Cortex-A53,"r30356 (baseline)",asmjs-apps-zlib-loadtime,3224
+Cortex-A53,"r30356 (baseline)",asmjs-apps-zlib-throughput,15830
+Cortex-A53,"r30356 (baseline)",asmjs-apps-box2d-loadtime,5410
+Cortex-A53,"r30356 (baseline)",asmjs-apps-box2d-throughput,23304
+Cortex-A53,"r30356 (baseline)",asmjs-apps-bullet-loadtime,16777
+Cortex-A53,"r30356 (baseline)",asmjs-apps-bullet-throughput,37071
+Cortex-A53,"r30356 (baseline)",asmjs-apps-lua_binarytrees-loadtime,3930
+Cortex-A53,"r30356 (baseline)",asmjs-apps-lua_binarytrees-throughput,25579
+Cortex-A53,"r30356 (baseline)",asmjs-apps-zlib-loadtime,3230
+Cortex-A53,"r30356 (baseline)",asmjs-apps-zlib-throughput,15833
+Cortex-A53,"r30356 (baseline)",asmjs-apps-box2d-loadtime,5422
+Cortex-A53,"r30356 (baseline)",asmjs-apps-box2d-throughput,23357
+Cortex-A53,"r30356 (baseline)",asmjs-apps-bullet-loadtime,16783
+Cortex-A53,"r30356 (baseline)",asmjs-apps-bullet-throughput,37019
+Cortex-A53,"r30356 (baseline)",asmjs-apps-lua_binarytrees-loadtime,3933
+Cortex-A53,"r30356 (baseline)",asmjs-apps-lua_binarytrees-throughput,25577
+Cortex-A53,"r30356 (baseline)",asmjs-apps-zlib-loadtime,3227
+Cortex-A53,"r30356 (baseline)",asmjs-apps-zlib-throughput,15830
+Cortex-A53,"r30356 (baseline)",asmjs-apps-box2d-loadtime,5410
+Cortex-A53,"r30356 (baseline)",asmjs-apps-box2d-throughput,23316
+Cortex-A53,"r30356 (baseline)",asmjs-apps-bullet-loadtime,16782
+Cortex-A53,"r30356 (baseline)",asmjs-apps-bullet-throughput,37051
+Cortex-A53,"r30356 (baseline)",asmjs-apps-lua_binarytrees-loadtime,3928
+Cortex-A53,"r30356 (baseline)",asmjs-apps-lua_binarytrees-throughput,25573
+Cortex-A53,"r30356 (baseline)",asmjs-apps-zlib-loadtime,3231
+Cortex-A53,"r30356 (baseline)",asmjs-apps-zlib-throughput,15842
+Cortex-A53,"r30356 (baseline)",asmjs-apps-box2d-loadtime,5403
+Cortex-A53,"r30356 (baseline)",asmjs-apps-box2d-throughput,23322
+Cortex-A53,"r30356 (baseline)",asmjs-apps-bullet-loadtime,16782
+Cortex-A53,"r30356 (baseline)",asmjs-apps-bullet-throughput,37528
+Cortex-A53,"r30356 (baseline)",asmjs-apps-lua_binarytrees-loadtime,3901
+Cortex-A53,"r30356 (baseline)",asmjs-apps-lua_binarytrees-throughput,25843
+Cortex-A53,"r30356 (baseline)",asmjs-apps-zlib-loadtime,3225
+Cortex-A53,"r30356 (baseline)",asmjs-apps-zlib-throughput,15813
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-copy,30558
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-corrections,31565
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-fannkuch,27447
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-fasta,79067
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-life,44288
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-memops,54893
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-primes,31998
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-skinning,171074
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-copy,30558
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-corrections,31566
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-fannkuch,27462
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-fasta,79065
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-life,44378
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-memops,54930
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-primes,31998
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-skinning,170964
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-copy,30558
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-corrections,31567
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-fannkuch,27467
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-fasta,79069
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-life,43892
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-memops,54912
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-primes,32002
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-skinning,170744
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-copy,30560
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-corrections,31567
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-fannkuch,27463
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-fasta,79084
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-life,44275
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-memops,54918
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-primes,31991
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-skinning,171022
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-copy,30736
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-corrections,31566
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-fannkuch,27474
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-fasta,79083
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-life,44380
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-memops,54963
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-primes,31996
+Cortex-A53,"r30356 (baseline)",asmjs-ubench-skinning,170989
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-bigfib,4210
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-container,26300
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-dry,4844
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-float-mm,8457
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-gcc-loops,36731
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-n-body,12400
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-quicksort,1981
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-towers,3890
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-bigfib,3938
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-container,26119
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-dry,5314
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-float-mm,8635
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-gcc-loops,39930
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-n-body,12575
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-quicksort,2157
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-towers,3712
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-bigfib,3935
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-container,26314
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-dry,5021
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-float-mm,8602
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-gcc-loops,36847
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-n-body,12402
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-quicksort,1981
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-towers,3891
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-bigfib,3932
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-container,26089
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-dry,5021
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-float-mm,8457
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-gcc-loops,36962
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-n-body,12412
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-quicksort,1981
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-towers,3891
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-bigfib,3937
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-container,26034
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-dry,5021
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-float-mm,8591
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-gcc-loops,36790
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-n-body,12402
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-quicksort,2111
+Cortex-A53,"r30356 (baseline)",jetstream-asmjs-towers,3891
+Cortex-A57,"r30356 (baseline)",asmjs-apps-box2d-loadtime,2679
+Cortex-A57,"r30356 (baseline)",asmjs-apps-box2d-throughput,10408
+Cortex-A57,"r30356 (baseline)",asmjs-apps-bullet-loadtime,7043
+Cortex-A57,"r30356 (baseline)",asmjs-apps-bullet-throughput,15936
+Cortex-A57,"r30356 (baseline)",asmjs-apps-lua_binarytrees-loadtime,1831
+Cortex-A57,"r30356 (baseline)",asmjs-apps-lua_binarytrees-throughput,9244
+Cortex-A57,"r30356 (baseline)",asmjs-apps-zlib-loadtime,1646
+Cortex-A57,"r30356 (baseline)",asmjs-apps-zlib-throughput,7628
+Cortex-A57,"r30356 (baseline)",asmjs-apps-box2d-loadtime,2683
+Cortex-A57,"r30356 (baseline)",asmjs-apps-box2d-throughput,10137
+Cortex-A57,"r30356 (baseline)",asmjs-apps-bullet-loadtime,7039
+Cortex-A57,"r30356 (baseline)",asmjs-apps-bullet-throughput,15719
+Cortex-A57,"r30356 (baseline)",asmjs-apps-lua_binarytrees-loadtime,1825
+Cortex-A57,"r30356 (baseline)",asmjs-apps-lua_binarytrees-throughput,9205
+Cortex-A57,"r30356 (baseline)",asmjs-apps-zlib-loadtime,1649
+Cortex-A57,"r30356 (baseline)",asmjs-apps-zlib-throughput,7615
+Cortex-A57,"r30356 (baseline)",asmjs-apps-box2d-loadtime,2669
+Cortex-A57,"r30356 (baseline)",asmjs-apps-box2d-throughput,10156
+Cortex-A57,"r30356 (baseline)",asmjs-apps-bullet-loadtime,7049
+Cortex-A57,"r30356 (baseline)",asmjs-apps-bullet-throughput,15730
+Cortex-A57,"r30356 (baseline)",asmjs-apps-lua_binarytrees-loadtime,1822
+Cortex-A57,"r30356 (baseline)",asmjs-apps-lua_binarytrees-throughput,9182
+Cortex-A57,"r30356 (baseline)",asmjs-apps-zlib-loadtime,1648
+Cortex-A57,"r30356 (baseline)",asmjs-apps-zlib-throughput,7609
+Cortex-A57,"r30356 (baseline)",asmjs-apps-box2d-loadtime,2931
+Cortex-A57,"r30356 (baseline)",asmjs-apps-box2d-throughput,10461
+Cortex-A57,"r30356 (baseline)",asmjs-apps-bullet-loadtime,7003
+Cortex-A57,"r30356 (baseline)",asmjs-apps-bullet-throughput,15931
+Cortex-A57,"r30356 (baseline)",asmjs-apps-lua_binarytrees-loadtime,1816
+Cortex-A57,"r30356 (baseline)",asmjs-apps-lua_binarytrees-throughput,9319
+Cortex-A57,"r30356 (baseline)",asmjs-apps-zlib-loadtime,1646
+Cortex-A57,"r30356 (baseline)",asmjs-apps-zlib-throughput,7602
+Cortex-A57,"r30356 (baseline)",asmjs-apps-box2d-loadtime,2933
+Cortex-A57,"r30356 (baseline)",asmjs-apps-box2d-throughput,10185
+Cortex-A57,"r30356 (baseline)",asmjs-apps-bullet-loadtime,7032
+Cortex-A57,"r30356 (baseline)",asmjs-apps-bullet-throughput,15898
+Cortex-A57,"r30356 (baseline)",asmjs-apps-lua_binarytrees-loadtime,1818
+Cortex-A57,"r30356 (baseline)",asmjs-apps-lua_binarytrees-throughput,9276
+Cortex-A57,"r30356 (baseline)",asmjs-apps-zlib-loadtime,1645
+Cortex-A57,"r30356 (baseline)",asmjs-apps-zlib-throughput,7622
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-copy,12701
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-corrections,16417
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-fannkuch,15172
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-fasta,37728
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-life,19887
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-memops,25681
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-primes,17608
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-skinning,51972
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-copy,12705
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-corrections,16417
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-fannkuch,14038
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-fasta,37463
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-life,19783
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-memops,25951
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-primes,17605
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-skinning,50087
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-copy,12702
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-corrections,16415
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-fannkuch,14087
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-fasta,37462
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-life,20125
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-memops,25782
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-primes,17608
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-skinning,51157
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-copy,12706
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-corrections,16419
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-fannkuch,14213
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-fasta,37460
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-life,19656
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-memops,25691
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-primes,17607
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-skinning,49506
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-copy,12708
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-corrections,16417
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-fannkuch,14506
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-fasta,37742
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-life,19656
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-memops,25827
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-primes,17606
+Cortex-A57,"r30356 (baseline)",asmjs-ubench-skinning,52815
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-bigfib,1965
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-container,14951
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-dry,3874
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-float-mm,2290
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-gcc-loops,15088
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-n-body,5228
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-quicksort,1582
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-towers,1497
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-bigfib,1944
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-container,14977
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-dry,3874
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-float-mm,2291
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-gcc-loops,15109
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-n-body,5228
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-quicksort,1963
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-towers,1492
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-bigfib,2212
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-container,14942
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-dry,3873
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-float-mm,2290
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-gcc-loops,15434
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-n-body,5502
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-quicksort,1854
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-towers,1768
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-bigfib,1965
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-container,15247
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-dry,3873
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-float-mm,2290
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-gcc-loops,15075
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-n-body,5228
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-quicksort,1964
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-towers,1645
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-bigfib,2218
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-container,15117
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-dry,3874
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-float-mm,2292
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-gcc-loops,15078
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-n-body,5228
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-quicksort,1962
+Cortex-A57,"r30356 (baseline)",jetstream-asmjs-towers,1502
+Cortex-A53,r30357,asmjs-apps-box2d-loadtime,6130
+Cortex-A53,r30357,asmjs-apps-box2d-throughput,24267
+Cortex-A53,r30357,asmjs-apps-bullet-loadtime,17301
+Cortex-A53,r30357,asmjs-apps-bullet-throughput,37607
+Cortex-A53,r30357,asmjs-apps-lua_binarytrees-loadtime,4218
+Cortex-A53,r30357,asmjs-apps-lua_binarytrees-throughput,26770
+Cortex-A53,r30357,asmjs-apps-zlib-loadtime,4316
+Cortex-A53,r30357,asmjs-apps-zlib-throughput,18116
+Cortex-A53,r30357,asmjs-apps-box2d-loadtime,6015
+Cortex-A53,r30357,asmjs-apps-box2d-throughput,24276
+Cortex-A53,r30357,asmjs-apps-bullet-loadtime,17294
+Cortex-A53,r30357,asmjs-apps-bullet-throughput,37632
+Cortex-A53,r30357,asmjs-apps-lua_binarytrees-loadtime,4202
+Cortex-A53,r30357,asmjs-apps-lua_binarytrees-throughput,26891
+Cortex-A53,r30357,asmjs-apps-zlib-loadtime,4314
+Cortex-A53,r30357,asmjs-apps-zlib-throughput,18109
+Cortex-A53,r30357,asmjs-apps-box2d-loadtime,6011
+Cortex-A53,r30357,asmjs-apps-box2d-throughput,24437
+Cortex-A53,r30357,asmjs-apps-bullet-loadtime,17292
+Cortex-A53,r30357,asmjs-apps-bullet-throughput,37599
+Cortex-A53,r30357,asmjs-apps-lua_binarytrees-loadtime,4177
+Cortex-A53,r30357,asmjs-apps-lua_binarytrees-throughput,26787
+Cortex-A53,r30357,asmjs-apps-zlib-loadtime,4312
+Cortex-A53,r30357,asmjs-apps-zlib-throughput,18112
+Cortex-A53,r30357,asmjs-apps-box2d-loadtime,6004
+Cortex-A53,r30357,asmjs-apps-box2d-throughput,24399
+Cortex-A53,r30357,asmjs-apps-bullet-loadtime,17298
+Cortex-A53,r30357,asmjs-apps-bullet-throughput,37627
+Cortex-A53,r30357,asmjs-apps-lua_binarytrees-loadtime,4229
+Cortex-A53,r30357,asmjs-apps-lua_binarytrees-throughput,27323
+Cortex-A53,r30357,asmjs-apps-zlib-loadtime,4309
+Cortex-A53,r30357,asmjs-apps-zlib-throughput,18113
+Cortex-A53,r30357,asmjs-apps-box2d-loadtime,6020
+Cortex-A53,r30357,asmjs-apps-box2d-throughput,24322
+Cortex-A53,r30357,asmjs-apps-bullet-loadtime,17293
+Cortex-A53,r30357,asmjs-apps-bullet-throughput,37670
+Cortex-A53,r30357,asmjs-apps-lua_binarytrees-loadtime,4240
+Cortex-A53,r30357,asmjs-apps-lua_binarytrees-throughput,26989
+Cortex-A53,r30357,asmjs-apps-zlib-loadtime,4311
+Cortex-A53,r30357,asmjs-apps-zlib-throughput,18102
+Cortex-A53,r30357,asmjs-ubench-copy,32408
+Cortex-A53,r30357,asmjs-ubench-corrections,33825
+Cortex-A53,r30357,asmjs-ubench-fannkuch,32086
+Cortex-A53,r30357,asmjs-ubench-fasta,87508
+Cortex-A53,r30357,asmjs-ubench-life,49979
+Cortex-A53,r30357,asmjs-ubench-memops,85402
+Cortex-A53,r30357,asmjs-ubench-primes,37467
+Cortex-A53,r30357,asmjs-ubench-skinning,173032
+Cortex-A53,r30357,asmjs-ubench-copy,32411
+Cortex-A53,r30357,asmjs-ubench-corrections,33826
+Cortex-A53,r30357,asmjs-ubench-fannkuch,32084
+Cortex-A53,r30357,asmjs-ubench-fasta,87497
+Cortex-A53,r30357,asmjs-ubench-life,50003
+Cortex-A53,r30357,asmjs-ubench-memops,85365
+Cortex-A53,r30357,asmjs-ubench-primes,37467
+Cortex-A53,r30357,asmjs-ubench-skinning,172717
+Cortex-A53,r30357,asmjs-ubench-copy,32409
+Cortex-A53,r30357,asmjs-ubench-corrections,33826
+Cortex-A53,r30357,asmjs-ubench-fannkuch,32086
+Cortex-A53,r30357,asmjs-ubench-fasta,87502
+Cortex-A53,r30357,asmjs-ubench-life,50013
+Cortex-A53,r30357,asmjs-ubench-memops,85393
+Cortex-A53,r30357,asmjs-ubench-primes,37466
+Cortex-A53,r30357,asmjs-ubench-skinning,172965
+Cortex-A53,r30357,asmjs-ubench-copy,32410
+Cortex-A53,r30357,asmjs-ubench-corrections,33825
+Cortex-A53,r30357,asmjs-ubench-fannkuch,32087
+Cortex-A53,r30357,asmjs-ubench-fasta,87504
+Cortex-A53,r30357,asmjs-ubench-life,49972
+Cortex-A53,r30357,asmjs-ubench-memops,85340
+Cortex-A53,r30357,asmjs-ubench-primes,37467
+Cortex-A53,r30357,asmjs-ubench-skinning,172931
+Cortex-A53,r30357,asmjs-ubench-copy,32409
+Cortex-A53,r30357,asmjs-ubench-corrections,33828
+Cortex-A53,r30357,asmjs-ubench-fannkuch,32085
+Cortex-A53,r30357,asmjs-ubench-fasta,87502
+Cortex-A53,r30357,asmjs-ubench-life,50000
+Cortex-A53,r30357,asmjs-ubench-memops,85427
+Cortex-A53,r30357,asmjs-ubench-primes,37467
+Cortex-A53,r30357,asmjs-ubench-skinning,172497
+Cortex-A53,r30357,jetstream-asmjs-bigfib,4918
+Cortex-A53,r30357,jetstream-asmjs-container,28536
+Cortex-A53,r30357,jetstream-asmjs-dry,6022
+Cortex-A53,r30357,jetstream-asmjs-float-mm,9846
+Cortex-A53,r30357,jetstream-asmjs-gcc-loops,46982
+Cortex-A53,r30357,jetstream-asmjs-n-body,12744
+Cortex-A53,r30357,jetstream-asmjs-quicksort,2495
+Cortex-A53,r30357,jetstream-asmjs-towers,3731
+Cortex-A53,r30357,jetstream-asmjs-bigfib,4758
+Cortex-A53,r30357,jetstream-asmjs-container,28603
+Cortex-A53,r30357,jetstream-asmjs-dry,6201
+Cortex-A53,r30357,jetstream-asmjs-float-mm,9667
+Cortex-A53,r30357,jetstream-asmjs-gcc-loops,46763
+Cortex-A53,r30357,jetstream-asmjs-n-body,12742
+Cortex-A53,r30357,jetstream-asmjs-quicksort,2674
+Cortex-A53,r30357,jetstream-asmjs-towers,3910
+Cortex-A53,r30357,jetstream-asmjs-bigfib,4911
+Cortex-A53,r30357,jetstream-asmjs-container,28380
+Cortex-A53,r30357,jetstream-asmjs-dry,6021
+Cortex-A53,r30357,jetstream-asmjs-float-mm,9847
+Cortex-A53,r30357,jetstream-asmjs-gcc-loops,47265
+Cortex-A53,r30357,jetstream-asmjs-n-body,12921
+Cortex-A53,r30357,jetstream-asmjs-quicksort,2968
+Cortex-A53,r30357,jetstream-asmjs-towers,3731
+Cortex-A53,r30357,jetstream-asmjs-bigfib,4736
+Cortex-A53,r30357,jetstream-asmjs-container,28687
+Cortex-A53,r30357,jetstream-asmjs-dry,6200
+Cortex-A53,r30357,jetstream-asmjs-float-mm,9668
+Cortex-A53,r30357,jetstream-asmjs-gcc-loops,46735
+Cortex-A53,r30357,jetstream-asmjs-n-body,12743
+Cortex-A53,r30357,jetstream-asmjs-quicksort,2674
+Cortex-A53,r30357,jetstream-asmjs-towers,3910
+Cortex-A53,r30357,jetstream-asmjs-bigfib,4919
+Cortex-A53,r30357,jetstream-asmjs-container,28500
+Cortex-A53,r30357,jetstream-asmjs-dry,6021
+Cortex-A53,r30357,jetstream-asmjs-float-mm,9848
+Cortex-A53,r30357,jetstream-asmjs-gcc-loops,46945
+Cortex-A53,r30357,jetstream-asmjs-n-body,12743
+Cortex-A53,r30357,jetstream-asmjs-quicksort,2495
+Cortex-A53,r30357,jetstream-asmjs-towers,3731
+Cortex-A57,r30357,asmjs-apps-box2d-loadtime,2985
+Cortex-A57,r30357,asmjs-apps-box2d-throughput,10686
+Cortex-A57,r30357,asmjs-apps-bullet-loadtime,7246
+Cortex-A57,r30357,asmjs-apps-bullet-throughput,16121
+Cortex-A57,r30357,asmjs-apps-lua_binarytrees-loadtime,2210
+Cortex-A57,r30357,asmjs-apps-lua_binarytrees-throughput,9784
+Cortex-A57,r30357,asmjs-apps-zlib-loadtime,2069
+Cortex-A57,r30357,asmjs-apps-zlib-throughput,8236
+Cortex-A57,r30357,asmjs-apps-box2d-loadtime,3233
+Cortex-A57,r30357,asmjs-apps-box2d-throughput,10632
+Cortex-A57,r30357,asmjs-apps-bullet-loadtime,7247
+Cortex-A57,r30357,asmjs-apps-bullet-throughput,16459
+Cortex-A57,r30357,asmjs-apps-lua_binarytrees-loadtime,1951
+Cortex-A57,r30357,asmjs-apps-lua_binarytrees-throughput,9972
+Cortex-A57,r30357,asmjs-apps-zlib-loadtime,2070
+Cortex-A57,r30357,asmjs-apps-zlib-throughput,8245
+Cortex-A57,r30357,asmjs-apps-box2d-loadtime,3270
+Cortex-A57,r30357,asmjs-apps-box2d-throughput,10704
+Cortex-A57,r30357,asmjs-apps-bullet-loadtime,7246
+Cortex-A57,r30357,asmjs-apps-bullet-throughput,16207
+Cortex-A57,r30357,asmjs-apps-lua_binarytrees-loadtime,1937
+Cortex-A57,r30357,asmjs-apps-lua_binarytrees-throughput,9858
+Cortex-A57,r30357,asmjs-apps-zlib-loadtime,2072
+Cortex-A57,r30357,asmjs-apps-zlib-throughput,8244
+Cortex-A57,r30357,asmjs-apps-box2d-loadtime,3224
+Cortex-A57,r30357,asmjs-apps-box2d-throughput,10693
+Cortex-A57,r30357,asmjs-apps-bullet-loadtime,7245
+Cortex-A57,r30357,asmjs-apps-bullet-throughput,16385
+Cortex-A57,r30357,asmjs-apps-lua_binarytrees-loadtime,1948
+Cortex-A57,r30357,asmjs-apps-lua_binarytrees-throughput,9729
+Cortex-A57,r30357,asmjs-apps-zlib-loadtime,2065
+Cortex-A57,r30357,asmjs-apps-zlib-throughput,8240
+Cortex-A57,r30357,asmjs-apps-box2d-loadtime,3248
+Cortex-A57,r30357,asmjs-apps-box2d-throughput,10681
+Cortex-A57,r30357,asmjs-apps-bullet-loadtime,7242
+Cortex-A57,r30357,asmjs-apps-bullet-throughput,16632
+Cortex-A57,r30357,asmjs-apps-lua_binarytrees-loadtime,1937
+Cortex-A57,r30357,asmjs-apps-lua_binarytrees-throughput,10120
+Cortex-A57,r30357,asmjs-apps-zlib-loadtime,2070
+Cortex-A57,r30357,asmjs-apps-zlib-throughput,8249
+Cortex-A57,r30357,asmjs-ubench-copy,13049
+Cortex-A57,r30357,asmjs-ubench-corrections,16488
+Cortex-A57,r30357,asmjs-ubench-fannkuch,16541
+Cortex-A57,r30357,asmjs-ubench-fasta,39276
+Cortex-A57,r30357,asmjs-ubench-life,18789
+Cortex-A57,r30357,asmjs-ubench-memops,31037
+Cortex-A57,r30357,asmjs-ubench-primes,17608
+Cortex-A57,r30357,asmjs-ubench-skinning,53285
+Cortex-A57,r30357,asmjs-ubench-copy,12775
+Cortex-A57,r30357,asmjs-ubench-corrections,16488
+Cortex-A57,r30357,asmjs-ubench-fannkuch,15527
+Cortex-A57,r30357,asmjs-ubench-fasta,39285
+Cortex-A57,r30357,asmjs-ubench-life,18802
+Cortex-A57,r30357,asmjs-ubench-memops,31036
+Cortex-A57,r30357,asmjs-ubench-primes,17609
+Cortex-A57,r30357,asmjs-ubench-skinning,49488
+Cortex-A57,r30357,asmjs-ubench-copy,12773
+Cortex-A57,r30357,asmjs-ubench-corrections,16486
+Cortex-A57,r30357,asmjs-ubench-fannkuch,16620
+Cortex-A57,r30357,asmjs-ubench-fasta,39280
+Cortex-A57,r30357,asmjs-ubench-life,18797
+Cortex-A57,r30357,asmjs-ubench-memops,31037
+Cortex-A57,r30357,asmjs-ubench-primes,17609
+Cortex-A57,r30357,asmjs-ubench-skinning,49487
+Cortex-A57,r30357,asmjs-ubench-copy,12775
+Cortex-A57,r30357,asmjs-ubench-corrections,16488
+Cortex-A57,r30357,asmjs-ubench-fannkuch,16712
+Cortex-A57,r30357,asmjs-ubench-fasta,39006
+Cortex-A57,r30357,asmjs-ubench-life,18802
+Cortex-A57,r30357,asmjs-ubench-memops,31033
+Cortex-A57,r30357,asmjs-ubench-primes,17611
+Cortex-A57,r30357,asmjs-ubench-skinning,52828
+Cortex-A57,r30357,asmjs-ubench-copy,13049
+Cortex-A57,r30357,asmjs-ubench-corrections,16489
+Cortex-A57,r30357,asmjs-ubench-fannkuch,16490
+Cortex-A57,r30357,asmjs-ubench-fasta,39282
+Cortex-A57,r30357,asmjs-ubench-life,18792
+Cortex-A57,r30357,asmjs-ubench-memops,31043
+Cortex-A57,r30357,asmjs-ubench-primes,17609
+Cortex-A57,r30357,asmjs-ubench-skinning,50234
+Cortex-A57,r30357,jetstream-asmjs-bigfib,2231
+Cortex-A57,r30357,jetstream-asmjs-container,15729
+Cortex-A57,r30357,jetstream-asmjs-dry,4056
+Cortex-A57,r30357,jetstream-asmjs-float-mm,2861
+Cortex-A57,r30357,jetstream-asmjs-gcc-loops,17590
+Cortex-A57,r30357,jetstream-asmjs-n-body,5561
+Cortex-A57,r30357,jetstream-asmjs-quicksort,1826
+Cortex-A57,r30357,jetstream-asmjs-towers,1503
+Cortex-A57,r30357,jetstream-asmjs-bigfib,2234
+Cortex-A57,r30357,jetstream-asmjs-container,15799
+Cortex-A57,r30357,jetstream-asmjs-dry,4056
+Cortex-A57,r30357,jetstream-asmjs-float-mm,2590
+Cortex-A57,r30357,jetstream-asmjs-gcc-loops,17809
+Cortex-A57,r30357,jetstream-asmjs-n-body,5836
+Cortex-A57,r30357,jetstream-asmjs-quicksort,2001
+Cortex-A57,r30357,jetstream-asmjs-towers,1507
+Cortex-A57,r30357,jetstream-asmjs-bigfib,2225
+Cortex-A57,r30357,jetstream-asmjs-container,15694
+Cortex-A57,r30357,jetstream-asmjs-dry,4056
+Cortex-A57,r30357,jetstream-asmjs-float-mm,2860
+Cortex-A57,r30357,jetstream-asmjs-gcc-loops,17547
+Cortex-A57,r30357,jetstream-asmjs-n-body,5561
+Cortex-A57,r30357,jetstream-asmjs-quicksort,1827
+Cortex-A57,r30357,jetstream-asmjs-towers,1521
+Cortex-A57,r30357,jetstream-asmjs-bigfib,2245
+Cortex-A57,r30357,jetstream-asmjs-container,15702
+Cortex-A57,r30357,jetstream-asmjs-dry,4055
+Cortex-A57,r30357,jetstream-asmjs-float-mm,2604
+Cortex-A57,r30357,jetstream-asmjs-gcc-loops,18231
+Cortex-A57,r30357,jetstream-asmjs-n-body,5561
+Cortex-A57,r30357,jetstream-asmjs-quicksort,2006
+Cortex-A57,r30357,jetstream-asmjs-towers,1504
+Cortex-A57,r30357,jetstream-asmjs-bigfib,2483
+Cortex-A57,r30357,jetstream-asmjs-container,15751
+Cortex-A57,r30357,jetstream-asmjs-dry,4055
+Cortex-A57,r30357,jetstream-asmjs-float-mm,2615
+Cortex-A57,r30357,jetstream-asmjs-gcc-loops,17786
+Cortex-A57,r30357,jetstream-asmjs-n-body,5836
+Cortex-A57,r30357,jetstream-asmjs-quicksort,2101
+Cortex-A57,r30357,jetstream-asmjs-towers,1503
+Cortex-A53,r31243,asmjs-apps-box2d-loadtime,6061
+Cortex-A53,r31243,asmjs-apps-box2d-throughput,23750
+Cortex-A53,r31243,asmjs-apps-bullet-loadtime,17020
+Cortex-A53,r31243,asmjs-apps-bullet-throughput,37155
+Cortex-A53,r31243,asmjs-apps-lua_binarytrees-loadtime,4530
+Cortex-A53,r31243,asmjs-apps-lua_binarytrees-throughput,27749
+Cortex-A53,r31243,asmjs-apps-zlib-loadtime,3575
+Cortex-A53,r31243,asmjs-apps-zlib-throughput,17405
+Cortex-A53,r31243,asmjs-apps-box2d-loadtime,5772
+Cortex-A53,r31243,asmjs-apps-box2d-throughput,23837
+Cortex-A53,r31243,asmjs-apps-bullet-loadtime,17080
+Cortex-A53,r31243,asmjs-apps-bullet-throughput,37001
+Cortex-A53,r31243,asmjs-apps-lua_binarytrees-loadtime,4229
+Cortex-A53,r31243,asmjs-apps-lua_binarytrees-throughput,27001
+Cortex-A53,r31243,asmjs-apps-zlib-loadtime,3570
+Cortex-A53,r31243,asmjs-apps-zlib-throughput,17415
+Cortex-A53,r31243,asmjs-apps-box2d-loadtime,5782
+Cortex-A53,r31243,asmjs-apps-box2d-throughput,23982
+Cortex-A53,r31243,asmjs-apps-bullet-loadtime,17078
+Cortex-A53,r31243,asmjs-apps-bullet-throughput,37019
+Cortex-A53,r31243,asmjs-apps-lua_binarytrees-loadtime,4254
+Cortex-A53,r31243,asmjs-apps-lua_binarytrees-throughput,26856
+Cortex-A53,r31243,asmjs-apps-zlib-loadtime,3571
+Cortex-A53,r31243,asmjs-apps-zlib-throughput,17411
+Cortex-A53,r31243,asmjs-apps-box2d-loadtime,5806
+Cortex-A53,r31243,asmjs-apps-box2d-throughput,23923
+Cortex-A53,r31243,asmjs-apps-bullet-loadtime,17076
+Cortex-A53,r31243,asmjs-apps-bullet-throughput,37043
+Cortex-A53,r31243,asmjs-apps-lua_binarytrees-loadtime,4105
+Cortex-A53,r31243,asmjs-apps-lua_binarytrees-throughput,26631
+Cortex-A53,r31243,asmjs-apps-zlib-loadtime,3574
+Cortex-A53,r31243,asmjs-apps-zlib-throughput,17414
+Cortex-A53,r31243,asmjs-apps-box2d-loadtime,5610
+Cortex-A53,r31243,asmjs-apps-box2d-throughput,23846
+Cortex-A53,r31243,asmjs-apps-bullet-loadtime,17079
+Cortex-A53,r31243,asmjs-apps-bullet-throughput,37082
+Cortex-A53,r31243,asmjs-apps-lua_binarytrees-loadtime,4062
+Cortex-A53,r31243,asmjs-apps-lua_binarytrees-throughput,27500
+Cortex-A53,r31243,asmjs-apps-zlib-loadtime,3572
+Cortex-A53,r31243,asmjs-apps-zlib-throughput,17493
+Cortex-A53,r31243,asmjs-ubench-copy,32579
+Cortex-A53,r31243,asmjs-ubench-corrections,33825
+Cortex-A53,r31243,asmjs-ubench-fannkuch,32073
+Cortex-A53,r31243,asmjs-ubench-fasta,87002
+Cortex-A53,r31243,asmjs-ubench-life,50026
+Cortex-A53,r31243,asmjs-ubench-memops,85254
+Cortex-A53,r31243,asmjs-ubench-primes,37461
+Cortex-A53,r31243,asmjs-ubench-skinning,172939
+Cortex-A53,r31243,asmjs-ubench-copy,32586
+Cortex-A53,r31243,asmjs-ubench-corrections,33826
+Cortex-A53,r31243,asmjs-ubench-fannkuch,32075
+Cortex-A53,r31243,asmjs-ubench-fasta,86836
+Cortex-A53,r31243,asmjs-ubench-life,50028
+Cortex-A53,r31243,asmjs-ubench-memops,85686
+Cortex-A53,r31243,asmjs-ubench-primes,37462
+Cortex-A53,r31243,asmjs-ubench-skinning,172805
+Cortex-A53,r31243,asmjs-ubench-copy,32582
+Cortex-A53,r31243,asmjs-ubench-corrections,33827
+Cortex-A53,r31243,asmjs-ubench-fannkuch,32069
+Cortex-A53,r31243,asmjs-ubench-fasta,86832
+Cortex-A53,r31243,asmjs-ubench-life,50016
+Cortex-A53,r31243,asmjs-ubench-memops,85325
+Cortex-A53,r31243,asmjs-ubench-primes,37464
+Cortex-A53,r31243,asmjs-ubench-skinning,172972
+Cortex-A53,r31243,asmjs-ubench-copy,32404
+Cortex-A53,r31243,asmjs-ubench-corrections,33829
+Cortex-A53,r31243,asmjs-ubench-fannkuch,32067
+Cortex-A53,r31243,asmjs-ubench-fasta,86962
+Cortex-A53,r31243,asmjs-ubench-life,50000
+Cortex-A53,r31243,asmjs-ubench-memops,85243
+Cortex-A53,r31243,asmjs-ubench-primes,37461
+Cortex-A53,r31243,asmjs-ubench-skinning,172932
+Cortex-A53,r31243,asmjs-ubench-copy,32544
+Cortex-A53,r31243,asmjs-ubench-corrections,33826
+Cortex-A53,r31243,asmjs-ubench-fannkuch,32078
+Cortex-A53,r31243,asmjs-ubench-fasta,86833
+Cortex-A53,r31243,asmjs-ubench-life,49999
+Cortex-A53,r31243,asmjs-ubench-memops,85374
+Cortex-A53,r31243,asmjs-ubench-primes,37465
+Cortex-A53,r31243,asmjs-ubench-skinning,173024
+Cortex-A53,r31243,jetstream-asmjs-bigfib,4845
+Cortex-A53,r31243,jetstream-asmjs-container,28121
+Cortex-A53,r31243,jetstream-asmjs-dry,6198
+Cortex-A53,r31243,jetstream-asmjs-float-mm,9666
+Cortex-A53,r31243,jetstream-asmjs-gcc-loops,46644
+Cortex-A53,r31243,jetstream-asmjs-n-body,12729
+Cortex-A53,r31243,jetstream-asmjs-quicksort,2494
+Cortex-A53,r31243,jetstream-asmjs-towers,3730
+Cortex-A53,r31243,jetstream-asmjs-bigfib,4684
+Cortex-A53,r31243,jetstream-asmjs-container,28244
+Cortex-A53,r31243,jetstream-asmjs-dry,6019
+Cortex-A53,r31243,jetstream-asmjs-float-mm,9845
+Cortex-A53,r31243,jetstream-asmjs-gcc-loops,46805
+Cortex-A53,r31243,jetstream-asmjs-n-body,12872
+Cortex-A53,r31243,jetstream-asmjs-quicksort,2494
+Cortex-A53,r31243,jetstream-asmjs-towers,3730
+Cortex-A53,r31243,jetstream-asmjs-bigfib,4644
+Cortex-A53,r31243,jetstream-asmjs-container,28268
+Cortex-A53,r31243,jetstream-asmjs-dry,6020
+Cortex-A53,r31243,jetstream-asmjs-float-mm,9666
+Cortex-A53,r31243,jetstream-asmjs-gcc-loops,46840
+Cortex-A53,r31243,jetstream-asmjs-n-body,13199
+Cortex-A53,r31243,jetstream-asmjs-quicksort,2494
+Cortex-A53,r31243,jetstream-asmjs-towers,3730
+Cortex-A53,r31243,jetstream-asmjs-bigfib,4688
+Cortex-A53,r31243,jetstream-asmjs-container,28277
+Cortex-A53,r31243,jetstream-asmjs-dry,6020
+Cortex-A53,r31243,jetstream-asmjs-float-mm,9666
+Cortex-A53,r31243,jetstream-asmjs-gcc-loops,46825
+Cortex-A53,r31243,jetstream-asmjs-n-body,12904
+Cortex-A53,r31243,jetstream-asmjs-quicksort,2494
+Cortex-A53,r31243,jetstream-asmjs-towers,3871
+Cortex-A53,r31243,jetstream-asmjs-bigfib,4684
+Cortex-A53,r31243,jetstream-asmjs-container,28228
+Cortex-A53,r31243,jetstream-asmjs-dry,6020
+Cortex-A53,r31243,jetstream-asmjs-float-mm,9845
+Cortex-A53,r31243,jetstream-asmjs-gcc-loops,47103
+Cortex-A53,r31243,jetstream-asmjs-n-body,12730
+Cortex-A53,r31243,jetstream-asmjs-quicksort,2494
+Cortex-A53,r31243,jetstream-asmjs-towers,3730
+Cortex-A57,r31243,asmjs-apps-box2d-loadtime,2780
+Cortex-A57,r31243,asmjs-apps-box2d-throughput,10408
+Cortex-A57,r31243,asmjs-apps-bullet-loadtime,7130
+Cortex-A57,r31243,asmjs-apps-bullet-throughput,16065
+Cortex-A57,r31243,asmjs-apps-lua_binarytrees-loadtime,1886
+Cortex-A57,r31243,asmjs-apps-lua_binarytrees-throughput,9862
+Cortex-A57,r31243,asmjs-apps-zlib-loadtime,1773
+Cortex-A57,r31243,asmjs-apps-zlib-throughput,8000
+Cortex-A57,r31243,asmjs-apps-box2d-loadtime,2769
+Cortex-A57,r31243,asmjs-apps-box2d-throughput,10389
+Cortex-A57,r31243,asmjs-apps-bullet-loadtime,7126
+Cortex-A57,r31243,asmjs-apps-bullet-throughput,16053
+Cortex-A57,r31243,asmjs-apps-lua_binarytrees-loadtime,1902
+Cortex-A57,r31243,asmjs-apps-lua_binarytrees-throughput,9640
+Cortex-A57,r31243,asmjs-apps-zlib-loadtime,1777
+Cortex-A57,r31243,asmjs-apps-zlib-throughput,8000
+Cortex-A57,r31243,asmjs-apps-box2d-loadtime,2773
+Cortex-A57,r31243,asmjs-apps-box2d-throughput,10389
+Cortex-A57,r31243,asmjs-apps-bullet-loadtime,7131
+Cortex-A57,r31243,asmjs-apps-bullet-throughput,16003
+Cortex-A57,r31243,asmjs-apps-lua_binarytrees-loadtime,2148
+Cortex-A57,r31243,asmjs-apps-lua_binarytrees-throughput,9887
+Cortex-A57,r31243,asmjs-apps-zlib-loadtime,1774
+Cortex-A57,r31243,asmjs-apps-zlib-throughput,7996
+Cortex-A57,r31243,asmjs-apps-box2d-loadtime,2769
+Cortex-A57,r31243,asmjs-apps-box2d-throughput,10431
+Cortex-A57,r31243,asmjs-apps-bullet-loadtime,7129
+Cortex-A57,r31243,asmjs-apps-bullet-throughput,16094
+Cortex-A57,r31243,asmjs-apps-lua_binarytrees-loadtime,1901
+Cortex-A57,r31243,asmjs-apps-lua_binarytrees-throughput,9635
+Cortex-A57,r31243,asmjs-apps-zlib-loadtime,1777
+Cortex-A57,r31243,asmjs-apps-zlib-throughput,8005
+Cortex-A57,r31243,asmjs-apps-box2d-loadtime,2768
+Cortex-A57,r31243,asmjs-apps-box2d-throughput,10369
+Cortex-A57,r31243,asmjs-apps-bullet-loadtime,7128
+Cortex-A57,r31243,asmjs-apps-bullet-throughput,16237
+Cortex-A57,r31243,asmjs-apps-lua_binarytrees-loadtime,1899
+Cortex-A57,r31243,asmjs-apps-lua_binarytrees-throughput,9604
+Cortex-A57,r31243,asmjs-apps-zlib-loadtime,1775
+Cortex-A57,r31243,asmjs-apps-zlib-throughput,8005
+Cortex-A57,r31243,asmjs-ubench-copy,12588
+Cortex-A57,r31243,asmjs-ubench-corrections,16487
+Cortex-A57,r31243,asmjs-ubench-fannkuch,16421
+Cortex-A57,r31243,asmjs-ubench-fasta,39285
+Cortex-A57,r31243,asmjs-ubench-life,18029
+Cortex-A57,r31243,asmjs-ubench-memops,31307
+Cortex-A57,r31243,asmjs-ubench-primes,17607
+Cortex-A57,r31243,asmjs-ubench-skinning,50368
+Cortex-A57,r31243,asmjs-ubench-copy,12863
+Cortex-A57,r31243,asmjs-ubench-corrections,16485
+Cortex-A57,r31243,asmjs-ubench-fannkuch,16404
+Cortex-A57,r31243,asmjs-ubench-fasta,39284
+Cortex-A57,r31243,asmjs-ubench-life,18028
+Cortex-A57,r31243,asmjs-ubench-memops,31034
+Cortex-A57,r31243,asmjs-ubench-primes,17605
+Cortex-A57,r31243,asmjs-ubench-skinning,51985
+Cortex-A57,r31243,asmjs-ubench-copy,12588
+Cortex-A57,r31243,asmjs-ubench-corrections,16487
+Cortex-A57,r31243,asmjs-ubench-fannkuch,16469
+Cortex-A57,r31243,asmjs-ubench-fasta,39609
+Cortex-A57,r31243,asmjs-ubench-life,18024
+Cortex-A57,r31243,asmjs-ubench-memops,31033
+Cortex-A57,r31243,asmjs-ubench-primes,17606
+Cortex-A57,r31243,asmjs-ubench-skinning,53321
+Cortex-A57,r31243,asmjs-ubench-copy,12865
+Cortex-A57,r31243,asmjs-ubench-corrections,16486
+Cortex-A57,r31243,asmjs-ubench-fannkuch,15430
+Cortex-A57,r31243,asmjs-ubench-fasta,39274
+Cortex-A57,r31243,asmjs-ubench-life,18083
+Cortex-A57,r31243,asmjs-ubench-memops,31037
+Cortex-A57,r31243,asmjs-ubench-primes,17608
+Cortex-A57,r31243,asmjs-ubench-skinning,52775
+Cortex-A57,r31243,asmjs-ubench-copy,12589
+Cortex-A57,r31243,asmjs-ubench-corrections,16487
+Cortex-A57,r31243,asmjs-ubench-fannkuch,16303
+Cortex-A57,r31243,asmjs-ubench-fasta,39560
+Cortex-A57,r31243,asmjs-ubench-life,18024
+Cortex-A57,r31243,asmjs-ubench-memops,31052
+Cortex-A57,r31243,asmjs-ubench-primes,17607
+Cortex-A57,r31243,asmjs-ubench-skinning,49538
+Cortex-A57,r31243,jetstream-asmjs-bigfib,2139
+Cortex-A57,r31243,jetstream-asmjs-container,15447
+Cortex-A57,r31243,jetstream-asmjs-dry,4055
+Cortex-A57,r31243,jetstream-asmjs-float-mm,2585
+Cortex-A57,r31243,jetstream-asmjs-gcc-loops,17410
+Cortex-A57,r31243,jetstream-asmjs-n-body,5547
+Cortex-A57,r31243,jetstream-asmjs-quicksort,1827
+Cortex-A57,r31243,jetstream-asmjs-towers,1500
+Cortex-A57,r31243,jetstream-asmjs-bigfib,2188
+Cortex-A57,r31243,jetstream-asmjs-container,15694
+Cortex-A57,r31243,jetstream-asmjs-dry,4141
+Cortex-A57,r31243,jetstream-asmjs-float-mm,2584
+Cortex-A57,r31243,jetstream-asmjs-gcc-loops,17601
+Cortex-A57,r31243,jetstream-asmjs-n-body,5821
+Cortex-A57,r31243,jetstream-asmjs-quicksort,2102
+Cortex-A57,r31243,jetstream-asmjs-towers,1504
+Cortex-A57,r31243,jetstream-asmjs-bigfib,2391
+Cortex-A57,r31243,jetstream-asmjs-container,15492
+Cortex-A57,r31243,jetstream-asmjs-dry,4055
+Cortex-A57,r31243,jetstream-asmjs-float-mm,2584
+Cortex-A57,r31243,jetstream-asmjs-gcc-loops,17403
+Cortex-A57,r31243,jetstream-asmjs-n-body,5821
+Cortex-A57,r31243,jetstream-asmjs-quicksort,2101
+Cortex-A57,r31243,jetstream-asmjs-towers,1507
+Cortex-A57,r31243,jetstream-asmjs-bigfib,2383
+Cortex-A57,r31243,jetstream-asmjs-container,15695
+Cortex-A57,r31243,jetstream-asmjs-dry,4238
+Cortex-A57,r31243,jetstream-asmjs-float-mm,2584
+Cortex-A57,r31243,jetstream-asmjs-gcc-loops,17295
+Cortex-A57,r31243,jetstream-asmjs-n-body,5546
+Cortex-A57,r31243,jetstream-asmjs-quicksort,1827
+Cortex-A57,r31243,jetstream-asmjs-towers,1500
+Cortex-A57,r31243,jetstream-asmjs-bigfib,2149
+Cortex-A57,r31243,jetstream-asmjs-container,15453
+Cortex-A57,r31243,jetstream-asmjs-dry,4059
+Cortex-A57,r31243,jetstream-asmjs-float-mm,2594
+Cortex-A57,r31243,jetstream-asmjs-gcc-loops,17445
+Cortex-A57,r31243,jetstream-asmjs-n-body,5821
+Cortex-A57,r31243,jetstream-asmjs-quicksort,2102
+Cortex-A57,r31243,jetstream-asmjs-towers,1504
+Cortex-A53,r31430,asmjs-apps-box2d-loadtime,5642
+Cortex-A53,r31430,asmjs-apps-box2d-throughput,23614
+Cortex-A53,r31430,asmjs-apps-bullet-loadtime,17207
+Cortex-A53,r31430,asmjs-apps-bullet-throughput,37500
+Cortex-A53,r31430,asmjs-apps-lua_binarytrees-loadtime,4075
+Cortex-A53,r31430,asmjs-apps-lua_binarytrees-throughput,26704
+Cortex-A53,r31430,asmjs-apps-zlib-loadtime,3602
+Cortex-A53,r31430,asmjs-apps-zlib-throughput,17441
+Cortex-A53,r31430,asmjs-apps-box2d-loadtime,6094
+Cortex-A53,r31430,asmjs-apps-box2d-throughput,23676
+Cortex-A53,r31430,asmjs-apps-bullet-loadtime,17217
+Cortex-A53,r31430,asmjs-apps-bullet-throughput,37480
+Cortex-A53,r31430,asmjs-apps-lua_binarytrees-loadtime,4109
+Cortex-A53,r31430,asmjs-apps-lua_binarytrees-throughput,26804
+Cortex-A53,r31430,asmjs-apps-zlib-loadtime,3600
+Cortex-A53,r31430,asmjs-apps-zlib-throughput,17522
+Cortex-A53,r31430,asmjs-apps-box2d-loadtime,5657
+Cortex-A53,r31430,asmjs-apps-box2d-throughput,23656
+Cortex-A53,r31430,asmjs-apps-bullet-loadtime,17207
+Cortex-A53,r31430,asmjs-apps-bullet-throughput,37488
+Cortex-A53,r31430,asmjs-apps-lua_binarytrees-loadtime,4077
+Cortex-A53,r31430,asmjs-apps-lua_binarytrees-throughput,26421
+Cortex-A53,r31430,asmjs-apps-zlib-loadtime,3601
+Cortex-A53,r31430,asmjs-apps-zlib-throughput,17443
+Cortex-A53,r31430,asmjs-apps-box2d-loadtime,5666
+Cortex-A53,r31430,asmjs-apps-box2d-throughput,23897
+Cortex-A53,r31430,asmjs-apps-bullet-loadtime,17202
+Cortex-A53,r31430,asmjs-apps-bullet-throughput,37672
+Cortex-A53,r31430,asmjs-apps-lua_binarytrees-loadtime,4095
+Cortex-A53,r31430,asmjs-apps-lua_binarytrees-throughput,26711
+Cortex-A53,r31430,asmjs-apps-zlib-loadtime,3598
+Cortex-A53,r31430,asmjs-apps-zlib-throughput,17454
+Cortex-A53,r31430,asmjs-apps-box2d-loadtime,5823
+Cortex-A53,r31430,asmjs-apps-box2d-throughput,23790
+Cortex-A53,r31430,asmjs-apps-bullet-loadtime,17217
+Cortex-A53,r31430,asmjs-apps-bullet-throughput,37504
+Cortex-A53,r31430,asmjs-apps-lua_binarytrees-loadtime,4099
+Cortex-A53,r31430,asmjs-apps-lua_binarytrees-throughput,26818
+Cortex-A53,r31430,asmjs-apps-zlib-loadtime,3599
+Cortex-A53,r31430,asmjs-apps-zlib-throughput,17446
+Cortex-A53,r31430,asmjs-ubench-copy,33138
+Cortex-A53,r31430,asmjs-ubench-corrections,33829
+Cortex-A53,r31430,asmjs-ubench-fannkuch,32075
+Cortex-A53,r31430,asmjs-ubench-fasta,86920
+Cortex-A53,r31430,asmjs-ubench-life,50170
+Cortex-A53,r31430,asmjs-ubench-memops,85078
+Cortex-A53,r31430,asmjs-ubench-primes,37463
+Cortex-A53,r31430,asmjs-ubench-skinning,172911
+Cortex-A53,r31430,asmjs-ubench-copy,33138
+Cortex-A53,r31430,asmjs-ubench-corrections,33828
+Cortex-A53,r31430,asmjs-ubench-fannkuch,32078
+Cortex-A53,r31430,asmjs-ubench-fasta,86918
+Cortex-A53,r31430,asmjs-ubench-life,50202
+Cortex-A53,r31430,asmjs-ubench-memops,85085
+Cortex-A53,r31430,asmjs-ubench-primes,37464
+Cortex-A53,r31430,asmjs-ubench-skinning,172702
+Cortex-A53,r31430,asmjs-ubench-copy,33139
+Cortex-A53,r31430,asmjs-ubench-corrections,33828
+Cortex-A53,r31430,asmjs-ubench-fannkuch,32075
+Cortex-A53,r31430,asmjs-ubench-fasta,86919
+Cortex-A53,r31430,asmjs-ubench-life,50195
+Cortex-A53,r31430,asmjs-ubench-memops,86789
+Cortex-A53,r31430,asmjs-ubench-primes,37463
+Cortex-A53,r31430,asmjs-ubench-skinning,172308
+Cortex-A53,r31430,asmjs-ubench-copy,33141
+Cortex-A53,r31430,asmjs-ubench-corrections,33826
+Cortex-A53,r31430,asmjs-ubench-fannkuch,32080
+Cortex-A53,r31430,asmjs-ubench-fasta,86922
+Cortex-A53,r31430,asmjs-ubench-life,50205
+Cortex-A53,r31430,asmjs-ubench-memops,85330
+Cortex-A53,r31430,asmjs-ubench-primes,37461
+Cortex-A53,r31430,asmjs-ubench-skinning,172448
+Cortex-A53,r31430,asmjs-ubench-copy,33141
+Cortex-A53,r31430,asmjs-ubench-corrections,33825
+Cortex-A53,r31430,asmjs-ubench-fannkuch,32067
+Cortex-A53,r31430,asmjs-ubench-fasta,86920
+Cortex-A53,r31430,asmjs-ubench-life,50182
+Cortex-A53,r31430,asmjs-ubench-memops,85179
+Cortex-A53,r31430,asmjs-ubench-primes,37461
+Cortex-A53,r31430,asmjs-ubench-skinning,172810
+Cortex-A53,r31430,jetstream-asmjs-bigfib,4692
+Cortex-A53,r31430,jetstream-asmjs-container,28367
+Cortex-A53,r31430,jetstream-asmjs-dry,6490
+Cortex-A53,r31430,jetstream-asmjs-float-mm,9843
+Cortex-A53,r31430,jetstream-asmjs-gcc-loops,46919
+Cortex-A53,r31430,jetstream-asmjs-n-body,12706
+Cortex-A53,r31430,jetstream-asmjs-quicksort,2493
+Cortex-A53,r31430,jetstream-asmjs-towers,3729
+Cortex-A53,r31430,jetstream-asmjs-bigfib,4694
+Cortex-A53,r31430,jetstream-asmjs-container,28381
+Cortex-A53,r31430,jetstream-asmjs-dry,6020
+Cortex-A53,r31430,jetstream-asmjs-float-mm,9849
+Cortex-A53,r31430,jetstream-asmjs-gcc-loops,46901
+Cortex-A53,r31430,jetstream-asmjs-n-body,12705
+Cortex-A53,r31430,jetstream-asmjs-quicksort,2493
+Cortex-A53,r31430,jetstream-asmjs-towers,3729
+Cortex-A53,r31430,jetstream-asmjs-bigfib,4661
+Cortex-A53,r31430,jetstream-asmjs-container,28358
+Cortex-A53,r31430,jetstream-asmjs-dry,6020
+Cortex-A53,r31430,jetstream-asmjs-float-mm,9843
+Cortex-A53,r31430,jetstream-asmjs-gcc-loops,46910
+Cortex-A53,r31430,jetstream-asmjs-n-body,12705
+Cortex-A53,r31430,jetstream-asmjs-quicksort,2493
+Cortex-A53,r31430,jetstream-asmjs-towers,3730
+Cortex-A53,r31430,jetstream-asmjs-bigfib,4693
+Cortex-A53,r31430,jetstream-asmjs-container,28246
+Cortex-A53,r31430,jetstream-asmjs-dry,6154
+Cortex-A53,r31430,jetstream-asmjs-float-mm,9847
+Cortex-A53,r31430,jetstream-asmjs-gcc-loops,46897
+Cortex-A53,r31430,jetstream-asmjs-n-body,12706
+Cortex-A53,r31430,jetstream-asmjs-quicksort,2493
+Cortex-A53,r31430,jetstream-asmjs-towers,3729
+Cortex-A53,r31430,jetstream-asmjs-bigfib,4693
+Cortex-A53,r31430,jetstream-asmjs-container,28363
+Cortex-A53,r31430,jetstream-asmjs-dry,6021
+Cortex-A53,r31430,jetstream-asmjs-float-mm,9843
+Cortex-A53,r31430,jetstream-asmjs-gcc-loops,46899
+Cortex-A53,r31430,jetstream-asmjs-n-body,12706
+Cortex-A53,r31430,jetstream-asmjs-quicksort,2493
+Cortex-A53,r31430,jetstream-asmjs-towers,3730
+Cortex-A57,r31430,asmjs-apps-box2d-loadtime,2794
+Cortex-A57,r31430,asmjs-apps-box2d-throughput,10425
+Cortex-A57,r31430,asmjs-apps-bullet-loadtime,7177
+Cortex-A57,r31430,asmjs-apps-bullet-throughput,16255
+Cortex-A57,r31430,asmjs-apps-lua_binarytrees-loadtime,1895
+Cortex-A57,r31430,asmjs-apps-lua_binarytrees-throughput,9552
+Cortex-A57,r31430,asmjs-apps-zlib-loadtime,1784
+Cortex-A57,r31430,asmjs-apps-zlib-throughput,7995
+Cortex-A57,r31430,asmjs-apps-box2d-loadtime,3056
+Cortex-A57,r31430,asmjs-apps-box2d-throughput,10459
+Cortex-A57,r31430,asmjs-apps-bullet-loadtime,7175
+Cortex-A57,r31430,asmjs-apps-bullet-throughput,15942
+Cortex-A57,r31430,asmjs-apps-lua_binarytrees-loadtime,1889
+Cortex-A57,r31430,asmjs-apps-lua_binarytrees-throughput,9644
+Cortex-A57,r31430,asmjs-apps-zlib-loadtime,1792
+Cortex-A57,r31430,asmjs-apps-zlib-throughput,7999
+Cortex-A57,r31430,asmjs-apps-box2d-loadtime,2799
+Cortex-A57,r31430,asmjs-apps-box2d-throughput,10441
+Cortex-A57,r31430,asmjs-apps-bullet-loadtime,7415
+Cortex-A57,r31430,asmjs-apps-bullet-throughput,15911
+Cortex-A57,r31430,asmjs-apps-lua_binarytrees-loadtime,1882
+Cortex-A57,r31430,asmjs-apps-lua_binarytrees-throughput,9416
+Cortex-A57,r31430,asmjs-apps-zlib-loadtime,1786
+Cortex-A57,r31430,asmjs-apps-zlib-throughput,7992
+Cortex-A57,r31430,asmjs-apps-box2d-loadtime,2801
+Cortex-A57,r31430,asmjs-apps-box2d-throughput,10429
+Cortex-A57,r31430,asmjs-apps-bullet-loadtime,7183
+Cortex-A57,r31430,asmjs-apps-bullet-throughput,16166
+Cortex-A57,r31430,asmjs-apps-lua_binarytrees-loadtime,1897
+Cortex-A57,r31430,asmjs-apps-lua_binarytrees-throughput,9509
+Cortex-A57,r31430,asmjs-apps-zlib-loadtime,1786
+Cortex-A57,r31430,asmjs-apps-zlib-throughput,7990
+Cortex-A57,r31430,asmjs-apps-box2d-loadtime,3056
+Cortex-A57,r31430,asmjs-apps-box2d-throughput,10411
+Cortex-A57,r31430,asmjs-apps-bullet-loadtime,7176
+Cortex-A57,r31430,asmjs-apps-bullet-throughput,16232
+Cortex-A57,r31430,asmjs-apps-lua_binarytrees-loadtime,1899
+Cortex-A57,r31430,asmjs-apps-lua_binarytrees-throughput,9446
+Cortex-A57,r31430,asmjs-apps-zlib-loadtime,1788
+Cortex-A57,r31430,asmjs-apps-zlib-throughput,8262
+Cortex-A57,r31430,asmjs-ubench-copy,13625
+Cortex-A57,r31430,asmjs-ubench-corrections,16486
+Cortex-A57,r31430,asmjs-ubench-fannkuch,16747
+Cortex-A57,r31430,asmjs-ubench-fasta,39289
+Cortex-A57,r31430,asmjs-ubench-life,18053
+Cortex-A57,r31430,asmjs-ubench-memops,31313
+Cortex-A57,r31430,asmjs-ubench-primes,17608
+Cortex-A57,r31430,asmjs-ubench-skinning,52578
+Cortex-A57,r31430,asmjs-ubench-copy,13886
+Cortex-A57,r31430,asmjs-ubench-corrections,16487
+Cortex-A57,r31430,asmjs-ubench-fannkuch,16028
+Cortex-A57,r31430,asmjs-ubench-fasta,39291
+Cortex-A57,r31430,asmjs-ubench-life,18049
+Cortex-A57,r31430,asmjs-ubench-memops,31038
+Cortex-A57,r31430,asmjs-ubench-primes,17608
+Cortex-A57,r31430,asmjs-ubench-skinning,53606
+Cortex-A57,r31430,asmjs-ubench-copy,13624
+Cortex-A57,r31430,asmjs-ubench-corrections,16487
+Cortex-A57,r31430,asmjs-ubench-fannkuch,16401
+Cortex-A57,r31430,asmjs-ubench-fasta,39282
+Cortex-A57,r31430,asmjs-ubench-life,18049
+Cortex-A57,r31430,asmjs-ubench-memops,31039
+Cortex-A57,r31430,asmjs-ubench-primes,17607
+Cortex-A57,r31430,asmjs-ubench-skinning,52623
+Cortex-A57,r31430,asmjs-ubench-copy,13623
+Cortex-A57,r31430,asmjs-ubench-corrections,16487
+Cortex-A57,r31430,asmjs-ubench-fannkuch,15756
+Cortex-A57,r31430,asmjs-ubench-fasta,39289
+Cortex-A57,r31430,asmjs-ubench-life,17496
+Cortex-A57,r31430,asmjs-ubench-memops,31036
+Cortex-A57,r31430,asmjs-ubench-primes,17608
+Cortex-A57,r31430,asmjs-ubench-skinning,52221
+Cortex-A57,r31430,asmjs-ubench-copy,13624
+Cortex-A57,r31430,asmjs-ubench-corrections,16489
+Cortex-A57,r31430,asmjs-ubench-fannkuch,16576
+Cortex-A57,r31430,asmjs-ubench-fasta,39313
+Cortex-A57,r31430,asmjs-ubench-life,18050
+Cortex-A57,r31430,asmjs-ubench-memops,31077
+Cortex-A57,r31430,asmjs-ubench-primes,17607
+Cortex-A57,r31430,asmjs-ubench-skinning,53284
+Cortex-A57,r31430,jetstream-asmjs-bigfib,2185
+Cortex-A57,r31430,jetstream-asmjs-container,15618
+Cortex-A57,r31430,jetstream-asmjs-dry,4062
+Cortex-A57,r31430,jetstream-asmjs-float-mm,2583
+Cortex-A57,r31430,jetstream-asmjs-gcc-loops,17466
+Cortex-A57,r31430,jetstream-asmjs-n-body,5812
+Cortex-A57,r31430,jetstream-asmjs-quicksort,1978
+Cortex-A57,r31430,jetstream-asmjs-towers,1502
+Cortex-A57,r31430,jetstream-asmjs-bigfib,2423
+Cortex-A57,r31430,jetstream-asmjs-container,15653
+Cortex-A57,r31430,jetstream-asmjs-dry,4125
+Cortex-A57,r31430,jetstream-asmjs-float-mm,2598
+Cortex-A57,r31430,jetstream-asmjs-gcc-loops,17478
+Cortex-A57,r31430,jetstream-asmjs-n-body,5538
+Cortex-A57,r31430,jetstream-asmjs-quicksort,1726
+Cortex-A57,r31430,jetstream-asmjs-towers,1551
+Cortex-A57,r31430,jetstream-asmjs-bigfib,2453
+Cortex-A57,r31430,jetstream-asmjs-container,15764
+Cortex-A57,r31430,jetstream-asmjs-dry,4055
+Cortex-A57,r31430,jetstream-asmjs-float-mm,2624
+Cortex-A57,r31430,jetstream-asmjs-gcc-loops,17347
+Cortex-A57,r31430,jetstream-asmjs-n-body,5537
+Cortex-A57,r31430,jetstream-asmjs-quicksort,1690
+Cortex-A57,r31430,jetstream-asmjs-towers,1502
+Cortex-A57,r31430,jetstream-asmjs-bigfib,2156
+Cortex-A57,r31430,jetstream-asmjs-container,15876
+Cortex-A57,r31430,jetstream-asmjs-dry,4055
+Cortex-A57,r31430,jetstream-asmjs-float-mm,2584
+Cortex-A57,r31430,jetstream-asmjs-gcc-loops,17419
+Cortex-A57,r31430,jetstream-asmjs-n-body,5812
+Cortex-A57,r31430,jetstream-asmjs-quicksort,1678
+Cortex-A57,r31430,jetstream-asmjs-towers,1506
+Cortex-A57,r31430,jetstream-asmjs-bigfib,2153
+Cortex-A57,r31430,jetstream-asmjs-container,15940
+Cortex-A57,r31430,jetstream-asmjs-dry,4054
+Cortex-A57,r31430,jetstream-asmjs-float-mm,2583
+Cortex-A57,r31430,jetstream-asmjs-gcc-loops,17472
+Cortex-A57,r31430,jetstream-asmjs-n-body,5538
+Cortex-A57,r31430,jetstream-asmjs-quicksort,1676
+Cortex-A57,r31430,jetstream-asmjs-towers,1504
