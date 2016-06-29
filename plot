@@ -336,6 +336,14 @@ if ("$sort" == "ref") {
   data\$Benchmark <- factor(data\$Benchmark, levels=data.order\$Benchmark)
 }
 
+# The built-in 'percent' function sometimes produces NaNs for negative ratios,
+# so we override it.
+Percent <- function(ratio) {
+  sign <- ifelse(ratio < 0, "-", "")
+  magnitude <- percent(abs(ratio))
+  paste0(sign, magnitude)
+}
+
 # Actually plot the graph.
 set_count <- length(levels(data\$Set))
 benchmark_count <- length(levels(data\$Benchmark))
@@ -403,7 +411,7 @@ plot <- plot +
         theme(legend.key = element_blank()) +
         theme(legend.title.align = 0.5) +
         scale_y_continuous(breaks=1:benchmark_count, labels=levels(data\$Benchmark), expand=c(0,0.25)) +
-        scale_x_continuous(labels=percent, expand=c(0,0), limits=c(plot.xmin, plot.xmax)) +
+        scale_x_continuous(labels=Percent, expand=c(0,0), limits=c(plot.xmin, plot.xmax)) +
         scale_alpha_continuous(guide=FALSE, range=c(min(data\$Alpha), max(data\$Alpha))) +
         scale_colour_manual(values=colours, guide=$legend) +
         annotate("segment", x=0, xend=0, y=0, yend=max(data\$Y)+1, colour="#999999", size=0.15) +
@@ -442,8 +450,8 @@ if ('$overplot' == 'alpha') {
 
 if ($annotations{'label-delta'}) {
   if (length(which(!data\$IsBaseline)) > 0) {
-    plot <- plot + geom_text(aes(x=RelGroupMin+plot.labelpad, y=Y, label=percent(RelGroupRef)), colour='#dddddd', size=2, hjust=0, stat="unique", subset=.(!IsBaseline))
-    plot <- plot + geom_text(aes(x=RelGroupMin+plot.labelpad, y=Y, label=percent(RelGroupRef), colour=Set), alpha=0.3, size=2, hjust=0, stat="unique", subset=.(!IsBaseline))
+    plot <- plot + geom_text(aes(x=RelGroupMin+plot.labelpad, y=Y, label=Percent(RelGroupRef)), colour='#dddddd', size=2, hjust=0, stat="unique", subset=.(!IsBaseline))
+    plot <- plot + geom_text(aes(x=RelGroupMin+plot.labelpad, y=Y, label=Percent(RelGroupRef), colour=Set), alpha=0.3, size=2, hjust=0, stat="unique", subset=.(!IsBaseline))
   }
 }
 
