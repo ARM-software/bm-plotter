@@ -22,3 +22,5 @@
   in R, but its CLI tools seem to be pretty rudimentary.
 - Handle unicode (UTF-8) in the CSV file, for column labels and suchlike.
 - Duplicate the X axis scale at the top of the plot.
+- The plot script hangs if the input lacks an EOL on the last line. This could
+  be improved.
