@@ -450,8 +450,8 @@ if ('$overplot' == 'alpha') {
 
 if ($annotations{'label-delta'}) {
   if (length(which(!data\$IsBaseline)) > 0) {
-    plot <- plot + geom_text(aes(x=RelGroupMin+plot.labelpad, y=Y, label=Percent(RelGroupRef)), colour='#dddddd', size=2, hjust=0, stat="unique", subset=.(!IsBaseline))
-    plot <- plot + geom_text(aes(x=RelGroupMin+plot.labelpad, y=Y, label=Percent(RelGroupRef), colour=Set), alpha=0.3, size=2, hjust=0, stat="unique", subset=.(!IsBaseline))
+    plot <- plot + geom_text(aes(x=RelGroupMin+plot.labelpad, y=Y, label=Percent(RelGroupRef)), colour='#dddddd', size=2, hjust=0, stat="unique", data=data[!data\$IsBaseline,])
+    plot <- plot + geom_text(aes(x=RelGroupMin+plot.labelpad, y=Y, label=Percent(RelGroupRef), colour=Set), alpha=0.3, size=2, hjust=0, stat="unique", data=data[!data\$IsBaseline,])
   }
 }
 

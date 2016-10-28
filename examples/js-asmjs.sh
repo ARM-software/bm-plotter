@@ -9,4 +9,4 @@ set -eu
 SCRIPT_DIR=`dirname "${BASH_SOURCE[0]}"`
 cd "$SCRIPT_DIR/.."
 
-./plot examples/data/js-asmjs.csv --out=examples/js-asmjs.svg
+./plot examples/data/js-asmjs.csv --out=examples/js-asmjs.svg --annotate=label-delta
