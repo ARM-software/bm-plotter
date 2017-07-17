@@ -42,11 +42,17 @@ trends and patterns can be spotted.
 
 CSV FORMAT
 
-  A header row naming the columns is required. The columns can appear in any
-  order, but the names of the columns are significant. In particular,
-  unrecognised columns will cause an error (on the basis that they're probably
-  typing errors). To remove unwanted columns from your input, use the `cut`
-  utility.
+  If a header row is provided, the columns can appear in any order. A header row
+  is taken to be any row where every element has one of the column names below.
+  This means that unrecognised column names will confuse the parser; use the
+  `cut` utility to clean unused columns from the input.
+
+  Header rows can also be provided part way through the input, taking effect
+  for all subsequent data rows (or until the next header row). This is useful
+  when concatenating several files into a single plot invocation.
+
+  If no header row is provided, columns will be interpreted in the order shown
+  below.
 
   Mandatory columns:
 

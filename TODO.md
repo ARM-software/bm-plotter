@@ -24,3 +24,5 @@
 - Duplicate the X axis scale at the top of the plot.
 - The plot script hangs if the input lacks an EOL on the last line. This could
   be improved.
+- Be more robust about input data. Ignore or warn about columns with
+  unrecognised names.
