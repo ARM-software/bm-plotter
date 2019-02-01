@@ -19,12 +19,16 @@ my $run_r = 1;
 my $legend = 1;
 my @annotation_list;
 my $sort = 'none';
-my $bigger_is_better = 0;
+# By default, the bigger values are placed on the left, so that it appears
+# smaller values are "better".
+my $direction = 'left';
 my $x_label = '';
 my $width = 1.0;
 my $height = 1.0;
 my $overplot = 'alpha';
 my $minalpha = 0.1;
+my $required_column_count = 3;
+my $maximum_column_count = 5;
 
 sub ExitWithUsage {
   my ($code) = @_;
@@ -59,7 +63,8 @@ CSV FORMAT
     Result (number):
       Some kind of result to plot. By default, results are assumed to be
       benchmark run times or equivalent, so smaller results are considered
-      better. To change this, use the --bigger-is-better option.
+      "better" and displayed further to the right. To change this, use the
+      --direction option or the optional Direction column.
 
     Benchmark (string):
       A name that uniquely identifies a benchmark.
@@ -80,6 +85,10 @@ CSV FORMAT
       platforms side-by-side, but it could also be used to show different result
       types (such as performance counter values) alongside the main result.
 
+    Direction (string)
+      If present, the direction will be set from this column, as either 'left'
+      or 'right'. If empty, the value will be taken from the --direction flag.
+
 OPTIONS
 
   -h, --help
@@ -88,17 +97,22 @@ OPTIONS
   --out=<result>
       Output file name. The default is '$out'.
 
+  --direction=<left|right>
+      Determine which way bigger results should be displayed on the graph. We
+      generally assume "better" results appear further to the right so this
+      affects what is considered to be "best".
+
+      By default, results are assumed to be benchmark run times or equivalent,
+      so bigger results are displayed to the left.
+
   --bigger-is-better
   --smaller-is-better
-      Determine which results are considered best. This also affects the display
-      order; better results appear further to the right.
-
-      By default, smaller is better.
+      Equivalent to '--direction=right' and '--direction=left' respectively.
 
   --reference=<best|worst|mean|median>
       Select the reference point. The default is '$reference'.
 
-      The meanings of 'best' and 'worst' change with --bigger-is-better.
+      The meanings of 'best' and 'worst' change with --direction.
 
   --colours=...
       Manually set colours to use for each 'Set'.
@@ -181,8 +195,9 @@ exit(1) unless GetOptions("help" => sub { ExitWithUsage(0) },
                           "overplot=s" => \$overplot,
                           "minalpha=f" => \$minalpha,
                           "annotations|annotate=s" => \@annotation_list,
-                          "bigger-is-better" => sub { $bigger_is_better = 1 },
-                          "smaller-is-better" => sub { $bigger_is_better = 0 },
+                          "direction=s" => \$direction,
+                          "bigger-is-better" => sub { $direction = 'right' },
+                          "smaller-is-better" => sub { $direction = 'left' },
                           "x-label=s" => \$x_label,
                           "width=f" => \$width,
                           "height=f" => \$height,
@@ -214,6 +229,11 @@ $minalpha = 1.0 unless ($minalpha < 1.0);
 # Treat "--colours=aaaaaa,bbbbbb" like "--colours=aaaaaa, --colours=bbbbbb".
 @colours = map { split(',', $_) } @colours;
 @annotation_list = map { split(',', $_) } @annotation_list;
+
+unless ($direction =~ /^(?:right|left)$/) {
+  print("Unsupported value for '--direction': $direction\n");
+  ExitWithUsage(1);
+}
 
 # Check colours.
 for my $colour (@colours) {
@@ -249,7 +269,7 @@ $legend = $legend ? '"legend"' : 'FALSE';
 my $csv_collated = File::Temp->new();   # TODO: Use mkfifo.
 my $csv = Text::CSV->new();
 
-my @columns = qw/ Column Set Benchmark Result /;
+my @columns = qw/ Direction Column Set Benchmark Result /;
 my %input_columns;
 my $column_count = 0;
 print($csv_collated "\n");
@@ -257,12 +277,14 @@ while (my $record = $csv->getline(*ARGV)) {
   next if ((@$record == 1) and ($record->[0] =~ /^\s*$/));
   die("Inconsistent column count") if ($column_count and ($column_count != @$record));
   $column_count = @$record;
-  die("Expected 3 or 4 columns") if (($column_count != 3) and ($column_count != 4));
+  die("Expected $required_column_count to $maximum_column_count columns")
+      if (($column_count < $required_column_count) or
+          ($column_count > $maximum_column_count));
 
   # If the record looks like a header, treat it as such.
   my %new_input_columns;
   for (my $i = 0; $i < $column_count; $i++) {
-    last unless ($record->[$i] =~ /^(Column|Set|Benchmark|Result)$/);
+    last unless ($record->[$i] =~ /^(Direction|Column|Set|Benchmark|Result)$/);
     $new_input_columns{$record->[$i]} = $i;
   }
   if (keys(%new_input_columns) == $column_count) {
@@ -294,26 +316,28 @@ library(scales, quietly=TRUE)
 library(gtable, quietly=TRUE)
 
 data <- read.csv(file('$csv_collated'), header=FALSE,
-                 col.names=c('Column', 'Set', 'Benchmark', 'Result'),
-                 colClasses=c('character', 'character', 'character', 'numeric'))
+                 col.names=c('Direction', 'Column', 'Set', 'Benchmark', 'Result'),
+                 colClasses=c('character', 'character', 'character', 'character', 'numeric'))
 if (length(row.names(data)) == 0) {
   cat("No input data for '$out'.\n");
   quit(status=1);
 }
 cat("Generating graph '$out'...\n");
 
+# Set the default Direction depending on the --direction flag.
+data\$Direction <- ifelse(data\$Direction == "", "$direction", data\$Direction)
+
 # Manually convert strings to factors so we can preserve the ordering.
 data\$Set <- factor(data\$Set, unique(data\$Set))
 data\$Benchmark <- factor(data\$Benchmark, rev(unique(data\$Benchmark)))
 data\$Column <- factor(data\$Column, unique(data\$Column))
+data\$Direction <- factor(data\$Direction, unique(data\$Direction))
 
 # Drop everything that we don't recognise.
-data <- data[, c("Column", "Set", "Benchmark", "Result")]
+data <- data[, c("Direction", "Column", "Set", "Benchmark", "Result")]
 
-# Normalise to smaller-is-better.
-if ($bigger_is_better) {
-  data\$Result <- 1 / data\$Result;
-}
+# Normalise to direction == "right".
+data\$Result <- ifelse(data\$Direction == "right", 1 / data\$Result, data\$Result)
 
 # Assign baseline tags per group, in case some results are missing.
 data <- ddply(data, c("Column", "Benchmark"), transform,
