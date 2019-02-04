@@ -300,13 +300,11 @@ while (my $record = $csv->getline(*ARGV)) {
 
   # Print the fields in the proper order.
   @$record = map {
-    exists($input_columns{$_}) ? $record->[$input_columns{$_}] : 'DUMMY'
+    exists($input_columns{$_}) ? $record->[$input_columns{$_}] : ''
   } @columns;
   $csv->print($csv_collated, $record);
   print($csv_collated "\n");
 }
-
-my $facet = ($column_count == 4) ? 1 : 0;
 
 my $src = <<R
 library(grid, quietly=TRUE)
@@ -402,7 +400,8 @@ if (length(colours) == 0) {
 }
 
 plot <- ggplot(data=data)
-if ($facet) {
+# Display a facet with column names if there is at least one non-empty value.
+if (any(unique(data\$Column) != "")) {
   plot <- plot + facet_grid(. ~ Column)
 }
 
