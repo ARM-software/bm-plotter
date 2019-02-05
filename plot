@@ -429,9 +429,16 @@ if ($annotations{'hgrid'}) {
   plot <- plot + geom_rect(data=data, aes(ymin=YBase-0.55, ymax=YBase-0.45), xmin=plot.xmin, xmax=plot.xmax, stat="unique", fill="#f8f8f8")
 }
 
-plot <- plot +
+# Version 2.2.0 of ggplot2 deprecated panel.margin in favour of
+# panel.spacing. However, Ubuntu 16.04 still ships version 2.0.0.
+if (packageVersion('ggplot2') < '2.2.0') {
+  spacing <- theme(panel.margin = unit(4, "mm"))
+} else {
+  spacing <- theme(panel.spacing = unit(4, "mm"))
+}
+
+plot <- plot + spacing +
         theme(panel.background = element_rect(fill="#ffffff")) +
-        theme(panel.margin = unit(4, "mm")) +
         theme(axis.ticks = element_blank()) +
         theme(axis.text = element_text(size=8)) +
         theme(axis.title.y = element_blank()) +
