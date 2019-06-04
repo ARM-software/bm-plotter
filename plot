@@ -203,6 +203,13 @@ exit(1) unless GetOptions("help" => sub { ExitWithUsage(0) },
                           "height=f" => \$height,
                           "run-R!" => \$run_r);  # Note that --[no-]run-R is undocumented.
 
+# Ensure that we can safely paste "$out" into the R source as a double-quoted string.
+if ($out =~ /["\\\0]/) {
+  print("Unsupported value for '--out': $out\n");
+  print("Pick something that doesn't require escaping for an R double-quoted string.\n");
+  exit(1);
+}
+
 # All of the possible values for --reference are just R functions, so once
 # validated, we don't need to process it further.
 unless ($reference =~ /^(?:best|worst|mean|median)$/) {
@@ -508,7 +515,7 @@ if ($annotations{'vgrid'}) {
 # are added.
 width <- 8 + (length(levels(data\$Column)) * 14 * $width)
 height <- 3 + (benchmark_count * y_steps_per_row * 0.2 * $height)
-ggsave('$out', width=width/2.54, height=height/2.54, limitsize=FALSE)
+ggsave("$out", width=width/2.54, height=height/2.54, limitsize=FALSE)
 R
 ;
 
