@@ -16,6 +16,18 @@ bm-plotter depends on the following Ubuntu packages (or equivalents):
     r-cran-ggplot2
     libstatistics-r-perl
     libtext-csv-perl
+    libcairo2-dev
+
+Some package managers may lack the 'svglite' R package, resulting in the error:
+ "there is no package called 'svglite'"
+
+In that case, you can install it (and its dependencies) directly in R using
+something like the following commands:
+
+    $ sudo R
+    > install.packages("Rcpp")
+    > install.packages("gdtools")
+    > install.packages("svglite")
 
 ## Usage
 
