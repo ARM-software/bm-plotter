@@ -58,16 +58,19 @@ CSV FORMAT
   If no header row is provided, columns will be interpreted in the order shown
   below.
 
+  Optional columns:
+
+    Direction (string)
+      If present, the direction will be set from this column, as either 'left'
+      or 'right'. If empty, the value will be taken from the --direction flag.
+
+    Column (string):
+      If present, a separate graph will be drawn (side-by-side) for each value
+      of Column. Typically, this can be used to show results from multiple
+      platforms side-by-side, but it could also be used to show different result
+      types (such as performance counter values) alongside the main result.
+
   Mandatory columns:
-
-    Result (number):
-      Some kind of result to plot. By default, results are assumed to be
-      benchmark run times or equivalent, so smaller results are considered
-      "better" and displayed further to the right. To change this, use the
-      --direction option or the optional Direction column.
-
-    Benchmark (string):
-      A name that uniquely identifies a benchmark.
 
     Set (string):
       The name of the sets that you want to compare. Typically, this will be a
@@ -77,17 +80,14 @@ CSV FORMAT
       baseline. Sort your input data accordingly. (The baseline determines the
       horizontal position of the benchmark results.)
 
-  Optional columns:
+    Benchmark (string):
+      A name that uniquely identifies a benchmark.
 
-    Column (string):
-      If present, a separate graph will be drawn (side-by-side) for each value
-      of Column. Typically, this can be used to show results from multiple
-      platforms side-by-side, but it could also be used to show different result
-      types (such as performance counter values) alongside the main result.
-
-    Direction (string)
-      If present, the direction will be set from this column, as either 'left'
-      or 'right'. If empty, the value will be taken from the --direction flag.
+    Result (number):
+      Some kind of result to plot. By default, results are assumed to be
+      benchmark run times or equivalent, so smaller results are considered
+      "better" and displayed further to the right. To change this, use the
+      --direction option or the optional Direction column.
 
 OPTIONS
 
