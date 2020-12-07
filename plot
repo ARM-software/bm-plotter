@@ -19,6 +19,7 @@ my $run_r = 1;
 my $legend = 1;
 my @annotation_list;
 my $sort = 'none';
+my $baseline = '';
 # By default, the bigger values are placed on the left, so that it appears
 # smaller values are "better".
 my $direction = 'left';
@@ -114,6 +115,12 @@ OPTIONS
 
       The meanings of 'best' and 'worst' change with --direction.
 
+  --baseline=<set>
+      Manually specify which value from 'Set' is to be used as the baseline
+      reference.
+
+      By default, we pick the first value that appears.
+
   --colours=...
       Manually set colours to use for each 'Set'.
 
@@ -192,6 +199,7 @@ exit(1) unless GetOptions("help" => sub { ExitWithUsage(0) },
                           "colours=s" => \@colours,
                           "legend!" => \$legend,
                           "sort=s" => \$sort,
+                          "baseline=s" => \$baseline,
                           "overplot=s" => \$overplot,
                           "minalpha=f" => \$minalpha,
                           "annotations|annotate=s" => \@annotation_list,
@@ -331,6 +339,13 @@ cat("Generating graph '$out'...\n");
 
 # Set the default Direction depending on the --direction flag.
 data\$Direction <- ifelse(data\$Direction == "", "$direction", data\$Direction)
+
+if ("$baseline" != "") {
+  # Select the baseline by re-ordering the sets.
+  set_order = unique(data\$Set)
+  set_order = append("$baseline", set_order[set_order != "$baseline"])
+  data <- data[order(factor(data\$Set, levels=set_order)),]
+}
 
 # Manually convert strings to factors so we can preserve the ordering.
 data\$Set <- factor(data\$Set, unique(data\$Set))
